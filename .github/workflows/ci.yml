@@ -26,6 +26,13 @@ jobs:
         repository: 'szabgab/ladino-diksionaryo-code'
         path: ladino-diksionaryo-code
 
+    - name: Checkout the ladino-diksionaryo-data
+      uses: actions/checkout@v2
+      with:
+        repository: 'szabgab/ladino-diksionaryo-data'
+        path: ladino-diksionaryo-data
+
+
     - name: Checkout the  LibreLingo-Judeo-Spanish-from-English repo
       uses: actions/checkout@v2
       with:
@@ -39,7 +46,7 @@ jobs:
 
     - name: Generate HTML pages
       run: |
-          python ladino-diksionaryo-code/generate.py --course LibreLingo-Judeo-Spanish-from-English/course/ --html docs --log
+          python ladino-diksionaryo-code/generate.py --dictionary ladino-diksionaryo-data/words --course LibreLingo-Judeo-Spanish-from-English/course/ --html docs --log
           echo diksionaryo.szabgab.com > docs/CNAME
 
     - name: Commit new files

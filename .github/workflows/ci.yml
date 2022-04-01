@@ -1,0 +1,59 @@
+name: CI
+
+on:
+  push:
+  schedule:
+    - cron: '9 * * * *'
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    name: Generate HTML
+
+    steps:
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.9
+
+    - name: Checkout this repo
+      uses: actions/checkout@v2
+
+    - name: Checkout the ladino-diksionaryo-code
+      uses: actions/checkout@v2
+      with:
+        repository: 'szabgab/ladino-diksionaryo-code'
+        path: ladino-diksionaryo-code
+
+    - name: Checkout the  LibreLingo-Judeo-Spanish-from-English repo
+      uses: actions/checkout@v2
+      with:
+        repository: 'szabgab/LibreLingo-Judeo-Spanish-from-English'
+        path: LibreLingo-Judeo-Spanish-from-English
+
+    - name: Install dependencies
+      run: |
+          python -V
+          pip install -r ladino-diksionaryo-code/requirements.txt
+
+    - name: Generate HTML pages
+      run: |
+          python ladino-diksionaryo-code/generate.py --course LibreLingo-Judeo-Spanish-from-English/course/ --html docs --log
+          echo diksionaryo.szabgab.com > docs/CNAME
+
+    - name: Commit new files
+      if: github.repository == 'szabgab/ladino-diksionaryo-generated'
+      run: |
+        GIT_STATUS=$(git status --porcelain)
+        GIT_COUNT=$(git status --porcelain|wc -l)
+        echo $GIT_STATUS
+        echo "count=$GIT_COUNT"
+        git config --global user.name 'Gabor Szabo'
+        git config --global user.email 'gabor@szabgab.com'
+        git add .
+        #if [ "$GIT_STATUS" != "" ] && [ "$GIT_COUNT" != "1" ]; then git commit -m "Automated Web page generation"; fi
+        #if [ "$GIT_STATUS" != "" ] && [ "$GIT_COUNT" != "1" ]; then git push; fi
+        if [ $GIT_COUNT -gt 1 ]; then git commit -m "Automated Web page generation"; fi
+        if [ $GIT_COUNT -gt 1 ]; then git push; fi
+

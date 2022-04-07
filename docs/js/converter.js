@@ -3,7 +3,6 @@ $(document).ready(function(){
     var ladino_to_english = null;
     var dictionary = null;
     var loaded = 0;
-    var direction = 'ladino-to-english';
     const languages = ['english', 'french', 'hebrew', 'portuguese', 'spanish', 'turkish'];
     const language_names = {
         'english'    : 'Inglez',
@@ -13,16 +12,12 @@ $(document).ready(function(){
         'spanish'    : 'Kasteyano',
         'turkish'    : 'Turko'
     };
-
-    // const update_direction_selector = function() {
-    //     $('#ladino-to-english').removeClass('is-warning');
-    //     $('#english-to-ladino').removeClass('is-warning');
-    //     $('#' + direction).addClass('is-warning');
-    // };
+    // We save the text in local storage and restore it when the user visits next time.
+    // especially useful when people click on words and than get back to the main page.
+    $("#input-text").val(localStorage.getItem('original'));
 
     var try_translate = function() {
         if (loaded == 3) {
-            // update_direction_selector();
             translate();
         }
     };
@@ -31,6 +26,9 @@ $(document).ready(function(){
     }
     function word_links(words, language) {
         words = words.filter(onlyUnique);
+        if (language != 'ladino') {
+            return words;
+        }
         let links = Array();
         for (let tx=0; tx < words.length; tx++) {
             links.push(`<a href="/words/${language}/${words[tx]}.html">${words[tx]}</a>`);
@@ -40,8 +38,7 @@ $(document).ready(function(){
 
     var translate = function() {
         const original = $("#input-text").val();
-        //const cleaned = original.replace(/["';,!?.:]/g, " ");
-        //const cleaned = original.replace(/[^a-zA-Z-]/g, " ");
+        localStorage.setItem('original', original);
         const cleaned = original.replace(/[<>,.:!?"'\n*()=\[\]]/g, " ");
         const words = cleaned.split(" ");
         var html = `<table class="table">`;
@@ -166,16 +163,5 @@ $(document).ready(function(){
     });
 
     $('#input-text').bind('input propertychange', translate);
-    //$("#ladino-to-english").click(function() {
-    //    direction = 'ladino-to-english';
-    //    update_direction_selector();
-    //    translate();
-    //});
-    //$("#english-to-ladino").click(function() {
-    //    direction = 'english-to-ladino';
-    //    update_direction_selector();
-    //    translate();
-    //});
-    //update_direction_selector();
 });
 

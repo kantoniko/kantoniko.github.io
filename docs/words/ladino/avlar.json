@@ -1,1 +1,1 @@
-[{"accented": "avlar", "examples": [{"ladino": "Sera posivle de avlar sovre alguna unika  kultura?"}], "ladino": "avlar", "source": "avlar.yaml", "translations": {"english": "speak", "french": "parler", "portuguese": "falar", "spanish": "hablar", "turkish": "konumak"}}]
+[{"accented": "avlar", "examples": [{"ladino": "Sera posivle de avlar sovre alguna unika  kultura?"}], "ladino": "avlar", "source": "avlar.yaml", "translations": {"english": ["speak"], "french": ["parler"], "portuguese": ["falar"], "spanish": ["hablar"], "turkish": ["konumak"]}}]

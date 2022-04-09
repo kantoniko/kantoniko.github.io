@@ -1,1 +1,1 @@
-[{"accented": "aguzár", "examples": [{"ladino": "Dame los kuchiyos para aguzar."}], "ladino": "aguzar", "source": "aguzar.yaml", "translations": {"english": "sharpen", "french": "aiguiser", "portuguese": "afiar", "spanish": "afilar", "turkish": "bilemek"}}]
+[{"accented": "aguzár", "examples": [{"ladino": "Dame los kuchiyos para aguzar."}], "ladino": "aguzar", "source": "aguzar.yaml", "translations": {"english": ["sharpen"], "french": ["aiguiser"], "portuguese": ["afiar"], "spanish": ["afilar"], "turkish": ["bilemek"]}}]

@@ -1,1 +1,1 @@
-[{"accented": "abandonár", "examples": [{"ladino": "Nunka no mos van abandonar."}], "ladino": "abandonar", "source": "abandonar.yaml", "translations": {"english": "abandon", "french": "abandonner", "portuguese": "abandonar", "spanish": "abandonar", "turkish": "terk etmek"}}]
+[{"accented": "abandonár", "examples": [{"ladino": "Nunka no mos van abandonar."}], "ladino": "abandonar", "source": "abandonar.yaml", "translations": {"english": ["abandon"], "french": ["abandonner"], "portuguese": ["abandonar"], "spanish": ["abandonar"], "turkish": ["terk etmek"]}}]

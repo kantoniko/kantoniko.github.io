@@ -1,1 +1,1 @@
-[{"accented": "astronomiko", "alternative-spelling": [{"accented": "a", "ladino": "a"}], "ladino": "astronomiko", "source": "astronomiko.yaml", "translations": {"english": ["astronomical"], "french": [], "portuguese": [], "spanish": ["astronómico / a"], "turkish": ["astronomik"]}}]
+[{"accented": "astronomiko", "gender": "masculine", "ladino": "astronomiko", "number": "singular", "source": "astronomiko.yaml", "translations": {"english": ["astronomical"], "french": [], "portuguese": [], "spanish": ["astronómico"], "turkish": ["astronomik"]}}]

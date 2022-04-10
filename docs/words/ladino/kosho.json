@@ -1,1 +1,1 @@
-[{"accented": "kosho", "alternative-spelling": [{"accented": "a", "ladino": "a"}], "ladino": "kosho", "source": "kosho.yaml", "translations": {"english": ["lame", "limping"], "french": [], "portuguese": [], "spanish": ["cojo / a"], "turkish": ["topal"]}}]
+[{"accented": "kosho", "gender": "masculine", "ladino": "kosho", "number": "singular", "source": "kosho.yaml", "translations": {"english": ["lame", "limping"], "french": [], "portuguese": [], "spanish": ["cojo"], "turkish": ["topal"]}}]

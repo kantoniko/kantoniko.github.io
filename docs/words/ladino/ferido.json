@@ -1,1 +1,1 @@
-[{"accented": "ferido", "alternative-spelling": [{"accented": "a", "ladino": "a"}], "ladino": "ferido", "source": "ferido.yaml", "translations": {"english": ["hurt"], "french": [], "portuguese": [], "spanish": ["herido / a"], "turkish": ["acı çeken", "yaralı"]}}]
+[{"accented": "ferido", "gender": "masculine", "ladino": "ferido", "number": "singular", "source": "ferido.yaml", "translations": {"english": ["hurt"], "french": [], "portuguese": [], "spanish": ["herido"], "turkish": ["acı çeken", "yaralı"]}}]

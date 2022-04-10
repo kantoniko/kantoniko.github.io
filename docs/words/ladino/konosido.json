@@ -1,1 +1,1 @@
-[{"accented": "konosido", "alternative-spelling": [{"accented": "a", "ladino": "a"}], "ladino": "konosido", "source": "konosido.yaml", "translations": {"english": ["well-known", "familiar"], "french": [], "portuguese": [], "spanish": ["conocido / a"], "turkish": ["meihur", "tanıdık"]}}]
+[{"accented": "konosido", "gender": "masculine", "ladino": "konosido", "number": "singular", "source": "konosido.yaml", "translations": {"english": ["well-known", "familiar"], "french": [], "portuguese": [], "spanish": ["conocido"], "turkish": ["meihur", "tanıdık"]}}]

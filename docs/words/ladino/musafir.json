@@ -1,1 +1,1 @@
-[{"accented": "musafir", "ladino": "musafir", "source": "musafir.yaml", "translations": {"english": ["guest"], "french": [], "portuguese": [], "spanish": ["huésped", "convidado"], "turkish": ["misafir", "konuk"]}}]
+[{"accented": "musafir", "gender": "masculine", "ladino": "musafir", "number": "singular", "source": "musafir.yaml", "translations": {"english": ["guest"], "french": [], "portuguese": [], "spanish": ["huésped", "convidado"], "turkish": ["misafir", "konuk"]}}]

@@ -1,1 +1,1 @@
-[{"accented": "maldicho", "alternative-spelling": [{"accented": "a", "ladino": "a"}], "ladino": "maldicho", "source": "maldicho.yaml", "translations": {"english": ["damned"], "french": [], "portuguese": [], "spanish": ["maldito / a"], "turkish": ["lânetli"]}}]
+[{"accented": "maldicho", "gender": "masculine", "ladino": "maldicho", "number": "singular", "source": "maldicho.yaml", "translations": {"english": ["damned"], "french": [], "portuguese": [], "spanish": ["maldito"], "turkish": ["lânetli"]}}]

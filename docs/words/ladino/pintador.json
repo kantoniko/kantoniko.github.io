@@ -1,1 +1,1 @@
-[{"accented": "pintador", "alternative-spelling": [{"accented": "a", "ladino": "a"}], "ladino": "pintador", "source": "pintador.yaml", "translations": {"english": ["painter"], "french": [], "portuguese": [], "spanish": ["pintor - a"], "turkish": ["ressam"]}}]
+[{"accented": "pintador", "gender": "masculine", "ladino": "pintador", "number": "singular", "source": "pintador.yaml", "translations": {"english": ["painter"], "french": [], "portuguese": [], "spanish": ["pintor"], "turkish": ["ressam"]}}]

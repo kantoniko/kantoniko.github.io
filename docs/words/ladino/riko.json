@@ -1,1 +1,1 @@
-[{"accented": "riko", "alternative-spelling": [{"accented": "a", "ladino": "a"}], "ladino": "riko", "source": "riko.yaml", "translations": {"english": ["rich"], "french": [], "portuguese": [], "spanish": ["rico / a"], "turkish": ["zengin"]}}]
+[{"accented": "riko", "gender": "masculine", "ladino": "riko", "number": "singular", "source": "riko.yaml", "translations": {"english": ["rich"], "french": [], "portuguese": [], "spanish": ["rico"], "turkish": ["zengin"]}}]

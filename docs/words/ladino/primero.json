@@ -1,1 +1,1 @@
-[{"accented": "primero", "alternative-spelling": [{"accented": "a", "ladino": "a"}], "ladino": "primero", "source": "primero.yaml", "translations": {"english": ["first"], "french": [], "portuguese": [], "spanish": ["primero / a"], "turkish": ["birinci"]}}]
+[{"accented": "primero", "gender": "masculine", "ladino": "primero", "number": "singular", "source": "primero.yaml", "translations": {"english": ["first"], "french": [], "portuguese": [], "spanish": ["primero"], "turkish": ["birinci"]}}]

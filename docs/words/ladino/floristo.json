@@ -1,1 +1,1 @@
-[{"accented": "floristo", "alternative-spelling": [{"accented": "a", "ladino": "a"}], "ladino": "floristo", "source": "floristo.yaml", "translations": {"english": ["florist"], "french": [], "portuguese": [], "spanish": ["florista"], "turkish": ["çiçekçi"]}}]
+[{"accented": "floristo", "gender": "masculine", "ladino": "floristo", "number": "singular", "source": "floristo.yaml", "translations": {"english": ["florist"], "french": [], "portuguese": [], "spanish": ["florista"], "turkish": ["çiçekçi"]}}]

@@ -1,1 +1,1 @@
-[{"accented": "uniko", "alternative-spelling": [{"accented": "a", "ladino": "a"}], "ladino": "uniko", "source": "uniko.yaml", "translations": {"english": ["unique"], "french": [], "portuguese": [], "spanish": ["único / a"], "turkish": ["tek"]}}]
+[{"accented": "uniko", "gender": "masculine", "ladino": "uniko", "number": "singular", "source": "uniko.yaml", "translations": {"english": ["unique"], "french": [], "portuguese": [], "spanish": ["único"], "turkish": ["tek"]}}]

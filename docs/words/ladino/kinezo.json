@@ -1,1 +1,1 @@
-[{"accented": "kinezo", "alternative-spelling": [{"accented": "a", "ladino": "a"}], "ladino": "kinezo", "source": "kinezo.yaml", "translations": {"english": ["Chinese"], "french": [], "portuguese": [], "spanish": ["chino / a"], "turkish": ["çinli"]}}]
+[{"accented": "kinezo", "gender": "masculine", "ladino": "kinezo", "number": "singular", "source": "kinezo.yaml", "translations": {"english": ["Chinese"], "french": [], "hebrew": ["סיני"], "portuguese": [], "spanish": ["chino"], "turkish": ["çinli"]}}]

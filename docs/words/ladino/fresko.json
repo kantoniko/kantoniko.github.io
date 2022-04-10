@@ -1,1 +1,1 @@
-[{"accented": "fresko", "alternative-spelling": [{"accented": "a", "ladino": "a"}], "ladino": "fresko", "source": "fresko.yaml", "translations": {"english": ["fresh"], "french": [], "portuguese": [], "spanish": ["fresco / a"], "turkish": ["serin", "taze"]}}]
+[{"accented": "fresko", "gender": "masculine", "ladino": "fresko", "number": "singular", "source": "fresko.yaml", "translations": {"english": ["fresh"], "french": [], "portuguese": [], "spanish": ["fresco"], "turkish": ["serin", "taze"]}}]

@@ -1,1 +1,1 @@
-[{"accented": "sudito", "alternative-spelling": [{"accented": "a", "ladino": "a"}], "ladino": "sudito", "source": "sudito.yaml", "translations": {"english": ["subject"], "french": [], "portuguese": [], "spanish": ["súbdito / a"], "turkish": ["tebaa", "uyruk"]}}]
+[{"accented": "sudito", "gender": "masculine", "ladino": "sudito", "number": "singular", "source": "sudito.yaml", "translations": {"english": ["subject"], "french": [], "portuguese": [], "spanish": ["súbdito"], "turkish": ["tebaa", "uyruk"]}}]

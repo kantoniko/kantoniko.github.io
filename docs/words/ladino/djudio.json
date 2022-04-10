@@ -1,1 +1,1 @@
-[{"accented": "djudio", "alternative-spelling": [{"accented": "a", "ladino": "a"}], "ladino": "djudio", "source": "djudio.yaml", "translations": {"english": ["Jew"], "french": [], "portuguese": [], "spanish": ["judío / a"], "turkish": ["yahudi", "musevi"]}}]
+[{"accented": "djudio", "gender": "masculine", "ladino": "djudio", "number": "singular", "source": "djudio.yaml", "translations": {"english": ["Jew"], "french": [], "portuguese": [], "spanish": ["judío"], "turkish": ["yahudi", "musevi"]}}]

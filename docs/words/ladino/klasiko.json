@@ -1,1 +1,1 @@
-[{"accented": "klasiko", "alternative-spelling": [{"accented": "a", "ladino": "a"}], "ladino": "klasiko", "source": "klasiko.yaml", "translations": {"english": ["classic"], "french": [], "portuguese": [], "spanish": ["clásico / a"], "turkish": ["klasik"]}}]
+[{"accented": "klasiko", "gender": "masculine", "ladino": "klasiko", "number": "singular", "source": "klasiko.yaml", "translations": {"english": ["classic"], "french": [], "portuguese": [], "spanish": ["clásico"], "turkish": ["klasik"]}}]

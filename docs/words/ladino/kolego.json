@@ -1,1 +1,1 @@
-[{"accented": "kolego", "alternative-spelling": [{"accented": "a", "ladino": "a"}], "ladino": "kolego", "source": "kolego.yaml", "translations": {"english": ["colleague"], "french": [], "portuguese": [], "spanish": ["colega"], "turkish": ["meslektaş"]}}]
+[{"accented": "kolego", "gender": "masculine", "ladino": "kolego", "number": "singular", "source": "kolego.yaml", "translations": {"english": ["colleague"], "french": [], "portuguese": [], "spanish": ["colega"], "turkish": ["meslektaş"]}}]

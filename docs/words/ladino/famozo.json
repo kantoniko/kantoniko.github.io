@@ -1,1 +1,1 @@
-[{"accented": "famozo", "alternative-spelling": [{"accented": "a", "ladino": "a"}], "ladino": "famozo", "source": "famozo.yaml", "translations": {"english": ["famous"], "french": [], "portuguese": [], "spanish": ["famoso / a"], "turkish": ["ünlü"]}}]
+[{"accented": "famozo", "gender": "masculine", "ladino": "famozo", "number": "singular", "source": "famozo.yaml", "translations": {"english": ["famous"], "french": [], "portuguese": [], "spanish": ["famoso"], "turkish": ["ünlü"]}}]

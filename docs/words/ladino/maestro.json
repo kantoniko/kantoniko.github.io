@@ -1,1 +1,1 @@
-[{"accented": "maestro", "alternative-spelling": [{"accented": "a", "ladino": "a"}], "ladino": "maestro", "source": "maestro.yaml", "translations": {"english": ["teacher", "master"], "french": [], "portuguese": [], "spanish": ["maestro / a"], "turkish": ["öğretmen", "usta"]}}]
+[{"accented": "maestro", "gender": "masculine", "ladino": "maestro", "number": "singular", "source": "maestro.yaml", "translations": {"english": ["teacher", "master"], "french": [], "portuguese": [], "spanish": ["maestro"], "turkish": ["öğretmen", "usta"]}}]

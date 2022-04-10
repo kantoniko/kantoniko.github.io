@@ -1,1 +1,1 @@
-[{"accented": "perfekto", "alternative-spelling": [{"accented": "a", "ladino": "a"}], "ladino": "perfekto", "source": "perfekto.yaml", "translations": {"english": ["perfect"], "french": [], "portuguese": [], "spanish": ["perfecto / a"], "turkish": ["mükemmel"]}}]
+[{"accented": "perfekto", "gender": "masculine", "ladino": "perfekto", "number": "singular", "source": "perfekto.yaml", "translations": {"english": ["perfect"], "french": [], "portuguese": [], "spanish": ["perfecto"], "turkish": ["mükemmel"]}}]

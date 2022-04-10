@@ -1,1 +1,1 @@
-[{"accented": "negativo", "alternative-spelling": [{"accented": "a", "ladino": "a"}], "ladino": "negativo", "source": "negativo.yaml", "translations": {"english": ["negative"], "french": [], "portuguese": [], "spanish": ["negativo / a"], "turkish": ["menfî", "olumsuz"]}}]
+[{"accented": "negativo", "gender": "masculine", "ladino": "negativo", "number": "singular", "source": "negativo.yaml", "translations": {"english": ["negative"], "french": [], "portuguese": [], "spanish": ["negativo"], "turkish": ["menfî", "olumsuz"]}}]

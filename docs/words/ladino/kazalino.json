@@ -1,1 +1,1 @@
-[{"accented": "kazalino", "alternative-spelling": [{"accented": "a", "ladino": "a"}], "ladino": "kazalino", "source": "kazalino.yaml", "translations": {"english": ["villager"], "french": [], "portuguese": [], "spanish": ["campesino / a", "pueblerino / a"], "turkish": ["köylü"]}}]
+[{"accented": "kazalino", "gender": "masculine", "ladino": "kazalino", "number": "singular", "source": "kazalino.yaml", "translations": {"english": ["villager"], "french": [], "portuguese": [], "spanish": ["campesino", "pueblerino"], "turkish": ["köylü"]}}]

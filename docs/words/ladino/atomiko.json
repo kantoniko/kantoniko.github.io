@@ -1,1 +1,1 @@
-[{"accented": "atomiko", "alternative-spelling": [{"accented": "a", "ladino": "a"}], "ladino": "atomiko", "source": "atomiko.yaml", "translations": {"english": ["atomic"], "french": [], "portuguese": [], "spanish": ["atómico / a"], "turkish": ["atomik"]}}]
+[{"accented": "atomiko", "gender": "masculine", "ladino": "atomiko", "number": "singular", "source": "atomiko.yaml", "translations": {"english": ["atomic"], "french": [], "portuguese": [], "spanish": ["atómico"], "turkish": ["atomik"]}}]

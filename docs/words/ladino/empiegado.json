@@ -1,1 +1,1 @@
-[{"accented": "empiegado", "alternative-spelling": [{"accented": "a", "ladino": "a"}], "ladino": "empiegado", "source": "empiegado.yaml", "translations": {"english": ["employee"], "french": [], "portuguese": [], "spanish": ["empleado / a"], "turkish": ["müstahdem"]}}]
+[{"accented": "empiegado", "gender": "masculine", "ladino": "empiegado", "number": "singular", "source": "empiegado.yaml", "translations": {"english": ["employee"], "french": [], "portuguese": [], "spanish": ["empleado"], "turkish": ["müstahdem"]}}]

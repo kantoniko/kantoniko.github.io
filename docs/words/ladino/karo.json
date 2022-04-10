@@ -1,1 +1,1 @@
-[{"accented": "karo", "alternative-spelling": [{"accented": "a", "ladino": "a"}], "ladino": "karo", "source": "karo.yaml", "translations": {"english": ["dear", "expensive"], "french": [], "portuguese": [], "spanish": ["caro / a"], "turkish": ["değerli", "pahalı"]}}]
+[{"accented": "karo", "gender": "masculine", "ladino": "karo", "number": "singular", "source": "karo.yaml", "translations": {"english": ["dear", "expensive"], "french": [], "portuguese": [], "spanish": ["caro"], "turkish": ["değerli", "pahalı"]}}]

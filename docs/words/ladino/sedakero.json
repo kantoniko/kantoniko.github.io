@@ -1,1 +1,1 @@
-[{"accented": "sedakero", "alternative-spelling": [{"accented": "a", "ladino": "a"}], "ladino": "sedakero", "source": "sedakero.yaml", "translations": {"english": ["beggar"], "french": [], "portuguese": [], "spanish": ["mendigo / a"], "turkish": ["dilenci"]}}]
+[{"accented": "sedakero", "gender": "masculine", "ladino": "sedakero", "number": "singular", "source": "sedakero.yaml", "translations": {"english": ["beggar"], "french": [], "portuguese": [], "spanish": ["mendigo"], "turkish": ["dilenci"]}}]

@@ -55,6 +55,8 @@ jobs:
         git add docs/
         #if [ "$GIT_STATUS" != "" ] && [ "$GIT_COUNT" != "1" ]; then git commit -m "Automated Web page generation"; fi
         #if [ "$GIT_STATUS" != "" ] && [ "$GIT_COUNT" != "1" ]; then git push; fi
-        if [ $GIT_COUNT -gt 1 ]; then git commit -m "Automated Web page generation"; fi
-        if [ $GIT_COUNT -gt 1 ]; then git push; fi
+        #if [ $GIT_COUNT -gt 1 ]; then git commit -m "Automated Web page generation"; fi
+        #if [ $GIT_COUNT -gt 1 ]; then git push; fi
+        git commit -m "Automated Web page generation"
+        git push
 

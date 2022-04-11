@@ -1,1 +1,1 @@
-[{"accented": "largo", "alternative-spelling": [{"accented": "a", "ladino": "a"}], "ladino": "largo", "source": "largo.yaml", "translations": {"english": ["long"], "french": [], "portuguese": [], "spanish": ["largo / a"], "turkish": ["uzun"]}}]
+[{"accented": "largo", "gender": "masculine", "ladino": "largo", "number": "singular", "source": "largo.yaml", "translations": {"english": ["long"], "french": [], "portuguese": [], "spanish": ["largo"], "turkish": ["uzun"]}}]

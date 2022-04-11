@@ -1,1 +1,1 @@
-[{"accented": "ningúno", "alternative-spelling": [{"accented": "ningúna", "ladino": "ninguna"}], "ladino": "ninguno", "source": "ninguno.yaml", "translations": {"english": ["none"], "french": [], "portuguese": [], "spanish": ["ninguno / ninguna"], "turkish": ["hiçbiri"]}}]
+[{"accented": "ningúna", "gender": "feminine", "ladino": "ninguna", "number": "singular", "source": "ninguno.yaml", "translations": {"english": ["none"], "french": [], "portuguese": [], "spanish": ["ninguna"], "turkish": ["hiçbiri"]}}]

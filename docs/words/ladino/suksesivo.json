@@ -1,1 +1,1 @@
-[{"accented": "suksesivo", "alternative-spelling": [{"accented": "a", "ladino": "a"}], "ladino": "suksesivo", "source": "suksesivo.yaml", "translations": {"english": ["successive"], "french": [], "portuguese": [], "spanish": ["sucesivo / a"], "turkish": ["müteakip"]}}]
+[{"accented": "suksesivo", "gender": "masculine", "ladino": "suksesivo", "number": "singular", "source": "suksesivo.yaml", "translations": {"english": ["successive"], "french": [], "portuguese": [], "spanish": ["sucesivo"], "turkish": ["müteakip"]}}]

@@ -1,1 +1,1 @@
-[{"accented": "viejo", "alternative-spelling": [{"accented": "a", "ladino": "a"}], "ladino": "viejo", "source": "viejo.yaml", "translations": {"english": ["old"], "french": [], "portuguese": [], "spanish": ["antiguo / a"], "turkish": ["eski"]}}]
+[{"accented": "viejo", "gender": "masculine", "ladino": "viejo", "number": "singular", "source": "viejo.yaml", "translations": {"english": ["old"], "french": [], "portuguese": [], "spanish": ["antiguo"], "turkish": ["eski"]}}]

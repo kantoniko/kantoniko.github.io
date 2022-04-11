@@ -1,1 +1,1 @@
-[{"accented": "maho", "alternative-spelling": [{"accented": "a", "ladino": "a"}], "ladino": "maho", "source": "maho.yaml", "translations": {"english": ["quiet"], "french": [], "portuguese": [], "spanish": ["majo / a"], "turkish": ["durgun"]}}]
+[{"accented": "maho", "gender": "masculine", "ladino": "maho", "number": "singular", "source": "maho.yaml", "translations": {"english": ["quiet"], "french": [], "portuguese": [], "spanish": ["majo"], "turkish": ["durgun"]}}]

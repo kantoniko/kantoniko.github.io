@@ -1,1 +1,1 @@
-[{"accented": "sekreto", "alternative-spelling": [{"accented": "a", "ladino": "a"}], "ladino": "sekreto", "source": "sekreto.yaml", "translations": {"english": ["secret"], "french": [], "portuguese": [], "spanish": ["secreto / a"], "turkish": ["gizli"]}}]
+[{"accented": "sekreto", "gender": "masculine", "ladino": "sekreto", "number": "singular", "source": "sekreto.yaml", "translations": {"english": ["secret"], "french": [], "portuguese": [], "spanish": ["secreto"], "turkish": ["gizli"]}}]

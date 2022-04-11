@@ -1,1 +1,1 @@
-[{"accented": "yeno", "alternative-spelling": [{"accented": "a", "ladino": "a"}], "ladino": "yeno", "source": "yeno.yaml", "translations": {"english": ["full"], "french": [], "portuguese": [], "spanish": ["lleno / a"], "turkish": ["dolu"]}}]
+[{"accented": "yeno", "gender": "masculine", "ladino": "yeno", "number": "singular", "source": "yeno.yaml", "translations": {"english": ["full"], "french": [], "portuguese": [], "spanish": ["lleno"], "turkish": ["dolu"]}}]

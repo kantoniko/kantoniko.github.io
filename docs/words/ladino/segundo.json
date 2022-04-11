@@ -1,1 +1,1 @@
-[{"accented": "segundo", "alternative-spelling": [{"accented": "a", "ladino": "a"}], "ladino": "segundo", "source": "segundo.yaml", "translations": {"english": ["second"], "french": [], "portuguese": [], "spanish": ["segundo / a"], "turkish": ["ikinci"]}}]
+[{"accented": "segundo", "gender": "masculine", "ladino": "segundo", "number": "singular", "source": "segundo.yaml", "translations": {"english": ["second"], "french": [], "portuguese": [], "spanish": ["segundo"], "turkish": ["ikinci"]}}]

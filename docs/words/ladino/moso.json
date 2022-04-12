@@ -1,1 +1,1 @@
-[{"accented": "moso", "alternative-spelling": [{"accented": "mosa", "ladino": "mosa"}], "ladino": "moso", "source": "moso.yaml", "translations": {"english": ["maid", "servant"], "french": [], "portuguese": [], "spanish": ["criada", "mozo / moza"], "turkish": ["hizmetçi"]}}]
+[{"accented": "moso", "gender": "masculine", "ladino": "moso", "number": "singular", "source": "moso.yaml", "translations": {"english": ["maid", "servant"], "french": [], "portuguese": [], "spanish": ["criada", "mozo"], "turkish": ["hizmetçi"]}}]

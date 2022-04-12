@@ -1,1 +1,1 @@
-[{"accented": "este", "ladino": "este", "source": "este.yaml", "translations": {"english": ["east"], "french": [], "portuguese": [], "spanish": ["este"], "turkish": ["doğu"]}}]
+[{"accented": "este", "gender": "masculine", "ladino": "este", "number": "singular", "source": "este.yaml", "translations": {"english": ["east", "this"], "french": [], "portuguese": [], "spanish": ["este"], "turkish": ["doğu", "bu"]}}]

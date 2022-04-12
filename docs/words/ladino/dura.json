@@ -1,1 +1,1 @@
-[{"accented": "dúro", "alternative-spelling": [{"accented": "dúra", "ladino": "dura"}], "examples": [{"ladino": "Para la karne dura, dyentes rezyos."}], "ladino": "duro", "source": "duro.yaml", "translations": {"english": ["hard"], "french": ["dure"], "portuguese": [], "spanish": ["duro / dura"], "turkish": ["sert", "zorlu"]}}]
+[{"accented": "dúra", "gender": "feminine", "ladino": "dura", "number": "singular", "source": "duro.yaml", "translations": {"english": ["hard"], "french": [], "portuguese": [], "spanish": ["dura"], "turkish": ["sert", "zorlu"]}}]

@@ -1,1 +1,1 @@
-[{"accented": "vozótros", "alternative-spelling": [{"accented": "vozótras", "ladino": "vozotras"}], "examples": [{"ladino": "Vozotros lo kulpash."}], "ladino": "vozotros", "source": "vozotros.yaml", "translations": {"english": ["you (pl.)"], "french": [], "portuguese": [], "spanish": ["vosotros"], "turkish": ["siz"]}}]
+[{"accented": "vozótras", "gender": "feminine", "ladino": "vozotras", "number": "plural", "source": "vozotros.yaml", "translations": {"english": ["you"], "french": [], "portuguese": [], "spanish": ["vosotras"], "turkish": ["siz"]}}]

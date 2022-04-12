@@ -1,1 +1,1 @@
-[{"accented": "éyos", "alternative-spelling": [{"accented": "éyas", "ladino": "eyas"}], "examples": [{"ladino": "No ay nada de esperar de eyos."}], "ladino": "eyos", "source": "eyos.yaml", "translations": {"english": ["they", "them"], "french": [], "portuguese": [], "spanish": ["ellos", "ellas"], "turkish": ["onlar"]}}]
+[{"accented": "éyas", "gender": "feminine", "ladino": "eyas", "number": "plural", "source": "eyos.yaml", "translations": {"english": ["they", "them"], "french": [], "portuguese": [], "spanish": ["ellas"], "turkish": ["onlar"]}}]

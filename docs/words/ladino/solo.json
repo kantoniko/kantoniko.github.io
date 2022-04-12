@@ -1,1 +1,1 @@
-[{"accented": "solo", "ladino": "solo", "source": "solo.yaml", "translations": {"english": ["only"], "french": [], "portuguese": [], "spanish": ["sólo"], "turkish": ["sadece"]}}]
+[{"accented": "sólo", "gender": "masculine", "ladino": "solo", "number": "singular", "source": "solo.yaml", "translations": {"english": ["only", "alone"], "french": [], "portuguese": [], "spanish": ["sólo"], "turkish": ["sadece", "yalnız"]}}]

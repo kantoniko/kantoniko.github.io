@@ -1,1 +1,1 @@
-[{"accented": "muestro", "alternative-spelling": [{"accented": "muestra", "ladino": "muestra"}], "ladino": "muestro", "source": "muestro.yaml", "translations": {"english": ["our"], "french": [], "portuguese": [], "spanish": ["nuestro / nuestra"], "turkish": ["bizim"]}}]
+[{"accented": "muestro", "gender": "masculine", "ladino": "muestro", "number": "plural", "source": "muestro.yaml", "translations": {"english": ["our"], "french": [], "portuguese": [], "spanish": ["nuestro"], "turkish": ["bizim"]}}]

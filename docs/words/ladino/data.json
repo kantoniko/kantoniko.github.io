@@ -1,1 +1,1 @@
-[{"accented": "data", "ladino": "data", "source": "data.yaml", "translations": {"english": ["date"], "french": [], "portuguese": [], "spanish": ["fecha"], "turkish": ["tarih"]}}]
+[{"accented": "dáta", "examples": [{"ladino": "Un buen merkader paga su bono a su data."}], "ladino": "data", "source": "data.yaml", "translations": {"english": ["date"], "french": [], "portuguese": [], "spanish": ["fecha"], "turkish": ["tarih", "gün", "ay", "yıl olarak"]}}]

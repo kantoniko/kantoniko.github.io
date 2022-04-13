@@ -1,1 +1,1 @@
-[{"accented": "eskritor", "alternative-spelling": [{"accented": "eskritora", "ladino": "eskritora"}], "comments": ["grammar: m/f"], "ladino": "eskritor", "source": "eskritor.yaml", "translations": {"english": ["writer"], "french": [], "portuguese": [], "spanish": ["escritor / escritora"], "turkish": ["yazar"]}}]
+[{"accented": "eskritór", "gender": "masculine", "ladino": "eskritor", "number": "singular", "source": "eskritor.yaml", "translations": {"english": ["writer"], "french": [], "portuguese": [], "spanish": ["escritor"], "turkish": ["yazar"]}}]

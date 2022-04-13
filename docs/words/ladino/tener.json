@@ -1,1 +1,1 @@
-[{"accented": "tener", "ladino": "tener", "source": "tener.yaml", "translations": {"english": ["have", "hold"], "french": [], "portuguese": [], "spanish": ["tener"], "turkish": ["sahip olmak", "tutmak"]}}]
+[{"accented": "tener", "examples": [{"english": "I have a brother", "ladino": "Yo tengo un ermano"}], "ladino": "tener", "source": "tener.yaml", "translations": {"english": ["have", "hold"], "french": [], "portuguese": [], "spanish": ["tener"], "turkish": ["sahip olmak", "tutmak"]}}]

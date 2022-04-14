@@ -40,7 +40,7 @@ jobs:
 
     - name: Generate HTML pages
       run: |
-          python ladino-diksionaryo-code/ladino/generate.py --dictionary ladino-diksionaryo-data/ --html docs --log
+          python ladino-diksionaryo-code/ladino/generate.py --dictionary ladino-diksionaryo-data/ --html docs --all --log
           echo diksionaryo.szabgab.com > docs/CNAME
 
     - name: Commit new files

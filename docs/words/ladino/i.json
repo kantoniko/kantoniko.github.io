@@ -1,1 +1,1 @@
-[{"accented": "i", "comments": ["grammar: konj."], "examples": [{"ladino": "1) El Sultan i El Haham 2) Marido i mujer\""}], "ladino": "i", "source": "i.yaml", "translations": {"english": ["and"], "french": [], "portuguese": [], "spanish": ["y"], "turkish": ["ve"]}}]
+[{"accented": "i", "examples": [{"ladino": "El Sultan i El Haham"}, {"ladino": "Marido i mujer"}], "ladino": "i", "source": "i.yaml", "translations": {"english": ["and"], "french": [], "portuguese": [], "spanish": ["y"], "turkish": ["ve"]}}]

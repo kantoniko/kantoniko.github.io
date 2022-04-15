@@ -1,1 +1,1 @@
-[{"accented": "teksto", "ladino": "teksto", "source": "teksto.yaml", "translations": {"english": ["text"], "french": [], "portuguese": [], "spanish": ["texto"], "turkish": ["metin"]}}]
+[{"accented": "teksto", "gender": "masculine", "ladino": "teksto", "number": "singular", "source": "teksto.yaml", "translations": {"english": ["text"], "french": [], "portuguese": [], "spanish": ["texto"], "turkish": ["metin"]}}]

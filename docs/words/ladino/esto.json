@@ -1,1 +1,1 @@
-[{"accented": "ésto", "examples": [{"ladino": "En esto vamos a kedar? Avlaremos de otra koza."}], "ladino": "esto", "source": "esto.yaml", "translations": {"english": ["this (masc.)"], "french": [], "portuguese": [], "spanish": ["esto"], "turkish": ["bu (erkek)"]}}]
+[{"accented": "ésto", "gender": "masculine", "ladino": "esto", "number": "singular", "source": "este.yaml", "translations": {"english": ["this"], "french": [], "portuguese": [], "spanish": ["esto"], "turkish": ["bu"]}}]

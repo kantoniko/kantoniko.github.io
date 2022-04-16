@@ -32,6 +32,11 @@ jobs:
         repository: 'szabgab/ladino-diksionaryo-data'
         path: ladino-diksionaryo-data
 
+    - name: Checkout the ladino-estamos-whatsapeando
+      uses: actions/checkout@v2
+      with:
+        repository: 'szabgab/ladino-estamos-whatsapeando'
+        path: ladino-estamos-whatsapeando
 
     - name: Install dependencies
       run: |
@@ -40,7 +45,7 @@ jobs:
 
     - name: Generate HTML pages
       run: |
-          python ladino-diksionaryo-code/ladino/generate.py --dictionary ladino-diksionaryo-data/ --html docs --all --log
+          python ladino-diksionaryo-code/ladino/generate.py --dictionary ladino-diksionaryo-data/ --html docs --all --log --whatsapp ladino-estamos-whatsapeando
           echo diksionaryo.szabgab.com > docs/CNAME
 
     - name: Commit new files

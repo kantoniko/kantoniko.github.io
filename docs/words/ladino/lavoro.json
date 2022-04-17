@@ -1,1 +1,1 @@
-[{"accented": "lavoro", "ladino": "lavoro", "source": "lavoro.yaml", "translations": {"english": ["work"], "french": [], "portuguese": [], "spanish": ["labor"], "turkish": ["iş", "emek"]}}]
+[{"accented": "lavóro", "examples": [{"ladino": "Es un lavoro echo kon intelijensia i amor."}], "ladino": "lavoro", "source": "lavoro.yaml", "translations": {"english": ["work", "job"], "french": [], "portuguese": [], "spanish": ["labor", "trabajo"], "turkish": ["iş", "emek"]}}]

@@ -1,1 +1,1 @@
-[{"accented": "pareser", "ladino": "pareser", "source": "pareser.yaml", "translations": {"english": ["appear", "seem"], "french": [], "portuguese": [], "spanish": ["parecer"], "turkish": ["benzemek", "andırmak"]}}]
+[{"accented": "pareser", "examples": [{"english": "Seems good to me.", "ladino": "Me parese bien."}], "ladino": "pareser", "source": "pareser.yaml", "translations": {"english": ["appear", "seem"], "french": [], "portuguese": [], "spanish": ["parecer"], "turkish": ["benzemek", "andırmak"]}}]

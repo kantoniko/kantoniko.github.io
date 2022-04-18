@@ -1,1 +1,1 @@
-[{"accented": "kreatura", "ladino": "kreatura", "source": "kreatura.yaml", "translations": {"english": ["child"], "french": [], "portuguese": [], "spanish": ["niño", "criatura"], "turkish": ["evlât", "yavru", "çocuk"]}}]
+[{"alternative-spelling": [{"ladino": "kriatura"}], "gender": "feminine", "ladino": "kreatura", "number": "singular", "source": "kreatura.yaml", "translations": {"english": ["child"], "french": [], "portuguese": [], "spanish": ["niño", "criatura"], "turkish": ["evlât", "yavru", "çocuk"]}}]

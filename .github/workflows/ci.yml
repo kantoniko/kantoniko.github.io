@@ -44,6 +44,8 @@ jobs:
           pip install -r ladino-diksionaryo-code/requirements.txt
 
     - name: Generate HTML pages
+      env:
+        PYTHONPATH=ladino-diksionaryo-code
       run: |
           python ladino-diksionaryo-code/ladino/generate.py --dictionary ladino-diksionaryo-data/ --html docs --all --log --whatsapp ladino-estamos-whatsapeando
           echo diksionaryo.szabgab.com > docs/CNAME

@@ -1,1 +1,1 @@
-[{"accented": "poezia", "ladino": "poezia", "source": "poezia.yaml", "translations": {"english": ["poem", "poetry"], "french": [], "portuguese": [], "spanish": ["poema", "poesía"], "turkish": ["şiir", "şiirler"]}}]
+[{"gender": "feminine", "ladino": "poezia", "number": "singular", "source": "poezia.yaml", "translations": {"english": ["poem", "poetry"], "french": [], "portuguese": [], "spanish": ["poema", "poesía"], "turkish": ["şiir", "şiirler"]}}]

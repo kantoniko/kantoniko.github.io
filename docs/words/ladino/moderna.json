@@ -1,1 +1,1 @@
-[{"accented": "modérno", "alternative-spelling": [{"accented": "modérna", "ladino": "moderna"}], "examples": [{"ladino": "No toman parte en la vida moderna."}], "ladino": "moderno", "source": "moderno.yaml", "translations": {"english": ["modern"], "french": [], "portuguese": [], "spanish": ["moderno", "moderna"], "turkish": ["modern"]}}]
+[{"accented": "modérna", "gender": "feminine", "ladino": "moderna", "number": "singular", "source": "moderno.yaml", "translations": {"english": ["modern"], "french": [], "portuguese": [], "spanish": ["moderna"], "turkish": ["modern"]}}]

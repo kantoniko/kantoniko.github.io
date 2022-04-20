@@ -1,1 +1,1 @@
-[{"accented": "ombre", "ladino": "ombre", "source": "ombre.yaml", "translations": {"english": ["man"], "french": [], "portuguese": [], "spanish": ["hombre"], "turkish": ["adam", "erkek"]}}]
+[{"gender": "masculine", "ladino": "ombre", "number": "singular", "source": "ombre.yaml", "translations": {"english": ["man"], "french": [], "portuguese": [], "spanish": ["hombre"], "turkish": ["adam", "erkek"]}}]

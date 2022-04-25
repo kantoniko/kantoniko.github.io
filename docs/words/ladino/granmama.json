@@ -1,1 +1,1 @@
-[{"accented": "vava", "alternative-spelling": [{"accented": "nona", "ladino": "nona"}, {"accented": "granmama", "ladino": "granmama"}], "ladino": "vava", "source": "vava.yaml", "translations": {"english": ["grandmother"], "french": [], "portuguese": [], "spanish": ["abuela"], "turkish": ["büyükanne"]}}]
+[{"alternative-spelling": [{"ladino": "nona"}, {"ladino": "granmama"}], "ladino": "vava", "source": "vava.yaml", "translations": {"english": ["grandmother"], "french": [], "portuguese": [], "spanish": ["abuela"], "turkish": ["büyükanne"]}}]

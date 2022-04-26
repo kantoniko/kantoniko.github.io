@@ -1,1 +1,1 @@
-[{"accented": "vario", "alternative-spelling": [{"accented": "varia", "ladino": "varia"}], "examples": [{"ladino": "El djudeo-espanyol (ladino) tiene varios dialektos."}], "ladino": "vario", "source": "vario.yaml", "translations": {"english": ["various"], "french": [], "portuguese": [], "spanish": ["vario", "varia"], "turkish": ["muhtelif"]}}]
+[{"gender": "feminine", "ladino": "varia", "number": "singular", "source": "vario.yaml", "translations": {"english": ["various"], "french": [], "portuguese": [], "spanish": ["varia"], "turkish": ["muhtelif"]}}]

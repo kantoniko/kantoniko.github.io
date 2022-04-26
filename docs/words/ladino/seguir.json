@@ -1,1 +1,1 @@
-[{"accented": "seguir", "alternative-spelling": [{"accented": "perseguir", "ladino": "perseguir"}, {"accented": "ir detras", "ladino": "ir detras"}], "ladino": "seguir", "source": "seguir.yaml", "translations": {"english": ["follow"], "french": [], "portuguese": [], "spanish": ["seguir"], "turkish": ["takip etmek"]}}]
+[{"alternative-spelling": [{"ladino": "perseguir"}, {"ladino": "ir detras"}], "ladino": "seguir", "source": "seguir.yaml", "translations": {"english": ["follow"], "french": [], "portuguese": [], "spanish": ["seguir"], "turkish": ["takip etmek"]}}]

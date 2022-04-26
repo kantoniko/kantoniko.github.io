@@ -1,1 +1,1 @@
-[{"accented": "spiker", "ladino": "spiker", "source": "spiker.yaml", "translations": {"english": ["announcer"], "french": [], "portuguese": [], "spanish": ["locutor"], "turkish": ["spiker"]}}]
+[{"gender": "masculine", "ladino": "spiker", "number": "singular", "source": "spiker.yaml", "translations": {"english": ["announcer"], "french": [], "portuguese": [], "spanish": ["locutor"], "turkish": ["spiker"]}}]

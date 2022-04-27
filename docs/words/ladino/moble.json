@@ -1,1 +1,1 @@
-[{"accented": "moble", "ladino": "moble", "source": "moble.yaml", "translations": {"english": ["furniture"], "french": [], "portuguese": [], "spanish": ["mueble"], "turkish": ["mobilya"]}}]
+[{"accented": "moble", "examples": [{"ladino": "En la kaza ay algunos muebles. Por egzempio siyas, mezas, kamas."}], "gender": "masculine", "ladino": "moble", "number": "singular", "source": "moble.yaml", "translations": {"english": ["furniture"], "french": [], "portuguese": [], "spanish": ["mueble"], "turkish": ["mobilya"]}}]

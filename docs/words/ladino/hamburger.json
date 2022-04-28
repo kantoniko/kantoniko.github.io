@@ -1,1 +1,1 @@
-[{"accented": "hamburger", "ladino": "hamburger", "source": "hamburger.yaml", "translations": {"english": ["hamburger"], "french": [], "portuguese": [], "spanish": ["hamburguesa"], "turkish": ["hamburger"]}}]
+[{"accented": "hamburger", "gender": "masculine", "ladino": "hamburger", "number": "singular", "source": "hamburger.yaml", "translations": {"english": ["hamburger"], "french": [], "portuguese": [], "spanish": ["hamburguesa"], "turkish": ["hamburger"]}}]

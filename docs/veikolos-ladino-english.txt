@@ -1,0 +1,9 @@
+Ladino             English
+otobus              bus, motor-coach
+otobuses            buses, motor-coaches
+otomobil            car, automobile
+otomobiles          cars, automobiles
+tramvay             streetcar
+tramvayes           streetcars
+treno               train
+trenos              trains

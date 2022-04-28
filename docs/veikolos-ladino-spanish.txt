@@ -1,0 +1,9 @@
+Ladino             Spanish
+otobus              autobús, autocar
+otobuses            autobúses, autocar
+otomobil            carro, automóvil
+otomobiles          carros, automóviles
+tramvay             tranvía
+tramvayes           tranvías
+treno               tren
+trenos              trens

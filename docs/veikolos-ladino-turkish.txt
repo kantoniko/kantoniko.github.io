@@ -1,0 +1,9 @@
+Ladino             Turkish
+otobus              otobüs
+otobuses            otobüs
+otomobil            araba, otomobil
+otomobiles          araba, otomobil
+tramvay             tramvay
+tramvayes           tramvay
+treno               tren
+trenos              tren

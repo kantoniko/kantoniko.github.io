@@ -1,0 +1,9 @@
+Ladino             Portuguese
+otobus              
+otobuses            
+otomobil            
+otomobiles          
+tramvay             
+tramvayes           
+treno               
+trenos              

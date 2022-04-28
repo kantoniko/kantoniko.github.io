@@ -1,0 +1,51 @@
+Ladino             Hebrew
+abrikok             מִשׁמֵשׁ
+afarsemon           אפרסמון
+agranada            רימון
+agranadas           רימונים
+ahududu             פטל
+almendra            שקד
+almendras           שקדים
+ananas              אננס
+asorva              דומדמנית
+avokado             אבוקדו
+avramila            
+avramilas           
+banana              בננה
+bananas             בננות
+datile              תמר
+eshkidunya          שסק
+eshkidunyas         שסק
+frambuaz            פטל
+freza               
+frezas              
+greyfrut            אשכוליות
+harova              חרוב
+hurma               אפרסמון
+igo                 תאנה
+karpuz              אבטיח
+karpuzes            אבטיחים
+limon               לימון
+limones             לימונים
+mandarina           מנדרין
+mango               מנגו
+mansana             תפוח עץ
+mansanas            תפוחי עץ, תפוחים
+melon               מלון
+mora                אוכמניות
+pera                אגס
+peras               אגסים
+pomela              פומלה
+portokal            תפוז
+portokales          תפוזים
+sabra               צבר
+salsamora           אוכמניות
+sereza              דובדבן
+serezas             דובדבנים
+shefteli            אפרסק
+sheftelis           אפרסקים
+torondja            אשכולית
+uva                 ענב
+uvas                ענבים
+zirguela            שזיף
+zirguelas           שזיפים

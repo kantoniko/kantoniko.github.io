@@ -1,0 +1,5 @@
+Ladino             Spanish
+dondurma            helado
+dondurmas           helados
+hamburger           hamburguesa
+yelada              helado

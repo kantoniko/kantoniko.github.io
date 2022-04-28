@@ -1,0 +1,46 @@
+Ladino             Turkish
+boka                ağız
+bokas               ağız
+braso               kol
+brasos              kol
+dedo                parmak
+dedos               parmak
+diente              diş
+dientes             diş
+diz                 diz
+dizes               diz
+espalda             sırt
+espaldas            sırt
+estomago            mide
+frente              alın
+garganta            boyun
+gargantas           boyun
+garon               boğaz
+kara                yanak, surat, yüz
+kavesa              baş
+kavesas             
+korason             kalp
+korasones           kalp
+kovdo               dirsek
+kovdos              dirsek
+ligado              ciğer, karaciğer
+ligados             ciğer, karaciğer
+luenga              dil
+luengas             dil
+mano                el
+manos               el
+meoyo               beyin
+mustacho            bıyık
+mustachos           bıyık
+nariz               burun
+ojo                 göz
+ojos                göz
+oreja               kulak
+orejas              kulak
+oyido               kulak
+oyidos              kulak
+pelo                kıl
+pie                 ayak
+pies                ayak
+pulmon              akciğerler
+pulmones            akciğerler

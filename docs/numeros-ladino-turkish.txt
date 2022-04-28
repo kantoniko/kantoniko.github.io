@@ -1,0 +1,9 @@
+Ladino             Turkish
+dos                 iki
+kuatro              dört
+sinko               beş
+tres                üç
+uno                 bir, biri, tıpkısı
+una                 bir, biri, tıpkısı
+unos                bir, biri, tıpkısı
+unas                bir, biri, tıpkısı

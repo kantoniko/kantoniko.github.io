@@ -1,0 +1,18 @@
+Ladino             English
+bluza               blouse
+bluzas              blouses
+chapin              shoe
+chapines            shoes
+djaketa             jacket
+djaketas            jackets
+fostan              dress
+fostanes            dresses
+fusta               skirt
+fustas              skirts
+guantes             gloves
+kalsado             shoe
+kalsados            shoes
+kamiza              shirt
+kamizas             shirts
+vestido             clothing, suit
+vestidos            clothing, suits

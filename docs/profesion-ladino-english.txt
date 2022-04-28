@@ -1,0 +1,10 @@
+Ladino             English
+avokato             lawyer
+avokata             lawyer
+avokatos            lawyers
+avokatas            lawyers
+profesor            teacher
+profesora           teacher
+profesores          teachers
+profesoras          teachers
+yaurtchi            yogurt pedlar

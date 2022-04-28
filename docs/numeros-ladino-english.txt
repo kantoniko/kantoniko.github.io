@@ -1,0 +1,9 @@
+Ladino             English
+dos                 two
+kuatro              four
+sinko               five
+tres                three
+uno                 one, identical
+una                 one, identical
+unos                ones, identicals
+unas                ones, identicals

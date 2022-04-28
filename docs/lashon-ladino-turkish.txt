@@ -1,0 +1,9 @@
+Ladino             Turkish
+Inglez              
+aleman              Alman, almanca
+arabo               arap
+fransez             fransız
+kasteyano           Ispanyol, Kastilyalı, Ispanyolca
+ladino              
+turko               Türkçe
+yiddish             yidiş

@@ -1,0 +1,8 @@
+Ladino             Turkish
+agua                su
+bira                bira
+chay                çay
+kafe                
+sumo                usare (meyva suyu)
+vino                şarap
+vino kolorado       kırmızı şarap

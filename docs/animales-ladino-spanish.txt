@@ -1,0 +1,29 @@
+Ladino             Spanish
+abistru             avestruz
+alicha              pescado muy pequeño
+azno                burro, asno
+aznos               burros, asnos
+elefante            elefante
+gato                gato
+gatos               gatos
+gatiko              
+gaya                zarguela
+gayna               pollo
+gaynas              pollos
+kodrero             cordero
+kodreros            corderos
+kulevra             serpiente
+kulevras            serpientes
+lonso               oso
+lonsos              osos
+pasharo             pájaro
+pasharos            pájaros
+pato                ganso, oca
+patos               gansos, ocas
+perro               perro
+perros              perros
+peshkado            pescado
+peshkados           pescados
+poyo                pollo
+poyos               pollos
+renar               zorro

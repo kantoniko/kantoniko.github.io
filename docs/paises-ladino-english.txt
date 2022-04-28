@@ -1,0 +1,13 @@
+Ladino             English
+Ardjentina          Argentina
+Bosna               Bosnia
+Bulgaria            Bulgaria
+Espanya             Spain
+Fransia             France
+Israel              Israel
+Italya              Italy
+Meksiko             Mexico
+Polonya             Poland
+Suedia              Sweden
+Turkia              Turkey
+Ungaria             Hungary

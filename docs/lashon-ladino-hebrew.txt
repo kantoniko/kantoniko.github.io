@@ -1,0 +1,9 @@
+Ladino             Hebrew
+Inglez              אנגלית
+aleman              גרמנית
+arabo               ערבית
+fransez             
+kasteyano           ספרדית
+ladino              לאדינו
+turko               טורקית
+yiddish             

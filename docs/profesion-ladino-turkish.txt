@@ -1,0 +1,10 @@
+Ladino             Turkish
+avokato             avukat
+avokata             avukat
+avokatos            avukat
+avokatas            avukat
+profesor            öğretmen
+profesora           öğretmen
+profesores          
+profesoras          
+yaurtchi            yoğurtçu

@@ -1,0 +1,8 @@
+Ladino             Spanish
+agua                agua
+bira                cerveza
+chay                te
+kafe                café
+sumo                zumo, jumo, jugo
+vino                vino
+vino kolorado       vino tinto

@@ -1,0 +1,51 @@
+Ladino             Spanish
+abrikok             albaricoque
+afarsemon           caqui
+agranada            granada (fruta)
+agranadas           granadas (fruta)
+ahududu             frambuesa
+almendra            almendra
+almendras           almendras
+ananas              piña tropical
+asorva              grosella
+avokado             avocado
+avramila            ciruela verde
+avramilas           ciruelas verdes
+banana              plátano
+bananas             plátanos
+datile              dátil
+eshkidunya          níspero
+eshkidunyas         nísperos
+frambuaz            frambuaz
+freza               fresa
+frezas              fresas
+greyfrut            pomelo, toronja
+harova              algarroba
+hurma               caqui
+igo                 higo
+karpuz              sandia
+karpuzes            sandias
+limon               limón
+limones             limónes
+mandarina           mandarín
+mango               mango
+mansana             manzana
+mansanas            manzanas
+melon               melón
+mora                mora
+pera                pera
+peras               peras
+pomela              pomela
+portokal            naranja
+portokales          naranjas
+sabra               
+salsamora           zarzamora
+sereza              cereza
+serezas             cerezas
+shefteli            melocotón
+sheftelis           melocotónes
+torondja            toronja
+uva                 uva
+uvas                uvas
+zirguela            ciruela
+zirguelas           ciruelas

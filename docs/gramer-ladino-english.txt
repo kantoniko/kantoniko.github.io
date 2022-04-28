@@ -1,0 +1,4 @@
+Ladino             English
+abreviasion         abbreviation
+adjektival          adjectival
+prefikso            prefix

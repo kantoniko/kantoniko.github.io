@@ -1,0 +1,9 @@
+Ladino             Spanish
+Inglez              inglés
+aleman              alemán
+arabo               árabe
+fransez             francés
+kasteyano           Castellano
+ladino              Ladino
+turko               turco
+yiddish             lengua de los judios askenazis

@@ -1,0 +1,51 @@
+Ladino             English
+avuelo              grandfather
+avuela              grandmother
+avuelos             grandfathers
+avuelas             grandmothers
+bohor               first-born
+bohora              first-born
+ermano              brother
+ermana              sister
+ermanos             brothers
+ermanas             sisters
+esfuegro            father-in-law
+esfuegra            mother-in-law
+esfuegros           father-in-law
+esfuegras           mother-in-law
+ijo                 boy, son
+ija                 girl, daughter
+ijos                boys, sons
+ijas                girls, daughters
+inyeto              grandchild
+inyeta              grandchild
+inyetos             grandchildren
+inyetas             grandchildren
+kreatura            child
+kreaturas           child
+madre               mother
+madres              mothers
+mama                mom
+marido              husband
+maridos             husbands
+mujer               woman
+mujeres             women
+nono                grandfather
+nona                grandmother
+nonos               grandfathers
+nonas               grandmothers
+padre               father
+padres              fathers
+padres              parents
+papu                grandfather
+primo               cousin
+prima               cousin
+primos              cousins
+primas              cousins
+tia                 aunt
+tias                aunts
+tio                 uncle
+tios                uncles
+vava                grandmother
+yerno               son-in-law
+yernos              sons-in-law

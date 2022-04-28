@@ -1,0 +1,6 @@
+Ladino             English
+frijider            refrigerator
+meza                table
+mezas               tables
+siya                chair
+siyas               chairs

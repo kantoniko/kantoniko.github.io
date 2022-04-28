@@ -1,0 +1,6 @@
+Ladino             Spanish
+frijider            nevera, refrigerador
+meza                mesa
+mezas               mesas
+siya                silla
+siyas               sillas

@@ -1,0 +1,5 @@
+Ladino             Turkish
+dondurma            dordurma
+dondurmas           dordurma
+hamburger           hamburger
+yelada              dondurma

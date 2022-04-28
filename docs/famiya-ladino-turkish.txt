@@ -1,0 +1,51 @@
+Ladino             Turkish
+avuelo              büyükbaba, ata
+avuela              büyükanne
+avuelos             büyükbaba, ata
+avuelas             büyükanne
+bohor               ilk çocuk
+bohora              ilk çocuk
+ermano              erkek kardeş
+ermana              kızkardeş
+ermanos             erkek kardeş
+ermanas             kızkardeş
+esfuegro            kayınpeder, kayınvalide
+esfuegra            kayınpeder, kayınvalide
+esfuegros           kayınpeder, kayınvalide
+esfuegras           kayınpeder, kayınvalide
+ijo                 oğul
+ija                 kız
+ijos                oğul
+ijas                kız
+inyeto              torun
+inyeta              torun
+inyetos             torun
+inyetas             torun
+kreatura            evlât, yavru, çocuk
+kreaturas           evlât, yavru, çocuk
+madre               anne, ana
+madres              anne, ana
+mama                anne
+marido              koca, eş
+maridos             koca, eş
+mujer               kadın
+mujeres             kadın
+nono                dede
+nona                
+nonos               dede
+nonas               
+padre               baba
+padres              baba
+padres              ebeveyn
+papu                büyükbaba
+primo               kuzen
+prima               kuzen
+primos              kuzen
+primas              kuzen
+tia                 teyze, hala
+tias                teyze, hala
+tio                 amca, dayı
+tios                amca, dayı
+vava                büyükanne
+yerno               damat
+yernos              damat

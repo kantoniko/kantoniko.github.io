@@ -1,0 +1,9 @@
+Ladino             Spanish
+dos                 dos
+kuatro              cuatro
+sinko               cinco
+tres                tres
+uno                 uno
+una                 una
+unos                unos
+unas                unas

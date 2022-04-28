@@ -1,0 +1,10 @@
+Ladino             Spanish
+avokato             abogado
+avokata             abogada
+avokatos            abogados
+avokatas            abogadas
+profesor            profesor
+profesora           profesora
+profesores          profesores
+profesoras          profesoras
+yaurtchi            vendedor de yogurt

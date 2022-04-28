@@ -1,0 +1,8 @@
+Ladino             English
+agua                water
+bira                beer
+chay                tea
+kafe                coffee
+sumo                juice
+vino                wine
+vino kolorado       red wine

@@ -1,0 +1,9 @@
+Ladino             English
+Inglez              English
+aleman              German
+arabo               Arab
+fransez             French
+kasteyano           Castilian
+ladino              Ladino
+turko               Turkish
+yiddish             yiddish

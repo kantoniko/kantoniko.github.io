@@ -1,0 +1,5 @@
+Ladino             English
+dondurma            ice cream
+dondurmas           ice creams
+hamburger           hamburger
+yelada              ice-cream

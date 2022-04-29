@@ -3,12 +3,38 @@ avokato             abogado
 avokata             abogada
 avokatos            abogados
 avokatas            abogadas
+baylador            bailarín
+bayladera           bailarina
+bayladores          bailarín
+bayladeras          bailarinas
+doktor              doctor
+doktora             doctora
+doktores            doctores
+doktoras            doctoras
+enfermero           enfermero
+enfermera           enfermera
+enfermeros          enfermeros
+enfermeras          enfermeras
+kantador            cantor
+kantadera           cantora
+kantadores          cantors
+kantaderas          cantoras
+moso                criada, mozo
+mosa                criada, moza
+mosos               criadas, mozos
+mosas               criadas, mozas
 profesor            profesor
 profesora           profesora
 profesores          profesores
 profesoras          profesoras
+spiker              locutor
+spikeres            locutores
 traduktor           traductor
 traduktora          traductora
 traduktores         traductores
 traduktoras         traductoras
+veterinaro          veterinario
+veterinara          veterinaria
+veterinaros         veterinarios
+veterinaras         veterinarias
 yaurtchi            vendedor de yogurt

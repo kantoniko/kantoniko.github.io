@@ -3,12 +3,38 @@ avokato             lawyer
 avokata             lawyer
 avokatos            lawyers
 avokatas            lawyers
+baylador            dancer, ballet-dancer
+bayladera           dancer, ballet-dancer
+bayladores          dancers, ballet-dancers
+bayladeras          dancers, ballet-dancers
+doktor              doctor
+doktora             doctor
+doktores            doctors
+doktoras            doctors
+enfermero           nurse
+enfermera           nurse
+enfermeros          nurses
+enfermeras          nurses
+kantador            singer
+kantadera           singer
+kantadores          singers
+kantaderas          singers
+moso                maid, servant
+mosa                maid, servant
+mosos               maids, servants
+mosas               maids, servants
 profesor            teacher
 profesora           teacher
 profesores          teachers
 profesoras          teachers
+spiker              announcer
+spikeres            announcers
 traduktor           translator
 traduktora          translator
 traduktores         translators
 traduktoras         translators
+veterinaro          veterinarian
+veterinara          veterinarian
+veterinaros         veterinarian
+veterinaras         veterinarian
 yaurtchi            yogurt pedlar

@@ -1,1 +1,1 @@
-[{"accented": "kantador", "alternative-spelling": [{"accented": "dera", "ladino": "dera"}], "ladino": "kantador", "source": "kantador.yaml", "translations": {"english": ["singer"], "french": [], "portuguese": [], "spanish": ["cantor - a"], "turkish": ["şarkıcı"]}}]
+[{"gender": "masculine", "ladino": "kantador", "number": "singular", "source": "kantador.yaml", "translations": {"english": ["singer"], "french": [], "portuguese": [], "spanish": ["cantor"], "turkish": ["şarkıcı"]}}]

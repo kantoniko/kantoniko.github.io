@@ -3,12 +3,38 @@ avokato             avukat
 avokata             avukat
 avokatos            avukat
 avokatas            avukat
+baylador            dansör
+bayladera           dansöz
+bayladores          dansör
+bayladeras          dansöz
+doktor              doktor
+doktora             doktor
+doktores            doktor
+doktoras            doktor
+enfermero           
+enfermera           
+enfermeros          
+enfermeras          
+kantador            şarkıcı
+kantadera           şarkıcı
+kantadores          şarkıcı
+kantaderas          şarkıcı
+moso                hizmetçi
+mosa                hizmetçi
+mosos               hizmetçi
+mosas               hizmetçi
 profesor            öğretmen
 profesora           öğretmen
 profesores          
 profesoras          
+spiker              spiker
+spikeres            spiker
 traduktor           tercüman
 traduktora          tercüman
 traduktores         tercüman
 traduktoras         tercüman
+veterinaro          
+veterinara          
+veterinaros         
+veterinaras         
 yaurtchi            yoğurtçu

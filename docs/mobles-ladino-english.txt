@@ -1,6 +1,15 @@
 Ladino             English
+almario             cupboard
+almarios            cupboards
+fotolyo             orchestra seat, armchair
+fotolyos            orchestra seats, armchairs
 frijider            refrigerator
+frijideres          refrigerators
+kama                bed, bedding
+kamas               bed, bedding
 meza                table
 mezas               tables
+orno                oven
+ornos               ovens
 siya                chair
 siyas               chairs

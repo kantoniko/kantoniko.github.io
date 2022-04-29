@@ -1,1 +1,1 @@
-[{"accented": "traduktora", "ladino": "traduktora", "source": "traduktora.yaml", "translations": {"english": ["translator"], "french": [], "portuguese": [], "spanish": ["traductora"], "turkish": ["tercüman"]}}]
+[{"gender": "feminine", "ladino": "traduktora", "number": "singular", "source": "traduktor.yaml", "translations": {"english": ["translator"], "french": [], "portuguese": [], "spanish": ["traductora"], "turkish": ["tercüman"]}}]

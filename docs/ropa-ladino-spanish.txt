@@ -14,5 +14,6 @@ kalsado             zapato
 kalsados            zapatos
 kamiza              camisa
 kamizas             camisas
+triko               jersey
 vestido             vestido
 vestidos            vestidos

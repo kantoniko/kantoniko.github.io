@@ -14,5 +14,6 @@ kalsado             shoe
 kalsados            shoes
 kamiza              shirt
 kamizas             shirts
+triko               jersey, sweater
 vestido             clothing, suit
 vestidos            clothing, suits

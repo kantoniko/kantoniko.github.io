@@ -7,4 +7,8 @@ profesor            öğretmen
 profesora           öğretmen
 profesores          
 profesoras          
+traduktor           tercüman
+traduktora          tercüman
+traduktores         tercüman
+traduktoras         tercüman
 yaurtchi            yoğurtçu

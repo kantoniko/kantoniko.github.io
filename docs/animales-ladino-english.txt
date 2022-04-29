@@ -27,3 +27,5 @@ peshkados           fish
 poyo                chicken, chick
 poyos               chickens, chicks
 renar               fox
+toro                bull
+toros               bulls

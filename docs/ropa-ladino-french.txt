@@ -14,5 +14,6 @@ kalsado
 kalsados            
 kamiza              
 kamizas             
+triko               
 vestido             
 vestidos            

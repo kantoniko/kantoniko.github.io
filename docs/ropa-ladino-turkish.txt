@@ -14,5 +14,6 @@ kalsado             ayakkabı
 kalsados            ayakkabı
 kamiza              gömlek
 kamizas             gömlek
+triko               kazak
 vestido             giysi, kostüm
 vestidos            giysi, kostüm

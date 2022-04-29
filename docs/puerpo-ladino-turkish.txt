@@ -44,3 +44,5 @@ pie                 ayak
 pies                ayak
 pulmon              akciğerler
 pulmones            akciğerler
+tripa               karın
+tripas              karın

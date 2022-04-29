@@ -7,4 +7,8 @@ profesor            teacher
 profesora           teacher
 profesores          teachers
 profesoras          teachers
+traduktor           translator
+traduktora          translator
+traduktores         translators
+traduktoras         translators
 yaurtchi            yogurt pedlar

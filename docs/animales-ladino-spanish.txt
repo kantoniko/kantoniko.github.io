@@ -27,3 +27,5 @@ peshkados           pescados
 poyo                pollo
 poyos               pollos
 renar               zorro
+toro                toro
+toros               toros

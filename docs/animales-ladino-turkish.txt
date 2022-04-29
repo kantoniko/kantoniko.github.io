@@ -27,3 +27,5 @@ peshkados           balık
 poyo                piliç
 poyos               
 renar               tilki
+toro                boğa
+toros               boğa

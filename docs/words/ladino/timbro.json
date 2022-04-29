@@ -1,1 +1,1 @@
-[{"accented": "timbro", "alternative-spelling": [{"accented": "muur", "ladino": "muur"}], "ladino": "timbro", "source": "timbro.yaml", "translations": {"english": ["stamp", "seal"], "french": [], "portuguese": [], "spanish": ["sello"], "turkish": ["pul", "mühür"]}}]
+[{"alternative-spelling": [{"ladino": "muur"}], "gender": "masculine", "ladino": "timbro", "number": "singular", "source": "timbro.yaml", "translations": {"english": ["stamp", "seal"], "french": [], "portuguese": [], "spanish": ["sello"], "turkish": ["pul", "mühür"]}}]

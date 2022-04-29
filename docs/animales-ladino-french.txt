@@ -27,3 +27,5 @@ peshkados           poisson
 poyo                poulet
 poyos               
 renar               
+toro                
+toros               

@@ -1,6 +1,15 @@
 Ladino             Spanish
+almario             armario
+almarios            armarios
+fotolyo             butaca, sillón
+fotolyos            butacas, sillónes
 frijider            nevera, refrigerador
+frijideres          neveras, refrigeradores
+kama                cama
+kamas               camas
 meza                mesa
 mezas               mesas
+orno                horno
+ornos               hornos
 siya                silla
 siyas               sillas

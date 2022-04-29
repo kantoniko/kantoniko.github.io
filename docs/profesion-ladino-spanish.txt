@@ -7,4 +7,8 @@ profesor            profesor
 profesora           profesora
 profesores          profesores
 profesoras          profesoras
+traduktor           traductor
+traduktora          traductora
+traduktores         traductores
+traduktoras         traductoras
 yaurtchi            vendedor de yogurt

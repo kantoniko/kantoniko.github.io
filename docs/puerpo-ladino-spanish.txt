@@ -44,3 +44,5 @@ pie                 pié
 pies                piés
 pulmon              pulmon
 pulmones            pulmones
+tripa               vientre
+tripas              vientres

@@ -1,1 +1,1 @@
-[{"accented": "triko", "alternative-spelling": [{"accented": "sueter", "ladino": "sueter"}], "ladino": "triko", "source": "triko.yaml", "translations": {"english": ["jersey", "sweater"], "french": [], "portuguese": [], "spanish": ["jersey"], "turkish": ["kazak"]}}]
+[{"alternative-spelling": [{"ladino": "sueter"}], "gender": "masculine", "ladino": "triko", "number": "singular", "source": "triko.yaml", "translations": {"english": ["jersey", "sweater"], "french": [], "portuguese": [], "spanish": ["jersey"], "turkish": ["kazak"]}}]

@@ -27,3 +27,5 @@ peshkados
 poyo                תרנגולת
 poyos               תרנגולות
 renar               
+toro                
+toros               

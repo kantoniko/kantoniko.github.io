@@ -2,8 +2,13 @@ Ladino             Turkish
 Inglez              
 aleman              Alman, almanca
 arabo               arap
+ebreo               ıbranıce
+espanyol            ispanyol
 fransez             fransız
+ivrit               Ibranice
 kasteyano           Ispanyol, Kastilyalı, Ispanyolca
+katalan             
 ladino              
+portugez            
 turko               Türkçe
 yiddish             yidiş

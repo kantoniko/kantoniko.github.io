@@ -2,8 +2,13 @@ Ladino             Spanish
 Inglez              inglés
 aleman              alemán
 arabo               árabe
+ebreo               hebreo
+espanyol            español
 fransez             francés
+ivrit               hebreo
 kasteyano           Castellano
+katalan             catalán
 ladino              Ladino
+portugez            portugués
 turko               turco
 yiddish             lengua de los judios askenazis

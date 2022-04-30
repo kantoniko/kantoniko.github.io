@@ -2,8 +2,13 @@ Ladino             English
 Inglez              English
 aleman              German
 arabo               Arab
+ebreo               Hebrew
+espanyol            Spanish
 fransez             French
+ivrit               Hebrew
 kasteyano           Castilian
+katalan             Catalan
 ladino              Ladino
+portugez            Portuguese
 turko               Turkish
 yiddish             yiddish

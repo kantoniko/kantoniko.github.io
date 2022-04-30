@@ -1,0 +1,3 @@
+Ladino             English
+tambur              drum
+tambures            drums

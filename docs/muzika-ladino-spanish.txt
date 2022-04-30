@@ -1,0 +1,3 @@
+Ladino             Spanish
+tambur              tambor
+tambures            tambores

@@ -27,5 +27,6 @@ peshkados           poisson
 poyo                poulet
 poyos               
 renar               
+sigonya             
 toro                
 toros               

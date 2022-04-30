@@ -27,6 +27,8 @@ profesor            öğretmen
 profesora           öğretmen
 profesores          
 profesoras          
+shofor              şoför
+shofores            şoför
 spiker              spiker
 spikeres            spiker
 traduktor           tercüman

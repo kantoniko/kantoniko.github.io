@@ -1,1 +1,1 @@
-[{"accented": "tánto", "alternative-spelling": [{"accented": "tánta", "ladino": "tanta"}], "examples": [{"ladino": "Tanto me vino afuerte ke me saltaron las lagrimas."}], "ladino": "tanto", "source": "tanto.yaml", "translations": {"english": ["so much", "so many"], "french": [], "portuguese": [], "spanish": ["tanto", "tanta"], "turkish": ["o kadar"]}}]
+[{"accented": "tánta", "gender": "feminine", "ladino": "tanta", "source": "tanto.yaml", "translations": {"english": ["so much", "so many"], "french": [], "portuguese": [], "spanish": ["tanta"], "turkish": ["o kadar"]}}]

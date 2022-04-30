@@ -27,6 +27,8 @@ profesor
 profesora           
 profesores          
 profesoras          
+shofor              
+shofores            
 spiker              
 spikeres            
 traduktor           

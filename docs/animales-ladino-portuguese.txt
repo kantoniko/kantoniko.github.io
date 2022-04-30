@@ -27,5 +27,6 @@ peshkados           peixe
 poyo                frango
 poyos               
 renar               
+sigonya             
 toro                
 toros               

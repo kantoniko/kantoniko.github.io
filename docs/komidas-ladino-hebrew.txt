@@ -2,4 +2,8 @@ Ladino             Hebrew
 dondurma            
 dondurmas           
 hamburger           
+supa                
+supas               
+tomat reynado       
+travados            
 yelada              

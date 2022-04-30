@@ -2,4 +2,8 @@ Ladino             Portuguese
 dondurma            
 dondurmas           
 hamburger           
+supa                
+supas               
+tomat reynado       
+travados            
 yelada              

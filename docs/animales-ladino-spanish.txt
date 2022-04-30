@@ -27,5 +27,6 @@ peshkados           pescados
 poyo                pollo
 poyos               pollos
 renar               zorro
+sigonya             cigüeña
 toro                toro
 toros               toros

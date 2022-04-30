@@ -2,4 +2,8 @@ Ladino             Turkish
 dondurma            dordurma
 dondurmas           dordurma
 hamburger           hamburger
+supa                çorba
+supas               çorba
+tomat reynado       etli domates dolması
+travados            cevizli börek
 yelada              dondurma

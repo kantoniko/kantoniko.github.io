@@ -2,4 +2,8 @@ Ladino             English
 dondurma            ice cream
 dondurmas           ice creams
 hamburger           hamburger
+supa                soup
+supas               soups
+tomat reynado       meat-filled tomatoes
+travados            nut-filled pastry
 yelada              ice-cream

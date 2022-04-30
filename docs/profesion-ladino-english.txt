@@ -27,6 +27,8 @@ profesor            teacher
 profesora           teacher
 profesores          teachers
 profesoras          teachers
+shofor              driver
+shofores            drivers
 spiker              announcer
 spikeres            announcers
 traduktor           translator

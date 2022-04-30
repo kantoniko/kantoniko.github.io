@@ -27,6 +27,8 @@ profesor            profesor
 profesora           profesora
 profesores          profesores
 profesoras          profesoras
+shofor              chofer
+shofores            choferes
 spiker              locutor
 spikeres            locutores
 traduktor           traductor

@@ -1,2 +1,3 @@
 Ladino             Spanish
+sevoya              cebolla
 tomat               tomate

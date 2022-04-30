@@ -3,6 +3,7 @@ otobus
 otobuses            
 otomobil            
 otomobiles          
+tractor             
 tramvay             
 tramvayes           
 treno               

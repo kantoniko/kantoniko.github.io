@@ -1,2 +1,3 @@
 Ladino             English
+sevoya              onion
 tomat               tomato

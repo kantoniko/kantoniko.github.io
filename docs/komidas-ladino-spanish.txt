@@ -2,6 +2,7 @@ Ladino             Spanish
 dondurma            helado
 dondurmas           helados
 hamburger           hamburguesa
+sal                 sal
 supa                sopa
 supas               sopas
 tomat reynado       tomates rellenados de carne

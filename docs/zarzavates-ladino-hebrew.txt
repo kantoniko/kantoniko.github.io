@@ -1,2 +1,3 @@
 Ladino             Hebrew
+sevoya              
 tomat               

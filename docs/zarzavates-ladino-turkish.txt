@@ -1,2 +1,3 @@
 Ladino             Turkish
+sevoya              soğan
 tomat               domates

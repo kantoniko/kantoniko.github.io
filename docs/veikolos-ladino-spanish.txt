@@ -3,6 +3,7 @@ otobus              autobús, autocar
 otobuses            autobúses, autocar
 otomobil            carro, automóvil
 otomobiles          carros, automóviles
+tractor             tractor
 tramvay             tranvía
 tramvayes           tranvías
 treno               tren

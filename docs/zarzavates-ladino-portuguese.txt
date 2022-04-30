@@ -1,2 +1,3 @@
 Ladino             Portuguese
+sevoya              
 tomat               

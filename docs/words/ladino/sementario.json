@@ -1,1 +1,1 @@
-[{"accented": "sementario", "alternative-spelling": [{"accented": "betahayim", "ladino": "betahayim"}], "ladino": "sementario", "source": "sementario.yaml", "translations": {"english": ["cemetery"], "french": [], "portuguese": [], "spanish": ["cementerio"], "turkish": ["mezarlık"]}}]
+[{"alternative-spelling": [{"ladino": "betahayim"}], "gender": "masculine", "ladino": "sementario", "number": "singular", "source": "sementario.yaml", "translations": {"english": ["cemetery"], "french": [], "portuguese": [], "spanish": ["cementerio"], "turkish": ["mezarlık"]}}]

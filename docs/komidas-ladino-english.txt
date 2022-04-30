@@ -2,6 +2,7 @@ Ladino             English
 dondurma            ice cream
 dondurmas           ice creams
 hamburger           hamburger
+sal                 salt
 supa                soup
 supas               soups
 tomat reynado       meat-filled tomatoes

@@ -2,6 +2,7 @@ Ladino             French
 dondurma            crème glacée
 dondurmas           crème glacée
 hamburger           
+sal                 
 supa                
 supas               
 tomat reynado       

@@ -3,6 +3,7 @@ otobus              bus, motor-coach
 otobuses            buses, motor-coaches
 otomobil            car, automobile
 otomobiles          cars, automobiles
+tractor             tractor
 tramvay             streetcar
 tramvayes           streetcars
 treno               train

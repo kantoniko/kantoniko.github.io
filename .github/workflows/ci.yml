@@ -40,6 +40,7 @@ jobs:
 
     - name: Install dependencies
       run: |
+          printenv | sort
           python -V
           pip install -r ladino-diksionaryo-code/requirements.txt
 

@@ -67,3 +67,8 @@ jobs:
         git commit -m "Automated Web page generation"
         git push
 
+    - uses: actions/upload-artifact@v3
+      with:
+        name: pdf
+        path: pdf
+

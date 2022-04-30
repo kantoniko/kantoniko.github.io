@@ -3,6 +3,9 @@ dondurma            crème glacée
 dondurmas           crème glacée
 hamburger           
 sal                 
+salata              
+salatas             
+sesamo              
 supa                
 supas               
 tomat reynado       

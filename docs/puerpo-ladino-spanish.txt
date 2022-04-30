@@ -44,5 +44,7 @@ pie                 pié
 pies                piés
 pulmon              pulmon
 pulmones            pulmones
+seja                ceja
+sejas               ceja
 tripa               vientre
 tripas              vientres

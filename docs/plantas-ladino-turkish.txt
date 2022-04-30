@@ -1,2 +1,3 @@
 Ladino             Turkish
+rovle               meşe
 yerva seka          kuru ot

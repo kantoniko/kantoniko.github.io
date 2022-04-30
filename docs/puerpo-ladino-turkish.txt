@@ -44,5 +44,7 @@ pie                 ayak
 pies                ayak
 pulmon              akciğerler
 pulmones            akciğerler
+seja                kaş
+sejas               kaş
 tripa               karın
 tripas              karın

@@ -1,3 +1,5 @@
 Ladino             Turkish
+safanorya           havuç
+safanoryas          havuç
 sevoya              soğan
 tomat               domates

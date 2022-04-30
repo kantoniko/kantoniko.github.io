@@ -14,6 +14,10 @@ kalsado             shoe
 kalsados            shoes
 kamiza              shirt
 kamizas             shirts
+sapato              slipper
+sapatos             slippers
+shal                shawl
+shales              shawls
 takia               cap
 takias              caps
 triko               jersey, sweater

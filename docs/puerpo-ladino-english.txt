@@ -44,5 +44,7 @@ pie                 foot
 pies                feet
 pulmon              lung
 pulmones            lungs
+seja                eyebrow
+sejas               eyebrows
 tripa               belly
 tripas              bellies

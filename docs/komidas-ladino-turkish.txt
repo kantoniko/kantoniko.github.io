@@ -3,6 +3,9 @@ dondurma            dordurma
 dondurmas           dordurma
 hamburger           hamburger
 sal                 tuz
+salata              salata
+salatas             salata
+sesamo              susam
 supa                çorba
 supas               çorba
 tomat reynado       etli domates dolması

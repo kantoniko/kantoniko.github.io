@@ -1,0 +1,3 @@
+Ladino             Turkish
+roza                gül
+rozas               gül

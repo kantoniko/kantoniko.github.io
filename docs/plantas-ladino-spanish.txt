@@ -1,2 +1,3 @@
 Ladino             Spanish
+rovle               roble
 yerva seka          heno

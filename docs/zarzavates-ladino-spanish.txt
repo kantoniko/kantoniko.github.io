@@ -1,3 +1,5 @@
 Ladino             Spanish
+safanorya           zanahoria
+safanoryas          zanahorias
 sevoya              cebolla
 tomat               tomate

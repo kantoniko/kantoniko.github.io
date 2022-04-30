@@ -3,6 +3,9 @@ dondurma            ice cream
 dondurmas           ice creams
 hamburger           hamburger
 sal                 salt
+salata              salad
+salatas             salads
+sesamo              sesame
 supa                soup
 supas               soups
 tomat reynado       meat-filled tomatoes

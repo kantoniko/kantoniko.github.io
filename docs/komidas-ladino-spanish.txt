@@ -3,6 +3,9 @@ dondurma            helado
 dondurmas           helados
 hamburger           hamburguesa
 sal                 sal
+salata              ensalada
+salatas             ensaladas
+sesamo              sésamo
 supa                sopa
 supas               sopas
 tomat reynado       tomates rellenados de carne

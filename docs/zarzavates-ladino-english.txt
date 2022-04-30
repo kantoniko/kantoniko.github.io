@@ -1,3 +1,5 @@
 Ladino             English
+safanorya           carrot
+safanoryas          carrots
 sevoya              onion
 tomat               tomato

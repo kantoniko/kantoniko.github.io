@@ -3,6 +3,9 @@ dondurma
 dondurmas           
 hamburger           
 sal                 
+salata              
+salatas             
+sesamo              
 supa                
 supas               
 tomat reynado       

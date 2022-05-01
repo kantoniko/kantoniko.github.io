@@ -1,1 +1,1 @@
-[{"accented": "pan", "examples": [{"ladino": "Este pan para este kezo."}], "gender": "masculine", "ladino": "pan", "number": "singular", "source": "pan.yaml", "translations": {"english": ["bread"], "french": ["pain"], "portuguese": ["pão"], "spanish": ["pan"], "turkish": ["ekmek"]}}]
+[{"examples": [{"ladino": "Este pan para este kezo."}], "gender": "masculine", "ladino": "pan", "number": "singular", "source": "pan.yaml", "translations": {"english": ["bread"], "french": ["pain"], "portuguese": ["pão"], "spanish": ["pan"], "turkish": ["ekmek"]}}]

@@ -16,6 +16,10 @@ kulevra
 kulevras            
 lonso               דוב
 lonsos              דובים
+oveja               
+ovejas              
+palaza              
+palazas             
 pasharo             ציפור
 pasharos            ציפורים
 pato                

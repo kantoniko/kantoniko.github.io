@@ -37,6 +37,7 @@ nonas               abuelas
 padre               padre
 padres              padres
 padres              padres
+papa                papá
 papu                abuelo
 primo               primo
 prima               prima

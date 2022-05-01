@@ -1,6 +1,6 @@
 Ladino             Turkish
-abreviasion         
-adjektival          
+abreviasion         kısaltma
+adjektival          sıfatsal
 prefikso            
 prepozision         edat
 prepozisiones       edat

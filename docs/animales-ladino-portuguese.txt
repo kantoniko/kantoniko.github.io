@@ -16,6 +16,10 @@ kulevra
 kulevras            
 lonso               
 lonsos              
+oveja               ovelha
+ovejas              ovelha
+palaza              
+palazas             
 pasharo             pássaro
 pasharos            
 pato                

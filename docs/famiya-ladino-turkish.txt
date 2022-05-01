@@ -37,6 +37,7 @@ nonas
 padre               baba
 padres              baba
 padres              ebeveyn
+papa                baba
 papu                büyükbaba
 primo               kuzen
 prima               kuzen

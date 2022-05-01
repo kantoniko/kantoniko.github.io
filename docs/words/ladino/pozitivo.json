@@ -1,1 +1,1 @@
-[{"accented": "pozitivo", "ladino": "pozitivo", "source": "pozitivo.yaml", "translations": {"english": ["positive"], "french": [], "portuguese": [], "spanish": ["positivo"], "turkish": ["olumlu", "müspet"]}}]
+[{"gender": "masculine", "ladino": "pozitivo", "number": "singular", "source": "pozitivo.yaml", "translations": {"english": ["positive"], "french": [], "portuguese": [], "spanish": ["positivo"], "turkish": ["olumlu", "müspet"]}}]

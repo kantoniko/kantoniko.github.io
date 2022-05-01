@@ -16,6 +16,10 @@ kulevra
 kulevras            
 lonso               
 lonsos              
+oveja               brebis
+ovejas              brebis
+palaza              
+palazas             
 pasharo             oiseau
 pasharos            
 pato                

@@ -16,6 +16,10 @@ kulevra             serpiente
 kulevras            serpientes
 lonso               oso
 lonsos              osos
+oveja               oveja
+ovejas              ovejas
+palaza              pato
+palazas             patos
 pasharo             pájaro
 pasharos            pájaros
 pato                ganso, oca

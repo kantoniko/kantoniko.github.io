@@ -39,6 +39,7 @@ oreja
 orejas              
 oyido               
 oyidos              
+parparo             
 pecho               
 pechos              
 pelo                

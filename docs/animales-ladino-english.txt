@@ -16,6 +16,10 @@ kulevra             snake
 kulevras            snakes
 lonso               bear
 lonsos              beers
+oveja               sheep
+ovejas              sheep
+palaza              duck
+palazas             ducks
 pasharo             bird
 pasharos            birds
 pato                goose

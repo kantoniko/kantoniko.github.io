@@ -2,6 +2,13 @@ Ladino             Spanish
 dondurma            helado
 dondurmas           helados
 hamburger           hamburguesa
+pan espondjado      bizcocho
+pandispanya         bizcocho
+pasa                pasa
+pasta               pastel
+pastas              pasteles
+pastel              pastel
+pasteles            pasteles
 pershil             perejil
 pimienta            pimienta
 pitagra             pasta seca de albericoque

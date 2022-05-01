@@ -16,6 +16,10 @@ kulevra             yılan
 kulevras            yılan
 lonso               
 lonsos              
+oveja               koyun
+ovejas              koyun
+palaza              ördek
+palazas             ördek
 pasharo             kuş
 pasharos            
 pato                kaz

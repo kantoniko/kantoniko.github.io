@@ -1,1 +1,1 @@
-[{"accented": "pasta", "alternative-spelling": [{"accented": "pastel", "ladino": "pastel"}], "ladino": "pasta", "source": "pasta.yaml", "translations": {"english": ["cake"], "french": [], "portuguese": [], "spanish": ["pastel"], "turkish": ["pasta"]}}]
+[{"gender": "masculine", "ladino": "pastel", "number": "singular", "source": "pastel.yaml", "translations": {"english": ["cake"], "french": [], "portuguese": [], "spanish": ["pastel"], "turkish": ["pasta"]}}]

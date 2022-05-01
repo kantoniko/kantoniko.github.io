@@ -37,6 +37,7 @@ nonas               grandmothers
 padre               father
 padres              fathers
 padres              parents
+papa                dad
 papu                grandfather
 primo               cousin
 prima               cousin

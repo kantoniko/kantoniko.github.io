@@ -14,6 +14,8 @@ kalsado             shoe
 kalsados            shoes
 kamiza              shirt
 kamizas             shirts
+pantofla            slipper
+panyo               piece of cloth
 sapato              slipper
 sapatos             slippers
 shal                shawl

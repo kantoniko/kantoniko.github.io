@@ -2,6 +2,11 @@ Ladino             Hebrew
 dondurma            
 dondurmas           
 hamburger           
+pershil             
+pimienta            
+pitagra             
+prasifuchi          
+prasifuchis         
 sal                 
 salata              
 salatas             

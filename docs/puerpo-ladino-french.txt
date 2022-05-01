@@ -39,9 +39,15 @@ oreja
 orejas              
 oyido               
 oyidos              
+pecho               
+pechos              
 pelo                
+pestanya            
+pestanyas           
 pie                 
 pies                
+pierna              
+piernas             
 pulmon              
 pulmones            
 punyo               

@@ -2,6 +2,11 @@ Ladino             Portuguese
 dondurma            
 dondurmas           
 hamburger           
+pershil             
+pimienta            
+pitagra             
+prasifuchi          
+prasifuchis         
 sal                 
 salata              
 salatas             

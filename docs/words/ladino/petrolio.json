@@ -1,1 +1,1 @@
-[{"accented": "petrolio", "ladino": "petrolio", "source": "petrolio.yaml", "translations": {"english": ["gas", "petrol"], "french": [], "portuguese": [], "spanish": ["petróleo"], "turkish": ["gaz", "petrol"]}}]
+[{"gender": "masculine", "ladino": "petrolio", "number": "singular", "source": "petrolio.yaml", "translations": {"english": ["gas", "petrol"], "french": [], "portuguese": [], "spanish": ["petróleo"], "turkish": ["gaz", "petrol"]}}]

@@ -2,6 +2,11 @@ Ladino             Spanish
 dondurma            helado
 dondurmas           helados
 hamburger           hamburguesa
+pershil             perejil
+pimienta            pimienta
+pitagra             pasta seca de albericoque
+prasifuchi          fritada de puerro
+prasifuchis         fritadas de puerro
 sal                 sal
 salata              ensalada
 salatas             ensaladas

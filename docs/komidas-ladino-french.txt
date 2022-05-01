@@ -2,6 +2,11 @@ Ladino             French
 dondurma            crème glacée
 dondurmas           crème glacée
 hamburger           
+pershil             
+pimienta            
+pitagra             
+prasifuchi          
+prasifuchis         
 sal                 
 salata              
 salatas             

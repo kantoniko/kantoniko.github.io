@@ -39,9 +39,15 @@ oreja               ear
 orejas              ears
 oyido               ear
 oyidos              ears
+pecho               chest
+pechos              chests
 pelo                hair, coat (animal), whiskers, bristle
+pestanya            eyelash
+pestanyas           eyelashes
 pie                 foot
 pies                feet
+pierna              thigh
+piernas             thigh
 pulmon              lung
 pulmones            lungs
 punyo               fist

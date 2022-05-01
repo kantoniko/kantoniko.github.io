@@ -39,9 +39,15 @@ oreja               kulak
 orejas              kulak
 oyido               kulak
 oyidos              kulak
+pecho               göğüs
+pechos              göğüs
 pelo                kıl
+pestanya            kirpik
+pestanyas           kirpik
 pie                 ayak
 pies                ayak
+pierna              baldır
+piernas             baldır
 pulmon              akciğerler
 pulmones            akciğerler
 punyo               yumruk

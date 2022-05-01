@@ -2,3 +2,6 @@ Ladino             Hebrew
 abreviasion         
 adjektival          
 prefikso            
+prepozision         
+prepozisiones       
+prezente            

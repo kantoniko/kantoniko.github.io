@@ -1,1 +1,1 @@
-[{"accented": "prestor", "ladino": "prestor", "source": "prestor.yaml", "translations": {"english": ["speed", "velocity"], "french": [], "portuguese": [], "spanish": ["velocidad"], "turkish": ["hız", "çabukluk"]}}]
+[{"gender": "feminine", "ladino": "prestor", "number": "singular", "source": "prestor.yaml", "translations": {"english": ["speed", "velocity"], "french": [], "portuguese": [], "spanish": ["velocidad"], "turkish": ["hız", "çabukluk"]}}]

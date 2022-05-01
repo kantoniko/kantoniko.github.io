@@ -39,9 +39,15 @@ oreja               oreja
 orejas              orejas
 oyido               oreja
 oyidos              orejas
+pecho               pecho
+pechos              pechos
 pelo                pelo (de barba, de animal)
+pestanya            pestaña
+pestanyas           pestañas
 pie                 pié
 pies                piés
+pierna              muslo
+piernas             muslos
 pulmon              pulmon
 pulmones            pulmones
 punyo               puño

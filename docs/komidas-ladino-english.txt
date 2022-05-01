@@ -2,6 +2,11 @@ Ladino             English
 dondurma            ice cream
 dondurmas           ice creams
 hamburger           hamburger
+pershil             parsley
+pimienta            black pepper
+pitagra             dried apricot paste sheet
+prasifuchi          leek pastry
+prasifuchis         leek pastries
 sal                 salt
 salata              salad
 salatas             salads

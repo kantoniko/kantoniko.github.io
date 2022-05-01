@@ -2,3 +2,6 @@ Ladino             Portuguese
 abreviasion         
 adjektival          
 prefikso            
+prepozision         
+prepozisiones       
+prezente            

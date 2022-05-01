@@ -2,3 +2,6 @@ Ladino             Turkish
 abreviasion         
 adjektival          
 prefikso            
+prepozision         edat
+prepozisiones       edat
+prezente            şimdiki zaman

@@ -1,1 +1,1 @@
-[{"accented": "posesion", "ladino": "posesion", "source": "posesion.yaml", "translations": {"english": ["possession"], "french": [], "portuguese": [], "spanish": ["posesión"], "turkish": ["mülkiyet"]}}]
+[{"gender": "feminine", "ladino": "posesion", "number": "singular", "source": "posesion.yaml", "translations": {"english": ["possession"], "french": [], "portuguese": [], "spanish": ["posesión"], "turkish": ["mülkiyet"]}}]

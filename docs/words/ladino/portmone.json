@@ -1,1 +1,1 @@
-[{"accented": "portmone", "ladino": "portmone", "source": "portmone.yaml", "translations": {"english": ["purse"], "french": [], "portuguese": [], "spanish": ["monedero"], "turkish": ["kadın cüzdanı"]}}]
+[{"gender": "masculine", "ladino": "portmone", "number": "singular", "source": "portmone.yaml", "translations": {"english": ["purse"], "french": [], "portuguese": [], "spanish": ["monedero"], "turkish": ["kadın cüzdanı"]}}]

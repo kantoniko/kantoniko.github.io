@@ -2,6 +2,11 @@ Ladino             Turkish
 dondurma            dordurma
 dondurmas           dordurma
 hamburger           hamburger
+pershil             maydanoz
+pimienta            kara biber
+pitagra             kayısı pestili
+prasifuchi          pırasa kayganası
+prasifuchis         pırasa kayganası
 sal                 tuz
 salata              salata
 salatas             salata

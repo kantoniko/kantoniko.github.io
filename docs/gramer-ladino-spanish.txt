@@ -2,3 +2,6 @@ Ladino             Spanish
 abreviasion         
 adjektival          
 prefikso            
+prepozision         preposición
+prepozisiones       preposiciónes
+prezente            presente

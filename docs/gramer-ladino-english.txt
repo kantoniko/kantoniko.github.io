@@ -2,3 +2,6 @@ Ladino             English
 abreviasion         abbreviation
 adjektival          adjectival
 prefikso            prefix
+prepozision         preposition
+prepozisiones       prepositions
+prezente            present

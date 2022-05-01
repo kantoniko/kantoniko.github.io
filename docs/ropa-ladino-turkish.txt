@@ -16,6 +16,7 @@ kamiza              gömlek
 kamizas             gömlek
 pantofla            terlik
 panyo               bez
+pardesu             pardesü, palto
 sapato              terlik, çarık
 sapatos             terlik, çarık
 shal                şal

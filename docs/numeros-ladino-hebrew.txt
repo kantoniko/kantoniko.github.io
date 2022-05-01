@@ -1,6 +1,7 @@
 Ladino             Hebrew
 dos                 
 kuatro              
+onze                
 sinko               
 tres                
 uno                 

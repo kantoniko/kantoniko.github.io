@@ -2,5 +2,6 @@ Ladino             Turkish
 abasho              aşağı, aşağıda, aşağıya
 arriva              üst, üstte, yukarda
 norte               kuzey, şimal
+oksidente           batı
 oriente             doğu
 sud                 güney, cenup

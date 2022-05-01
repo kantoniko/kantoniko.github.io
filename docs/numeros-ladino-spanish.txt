@@ -1,6 +1,7 @@
 Ladino             Spanish
 dos                 dos
 kuatro              cuatro
+onze                once
 sinko               cinco
 tres                tres
 uno                 uno

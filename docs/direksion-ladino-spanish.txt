@@ -2,5 +2,6 @@ Ladino             Spanish
 abasho              abajo
 arriva              arriba
 norte               norte
+oksidente           occidente
 oriente             oriente
 sud                 sur

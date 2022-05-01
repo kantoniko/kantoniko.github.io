@@ -1,6 +1,7 @@
 Ladino             Portuguese
 dos                 
 kuatro              
+onze                
 sinko               
 tres                
 uno                 

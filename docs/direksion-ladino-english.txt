@@ -2,5 +2,6 @@ Ladino             English
 abasho              down, downwards, below
 arriva              up, on the top, upstairs
 norte               north
+oksidente           west
 oriente             east, orient
 sud                 south

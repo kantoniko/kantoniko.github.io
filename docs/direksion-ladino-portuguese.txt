@@ -2,5 +2,6 @@ Ladino             Portuguese
 abasho              
 arriva              
 norte               
+oksidente           
 oriente             
 sud                 

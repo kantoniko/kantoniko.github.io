@@ -35,6 +35,7 @@ mustachos           bigotes
 nariz               nariz
 ojo                 ojo
 ojos                ojos
+ombro               hombro
 oreja               oreja
 orejas              orejas
 oyido               oreja

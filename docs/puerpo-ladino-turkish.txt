@@ -35,6 +35,7 @@ mustachos           bıyık
 nariz               burun
 ojo                 göz
 ojos                göz
+ombro               omuz
 oreja               kulak
 orejas              kulak
 oyido               kulak

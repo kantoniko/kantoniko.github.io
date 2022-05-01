@@ -2,5 +2,6 @@ Ladino             French
 abasho              
 arriva              en haut, au dessus
 norte               
+oksidente           
 oriente             
 sud                 

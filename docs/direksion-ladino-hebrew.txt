@@ -2,5 +2,6 @@ Ladino             Hebrew
 abasho              
 arriva              
 norte               
+oksidente           
 oriente             
 sud                 

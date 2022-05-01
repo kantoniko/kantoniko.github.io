@@ -35,6 +35,7 @@ mustachos
 nariz               
 ojo                 
 ojos                
+ombro               
 oreja               
 orejas              
 oyido               

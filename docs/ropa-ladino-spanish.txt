@@ -16,6 +16,7 @@ kamiza              camisa
 kamizas             camisas
 pantofla            zapatilla
 panyo               paño
+pardesu             abrigo
 sapato              zapatilla
 sapatos             zapatillas
 shal                chal

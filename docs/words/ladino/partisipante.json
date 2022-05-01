@@ -1,1 +1,1 @@
-[{"accented": "partisipante", "examples": [{"ladino": "Los partisipantes veniyan para diskutir."}], "ladino": "partisipante", "source": "partisipante.yaml", "translations": {"english": ["participant"], "french": [], "portuguese": [], "spanish": ["participante"], "turkish": ["iştirakçi"]}}]
+[{"examples": [{"ladino": "Los partisipantes veniyan para diskutir."}], "ladino": "partisipante", "number": "singular", "source": "partisipante.yaml", "translations": {"english": ["participant"], "french": [], "portuguese": [], "spanish": ["participante"], "turkish": ["iştirakçi"]}}]

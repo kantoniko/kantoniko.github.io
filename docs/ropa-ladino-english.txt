@@ -16,6 +16,7 @@ kamiza              shirt
 kamizas             shirts
 pantofla            slipper
 panyo               piece of cloth
+pardesu             over-coat
 sapato              slipper
 sapatos             slippers
 shal                shawl

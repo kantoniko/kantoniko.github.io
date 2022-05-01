@@ -1,6 +1,7 @@
 Ladino             Turkish
 dos                 iki
 kuatro              dört
+onze                onbir
 sinko               beş
 tres                üç
 uno                 bir, biri, tıpkısı

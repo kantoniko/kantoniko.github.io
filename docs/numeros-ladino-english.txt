@@ -1,6 +1,7 @@
 Ladino             English
 dos                 two
 kuatro              four
+onze                eleven
 sinko               five
 tres                three
 uno                 one, identical

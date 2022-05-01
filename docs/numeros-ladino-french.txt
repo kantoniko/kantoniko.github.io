@@ -1,6 +1,7 @@
 Ladino             French
 dos                 deux
 kuatro              
+onze                
 sinko               
 tres                
 uno                 

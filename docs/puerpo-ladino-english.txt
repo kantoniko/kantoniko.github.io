@@ -35,6 +35,7 @@ mustachos           moustaches
 nariz               nose
 ojo                 eye
 ojos                eyes
+ombro               shoulder
 oreja               ear
 orejas              ears
 oyido               ear

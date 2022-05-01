@@ -44,6 +44,9 @@ pie                 ayak
 pies                ayak
 pulmon              akciğerler
 pulmones            akciğerler
+punyo               yumruk
+punyos              yumruk
+segundo dedo        işaret parmağı
 seja                kaş
 sejas               kaş
 tripa               karın

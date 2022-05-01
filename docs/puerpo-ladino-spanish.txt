@@ -44,6 +44,9 @@ pie                 pié
 pies                piés
 pulmon              pulmon
 pulmones            pulmones
+punyo               puño
+punyos              puños
+segundo dedo        índice
 seja                ceja
 sejas               ceja
 tripa               vientre

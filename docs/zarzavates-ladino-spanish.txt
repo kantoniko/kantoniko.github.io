@@ -1,5 +1,8 @@
 Ladino             Spanish
+prasa               puerro
+prasas              puerros
 safanorya           zanahoria
 safanoryas          zanahorias
 sevoya              cebolla
+shampinyon          champiñón
 tomat               tomate

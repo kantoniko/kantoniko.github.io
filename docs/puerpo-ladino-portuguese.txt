@@ -44,6 +44,9 @@ pie
 pies                
 pulmon              
 pulmones            
+punyo               
+punyos              
+segundo dedo        
 seja                
 sejas               
 tripa               

@@ -1,1 +1,1 @@
-[{"accented": "puerpo", "alternative-spelling": [{"accented": "kuerpo", "ladino": "kuerpo"}], "ladino": "puerpo", "source": "puerpo.yaml", "translations": {"english": ["body"], "french": [], "portuguese": [], "spanish": ["cuerpo"], "turkish": ["vücut"]}}]
+[{"alternative-spelling": [{"ladino": "kuerpo"}], "gender": "masculine", "ladino": "puerpo", "number": "singular", "source": "puerpo.yaml", "translations": {"english": ["body"], "french": [], "portuguese": [], "spanish": ["cuerpo"], "turkish": ["vücut"]}}]

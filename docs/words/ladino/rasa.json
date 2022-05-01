@@ -1,1 +1,1 @@
-[{"accented": "rasa", "ladino": "rasa", "source": "rasa.yaml", "translations": {"english": ["race"], "french": [], "portuguese": [], "spanish": ["raza"], "turkish": ["soy", "ırk"]}}]
+[{"gender": "feminine", "ladino": "rasa", "number": "singular", "source": "rasa.yaml", "translations": {"english": ["race"], "french": [], "portuguese": [], "spanish": ["raza"], "turkish": ["soy", "ırk"]}}]

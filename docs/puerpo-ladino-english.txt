@@ -44,6 +44,9 @@ pie                 foot
 pies                feet
 pulmon              lung
 pulmones            lungs
+punyo               fist
+punyos              fists
+segundo dedo        index-finger
 seja                eyebrow
 sejas               eyebrows
 tripa               belly

@@ -1,5 +1,8 @@
 Ladino             English
+prasa               leek
+prasas              leeks
 safanorya           carrot
 safanoryas          carrots
 sevoya              onion
+shampinyon          mushroom
 tomat               tomato

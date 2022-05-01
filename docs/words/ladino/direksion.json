@@ -1,1 +1,1 @@
-[{"accented": "direksion", "alternative-spelling": [{"accented": "adreso", "ladino": "adreso"}], "ladino": "direksion", "source": "direksion.yaml", "translations": {"english": ["direction", "address"], "french": [], "portuguese": [], "spanish": ["dirección"], "turkish": ["yön", "adres"]}}]
+[{"alternative-spelling": [{"ladino": "adreso"}], "ladino": "direksion", "source": "direksion.yaml", "translations": {"english": ["direction", "address"], "french": [], "portuguese": [], "spanish": ["dirección"], "turkish": ["yön", "adres"]}}]

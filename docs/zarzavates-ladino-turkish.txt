@@ -1,5 +1,8 @@
 Ladino             Turkish
+prasa               prasa
+prasas              prasa
 safanorya           havuç
 safanoryas          havuç
 sevoya              soğan
+shampinyon          mantar
 tomat               domates

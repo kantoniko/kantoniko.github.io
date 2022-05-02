@@ -32,6 +32,13 @@ jobs:
         repository: 'szabgab/ladino-diksionaryo-data'
         path: ladino-diksionaryo-data
 
+    - name: Checkout the ladino-diksionaryo-sounds
+      uses: actions/checkout@v2
+      with:
+        repository: 'szabgab/ladino-diksionaryo-sounds'
+        path: ladino-diksionaryo-sounds
+
+
     - name: Checkout the ladino-estamos-whatsapeando
       uses: actions/checkout@v2
       with:
@@ -48,7 +55,7 @@ jobs:
       env:
         PYTHONPATH: ladino-diksionaryo-code
       run: |
-          python ladino-diksionaryo-code/ladino/generate.py --dictionary ladino-diksionaryo-data/ --html docs --all --log --whatsapp ladino-estamos-whatsapeando
+          python ladino-diksionaryo-code/ladino/generate.py --dictionary ladino-diksionaryo-data/ --html docs --all --log --whatsapp ladino-estamos-whatsapeando --sounds ladino-estamos-sounds
           echo diksionaryo.szabgab.com > docs/CNAME
 
     - name: Commit new files

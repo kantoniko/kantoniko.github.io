@@ -1,1 +1,1 @@
-[{"accented": "mófo", "comments": ["grammar: m), mófa (f"], "examples": [{"ladino": "Ya le kresyó mofa."}], "ladino": "mofo", "source": "mofo.yaml", "translations": {"english": ["mould"], "french": [], "portuguese": [], "spanish": ["moho"], "turkish": ["küf"]}}]
+[{"accented": "mófo", "examples": [{"ladino": "Ya le kresyó mofa."}], "gender": "masculine", "ladino": "mofo", "number": "singular", "source": "mofo.yaml", "translations": {"english": ["mould"], "french": [], "portuguese": [], "spanish": ["moho"], "turkish": ["küf"]}}]

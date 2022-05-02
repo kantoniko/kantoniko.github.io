@@ -1,1 +1,1 @@
-[{"accented": "mediodia", "alternative-spelling": [{"accented": "midi", "ladino": "midi"}], "ladino": "mediodia", "source": "mediodia.yaml", "translations": {"english": ["noon"], "french": [], "portuguese": [], "spanish": ["mediodía"], "turkish": ["öğle"]}}]
+[{"alternative-spelling": [{"ladino": "midi"}], "gender": "feminine", "ladino": "mediodia", "number": "singular", "source": "mediodia.yaml", "translations": {"english": ["noon"], "french": [], "portuguese": [], "spanish": ["mediodía"], "turkish": ["öğle"]}}]

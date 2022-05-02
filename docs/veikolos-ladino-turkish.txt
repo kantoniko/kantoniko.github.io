@@ -1,4 +1,5 @@
 Ladino             Turkish
+metro               metro
 otobus              otobüs
 otobuses            otobüs
 otomobil            araba, otomobil

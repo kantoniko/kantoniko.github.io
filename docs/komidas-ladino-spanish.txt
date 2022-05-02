@@ -2,6 +2,11 @@ Ladino             Spanish
 dondurma            helado
 dondurmas           helados
 hamburger           hamburguesa
+marunchinos         macarrón de almendras
+miel                miel
+mina                empanada
+minas               empanadas
+mogados             mazapán
 pan espondjado      bizcocho
 pandispanya         bizcocho
 pasa                pasa
@@ -9,6 +14,7 @@ pasta               pastel
 pastas              pasteles
 pastel              pastel
 pasteles            pasteles
+pasteles            empanadas
 pershil             perejil
 pimienta            pimienta
 pitagra             pasta seca de albericoque

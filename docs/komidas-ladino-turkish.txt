@@ -2,6 +2,11 @@ Ladino             Turkish
 dondurma            dordurma
 dondurmas           dordurma
 hamburger           hamburger
+marunchinos         bademli beze
+miel                bal
+mina                börek
+minas               börek
+mogados             badem ezmesi
 pan espondjado      pandispanya
 pandispanya         pandispanya
 pasa                kuru üzüm
@@ -9,6 +14,7 @@ pasta               pasta
 pastas              pastas
 pastel              pasta
 pasteles            pastas
+pasteles            etli börek
 pershil             maydanoz
 pimienta            kara biber
 pitagra             kayısı pestili

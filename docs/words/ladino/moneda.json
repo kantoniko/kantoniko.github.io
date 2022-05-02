@@ -1,1 +1,1 @@
-[{"accented": "moneda", "alternative-spelling": [{"accented": "para", "ladino": "para"}], "ladino": "moneda", "source": "moneda.yaml", "translations": {"english": ["money"], "french": [], "portuguese": [], "spanish": ["dinero"], "turkish": ["para"]}}]
+[{"gender": "feminine", "ladino": "moneda", "number": "singular", "source": "moneda.yaml", "translations": {"english": ["money"], "french": [], "portuguese": [], "spanish": ["dinero"], "turkish": ["para"]}}]

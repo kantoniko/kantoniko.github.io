@@ -2,6 +2,11 @@ Ladino             English
 dondurma            ice cream
 dondurmas           ice creams
 hamburger           hamburger
+marunchinos         almond macaroons
+miel                honey
+mina                pastry
+minas               pastries
+mogados             marzipan
 pan espondjado      sponge cake
 pandispanya         sponge cake
 pasa                raisin
@@ -9,6 +14,7 @@ pasta               cake
 pastas              cakes
 pastel              cake
 pasteles            cakes
+pasteles            meat pies
 pershil             parsley
 pimienta            black pepper
 pitagra             dried apricot paste sheet

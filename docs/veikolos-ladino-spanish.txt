@@ -1,4 +1,5 @@
 Ladino             Spanish
+metro               metro
 otobus              autobús, autocar
 otobuses            autobúses, autocar
 otomobil            carro, automóvil

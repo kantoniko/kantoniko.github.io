@@ -1,4 +1,5 @@
 Ladino             Hebrew
+metro               
 otobus              
 otobuses            
 otomobil            

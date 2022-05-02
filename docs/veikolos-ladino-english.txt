@@ -1,4 +1,5 @@
 Ladino             English
+metro               subway
 otobus              bus, motor-coach
 otobuses            buses, motor-coaches
 otomobil            car, automobile

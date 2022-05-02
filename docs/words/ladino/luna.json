@@ -1,1 +1,1 @@
-[{"accented": "lúna", "examples": [{"ladino": "Esta briyando komo la luna en kinze."}], "ladino": "luna", "source": "luna.yaml", "translations": {"english": ["moon"], "french": [], "portuguese": [], "spanish": ["luna"], "turkish": ["ay"]}}]
+[{"accented": "lúna", "examples": [{"ladino": "Esta briyando komo la luna en kinze."}], "gender": "feminine", "ladino": "luna", "number": "singular", "source": "luna.yaml", "translations": {"english": ["moon"], "french": [], "portuguese": [], "spanish": ["luna"], "turkish": ["ay"]}}]

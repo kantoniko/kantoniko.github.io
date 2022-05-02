@@ -11,10 +11,10 @@ doktor              doktor
 doktora             doktor
 doktores            doktor
 doktoras            doktor
-enfermero           
-enfermera           
-enfermeros          
-enfermeras          
+enfermero           hasta
+enfermera           hasta
+enfermeros          hastalar
+enfermeras          hastalar
 kantador            şarkıcı
 kantadera           şarkıcı
 kantadores          şarkıcı

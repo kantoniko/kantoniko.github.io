@@ -1,6 +1,6 @@
 Ladino             Turkish
-bluza               
-bluzas              
+bluza               bluz
+bluzas              bluzlar
 chapin              ayakkabı
 chapines            ayakkabı
 djaketa             ceket

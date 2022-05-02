@@ -1,13 +1,13 @@
 Ladino             Turkish
 Ardjentina          Arjantin
-Bosna               
-Bulgaria            
-Espanya             
-Fransia             
-Israel              
-Italya              
-Meksiko             
-Polonya             
-Suedia              
-Turkia              
+Bosna               Bosna
+Bulgaria            Bulgaristan
+Espanya             İspanya
+Fransia             Fransa
+Israel              İsrail
+Italya              İtalya
+Meksiko             Meksika
+Polonya             Polonya
+Suedia              İsveç
+Turkia              Türkiye
 Ungaria             Macaristan

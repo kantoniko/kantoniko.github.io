@@ -19,6 +19,10 @@ kantador            singer
 kantadera           singer
 kantadores          singers
 kantaderas          singers
+mediko              doctor
+medika              doctor
+medikos             doctors
+medikas             doctors
 moso                maid, servant
 mosa                maid, servant
 mosos               maids, servants

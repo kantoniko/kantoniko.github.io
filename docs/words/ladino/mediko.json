@@ -1,1 +1,1 @@
-[{"accented": "mediko", "alternative-spelling": [{"accented": "doktor", "ladino": "doktor"}], "ladino": "mediko", "source": "mediko.yaml", "translations": {"english": ["doctor"], "french": [], "portuguese": [], "spanish": ["médico"], "turkish": ["doktor"]}}]
+[{"alternative-spelling": [{"ladino": "doktor"}], "gender": "masculine", "ladino": "mediko", "number": "singular", "source": "mediko.yaml", "translations": {"english": ["doctor"], "french": [], "portuguese": [], "spanish": ["médico"], "turkish": ["doktor"]}}]

@@ -3,6 +3,7 @@ agua
 bira                
 chay                thé
 kafe                
+leche               lait
 sumo                
 vino                
 vino kolorado       vin rouge

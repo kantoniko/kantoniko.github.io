@@ -1,4 +1,6 @@
 Ladino             Turkish
+kuchundurya         karnıbahar
+kulupiya            karnıbahar
 prasa               prasa
 prasas              prasa
 safanorya           havuç

@@ -9,6 +9,7 @@ ivrit
 kasteyano           
 katalan             
 ladino              
+latin               
 portugez            
 turko               
 yiddish             

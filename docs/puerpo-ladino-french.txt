@@ -23,6 +23,7 @@ korason
 korasones           
 kovdo               
 kovdos              
+kulo                
 ligado              
 ligados             
 luenga              

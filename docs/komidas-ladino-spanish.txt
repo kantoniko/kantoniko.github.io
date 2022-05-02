@@ -2,7 +2,11 @@ Ladino             Spanish
 dondurma            helado
 dondurmas           helados
 hamburger           hamburguesa
+krem karamel        flan
 marunchinos         macarrón de almendras
+masa                masa
+masas               masas
+maydanoz            perejil
 miel                miel
 mina                empanada
 minas               empanadas

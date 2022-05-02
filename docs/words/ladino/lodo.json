@@ -1,1 +1,1 @@
-[{"accented": "lódo", "examples": [{"ladino": "No es un ombre - es lodo kon kanyo."}], "ladino": "lodo", "source": "lodo.yaml", "translations": {"english": ["mud"], "french": [], "portuguese": [], "spanish": ["lodo"], "turkish": ["çamur"]}}]
+[{"accented": "lódo", "examples": [{"ladino": "No es un ombre - es lodo kon kanyo."}], "gender": "masculine", "ladino": "lodo", "number": "singular", "source": "lodo.yaml", "translations": {"english": ["mud"], "french": [], "portuguese": [], "spanish": ["lodo"], "turkish": ["çamur"]}}]

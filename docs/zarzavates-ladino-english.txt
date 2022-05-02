@@ -1,4 +1,6 @@
 Ladino             English
+kuchundurya         cauliflower
+kulupiya            cauliflower
 prasa               leek
 prasas              leeks
 safanorya           carrot

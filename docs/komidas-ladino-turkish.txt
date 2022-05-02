@@ -2,7 +2,11 @@ Ladino             Turkish
 dondurma            dordurma
 dondurmas           dordurma
 hamburger           hamburger
+krem karamel        krem karamel
 marunchinos         bademli beze
+masa                hamur
+masas               hamur
+maydanoz            maydanoz
 miel                bal
 mina                börek
 minas               börek

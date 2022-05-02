@@ -23,6 +23,7 @@ korason             kalp
 korasones           kalp
 kovdo               dirsek
 kovdos              dirsek
+kulo                kıç
 ligado              ciğer, karaciğer
 ligados             ciğer, karaciğer
 luenga              dil

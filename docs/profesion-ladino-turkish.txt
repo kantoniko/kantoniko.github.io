@@ -19,6 +19,10 @@ kantador            şarkıcı
 kantadera           şarkıcı
 kantadores          şarkıcı
 kantaderas          şarkıcı
+mediko              doktor
+medika              doktor
+medikos             doktor
+medikas             doktor
 moso                hizmetçi
 mosa                hizmetçi
 mosos               hizmetçi

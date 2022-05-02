@@ -1,4 +1,6 @@
 Ladino             Spanish
+kuchundurya         coliflor
+kulupiya            coliflor
 prasa               puerro
 prasas              puerros
 safanorya           zanahoria

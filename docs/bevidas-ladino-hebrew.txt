@@ -3,6 +3,7 @@ agua
 bira                
 chay                
 kafe                
+leche               
 sumo                
 vino                
 vino kolorado       

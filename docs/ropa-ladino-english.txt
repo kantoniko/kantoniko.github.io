@@ -14,6 +14,7 @@ kalsado             shoe
 kalsados            shoes
 kamiza              shirt
 kamizas             shirts
+kundurya            shoe
 mortaja             shroud
 mortajas            shrouds
 pantofla            slipper

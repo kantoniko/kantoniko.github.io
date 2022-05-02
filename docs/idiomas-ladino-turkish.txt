@@ -9,6 +9,7 @@ ivrit               Ibranice
 kasteyano           Ispanyol, Kastilyalı, Ispanyolca
 katalan             
 ladino              
+latin               latin, latince
 portugez            
 turko               Türkçe
 yiddish             yidiş

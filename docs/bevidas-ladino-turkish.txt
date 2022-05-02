@@ -3,6 +3,7 @@ agua                su
 bira                bira
 chay                çay
 kafe                
+leche               süt
 sumo                usare (meyva suyu)
 vino                şarap
 vino kolorado       kırmızı şarap

@@ -1,1 +1,1 @@
-[{"accented": "mirakolo", "alternative-spelling": [{"accented": "milagro", "ladino": "milagro"}], "ladino": "mirakolo", "source": "mirakolo.yaml", "translations": {"english": ["miracle"], "french": [], "portuguese": [], "spanish": ["milagro"], "turkish": ["mucize"]}}]
+[{"alternative-spelling": [{"ladino": "milagro"}], "gender": "masculine", "ladino": "mirakolo", "number": "singular", "source": "mirakolo.yaml", "translations": {"english": ["miracle"], "french": [], "portuguese": [], "spanish": ["milagro"], "turkish": ["mucize"]}}]

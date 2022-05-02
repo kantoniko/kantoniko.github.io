@@ -12,10 +12,13 @@ gayna               chicken, chick
 gaynas              chickens, chicks
 kodrero             lamb
 kodreros            lambs
+kukuvaya            owl
 kulevra             snake
 kulevras            snakes
 lonso               bear
 lonsos              beers
+lovo                wolf
+lovos               wolfs
 oveja               sheep
 ovejas              sheep
 palaza              duck

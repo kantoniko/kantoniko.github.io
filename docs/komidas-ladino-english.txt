@@ -2,7 +2,11 @@ Ladino             English
 dondurma            ice cream
 dondurmas           ice creams
 hamburger           hamburger
+krem karamel        cream caramel
 marunchinos         almond macaroons
+masa                dough
+masas               dough
+maydanoz            parsley
 miel                honey
 mina                pastry
 minas               pastries

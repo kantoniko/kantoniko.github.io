@@ -19,6 +19,10 @@ kantador
 kantadera           
 kantadores          
 kantaderas          
+mediko              
+medika              
+medikos             
+medikas             
 moso                
 mosa                
 mosos               

@@ -3,6 +3,7 @@ agua                agua
 bira                cerveza
 chay                te
 kafe                café
+leche               leche
 sumo                zumo, jumo, jugo
 vino                vino
 vino kolorado       vino tinto

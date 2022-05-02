@@ -3,6 +3,7 @@ agua                water
 bira                beer
 chay                tea
 kafe                coffee
+leche               milk
 sumo                juice
 vino                wine
 vino kolorado       red wine

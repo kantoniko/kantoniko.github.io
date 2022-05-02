@@ -12,10 +12,13 @@ gayna               pollo
 gaynas              pollos
 kodrero             cordero
 kodreros            corderos
+kukuvaya            lechuza
 kulevra             serpiente
 kulevras            serpientes
 lonso               oso
 lonsos              osos
+lovo                lobo
+lovos               lobos
 oveja               oveja
 ovejas              ovejas
 palaza              pato

@@ -19,6 +19,10 @@ kantador            cantor
 kantadera           cantora
 kantadores          cantors
 kantaderas          cantoras
+mediko              médico
+medika              médica
+medikos             médicos
+medikas             médicas
 moso                criada, mozo
 mosa                criada, moza
 mosos               criadas, mozos

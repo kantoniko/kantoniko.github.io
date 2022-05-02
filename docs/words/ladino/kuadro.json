@@ -1,1 +1,1 @@
-[{"accented": "kuadro", "ladino": "kuadro", "source": "kuadro.yaml", "translations": {"english": ["frame"], "french": [], "portuguese": [], "spanish": ["cuadro"], "turkish": ["kadro", "çerçeve"]}}]
+[{"gender": "masculine", "ladino": "kuadro", "number": "singular", "source": "kuadro.yaml", "translations": {"english": ["frame"], "french": [], "portuguese": [], "spanish": ["cuadro", "marco"], "turkish": ["kadro", "çerçeve"]}}]

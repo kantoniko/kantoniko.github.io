@@ -33,6 +33,8 @@ mansana
 mansanas            
 melon               
 mora                
+muez                noz
+muezes              noz
 pera                
 peras               
 pomela              

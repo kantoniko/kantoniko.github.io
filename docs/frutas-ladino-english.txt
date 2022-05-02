@@ -33,6 +33,8 @@ mansana             apple
 mansanas            apples
 melon               melon
 mora                blackberry
+muez                walnut
+muezes              walnuts
 pera                pear
 peras               pears
 pomela              pomela

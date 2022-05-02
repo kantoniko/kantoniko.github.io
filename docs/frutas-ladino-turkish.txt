@@ -33,6 +33,8 @@ mansana             elma
 mansanas            elma
 melon               
 mora                
+muez                ceviz
+muezes              ceviz
 pera                
 peras               
 pomela              

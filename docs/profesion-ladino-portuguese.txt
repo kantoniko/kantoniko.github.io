@@ -23,6 +23,8 @@ moso
 mosa                
 mosos               
 mosas               
+paylacho            
+paylachos           
 profesor            
 profesora           
 profesores          

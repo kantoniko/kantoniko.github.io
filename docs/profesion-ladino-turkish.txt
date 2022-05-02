@@ -23,6 +23,8 @@ moso                hizmetçi
 mosa                hizmetçi
 mosos               hizmetçi
 mosas               hizmetçi
+paylacho            palyaço
+paylachos           palyaço
 profesor            öğretmen
 profesora           öğretmen
 profesores          

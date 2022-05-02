@@ -33,6 +33,8 @@ mansana             תפוח עץ
 mansanas            תפוחי עץ, תפוחים
 melon               מלון
 mora                אוכמניות
+muez                
+muezes              
 pera                אגס
 peras               אגסים
 pomela              פומלה

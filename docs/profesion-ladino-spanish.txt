@@ -23,6 +23,8 @@ moso                criada, mozo
 mosa                criada, moza
 mosos               criadas, mozos
 mosas               criadas, mozas
+paylacho            payaso
+paylachos           payasos
 profesor            profesor
 profesora           profesora
 profesores          profesores

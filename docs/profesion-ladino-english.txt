@@ -23,6 +23,8 @@ moso                maid, servant
 mosa                maid, servant
 mosos               maids, servants
 mosas               maids, servants
+paylacho            clown
+paylachos           clowns
 profesor            teacher
 profesora           teacher
 profesores          teachers

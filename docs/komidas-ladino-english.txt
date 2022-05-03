@@ -2,6 +2,11 @@ Ladino             English
 dondurma            ice cream
 dondurmas           ice creams
 hamburger           hamburger
+kezo                cheese
+kezos               cheeses
+kofte               meatball
+komposto            stew (of fruit)
+kompostos           stew (of fruit)
 krem karamel        cream caramel
 marunchinos         almond macaroons
 masa                dough

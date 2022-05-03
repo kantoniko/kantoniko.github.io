@@ -2,6 +2,11 @@ Ladino             Turkish
 dondurma            dordurma
 dondurmas           dordurma
 hamburger           hamburger
+kezo                peynir
+kezos               peynir
+kofte               köfte
+komposto            komposto
+kompostos           komposto
 krem karamel        krem karamel
 marunchinos         bademli beze
 masa                hamur

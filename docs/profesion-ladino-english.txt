@@ -19,6 +19,8 @@ kantador            singer
 kantadera           singer
 kantadores          singers
 kantaderas          singers
+kasap               butcher
+komersante          merchant
 mediko              doctor
 medika              doctor
 medikos             doctors

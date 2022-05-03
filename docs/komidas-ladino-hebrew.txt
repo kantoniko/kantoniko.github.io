@@ -2,6 +2,11 @@ Ladino             Hebrew
 dondurma            
 dondurmas           
 hamburger           
+kezo                
+kezos               
+kofte               
+komposto            
+kompostos           
 krem karamel        
 marunchinos         
 masa                

@@ -19,6 +19,8 @@ kantador
 kantadera           
 kantadores          
 kantaderas          
+kasap               
+komersante          
 mediko              
 medika              
 medikos             

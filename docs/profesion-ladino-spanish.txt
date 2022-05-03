@@ -19,6 +19,8 @@ kantador            cantor
 kantadera           cantora
 kantadores          cantors
 kantaderas          cantoras
+kasap               carnicero
+komersante          comerciante
 mediko              médico
 medika              médica
 medikos             médicos

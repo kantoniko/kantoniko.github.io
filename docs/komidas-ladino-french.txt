@@ -2,6 +2,11 @@ Ladino             French
 dondurma            crème glacée
 dondurmas           crème glacée
 hamburger           
+kezo                fromage
+kezos               fromage
+kofte               
+komposto            
+kompostos           
 krem karamel        
 marunchinos         
 masa                

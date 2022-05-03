@@ -1,4 +1,5 @@
 Ladino             English
+kol                 cabbage
 kuchundurya         cauliflower
 kulupiya            cauliflower
 prasa               leek

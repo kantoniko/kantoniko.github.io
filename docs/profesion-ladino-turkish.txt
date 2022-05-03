@@ -19,6 +19,8 @@ kantador            şarkıcı
 kantadera           şarkıcı
 kantadores          şarkıcı
 kantaderas          şarkıcı
+kasap               kasap
+komersante          tüccar
 mediko              doktor
 medika              doktor
 medikos             doktor

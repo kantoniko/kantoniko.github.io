@@ -1,4 +1,5 @@
 Ladino             Spanish
+kol                 col, repollo
 kuchundurya         coliflor
 kulupiya            coliflor
 prasa               puerro

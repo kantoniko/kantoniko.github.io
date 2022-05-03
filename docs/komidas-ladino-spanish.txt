@@ -2,6 +2,11 @@ Ladino             Spanish
 dondurma            helado
 dondurmas           helados
 hamburger           hamburguesa
+kezo                queso
+kezos               quesos
+kofte               albóndiga
+komposto            almíbar
+kompostos           almíbares
 krem karamel        flan
 marunchinos         macarrón de almendras
 masa                masa

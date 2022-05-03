@@ -1,4 +1,5 @@
 Ladino             Portuguese
+kol                 
 kuchundurya         
 kulupiya            
 prasa               

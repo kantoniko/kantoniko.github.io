@@ -1,4 +1,5 @@
 Ladino             Hebrew
+kol                 
 kuchundurya         
 kulupiya            
 prasa               

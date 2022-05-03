@@ -2,6 +2,11 @@ Ladino             Portuguese
 dondurma            
 dondurmas           
 hamburger           
+kezo                queijo
+kezos               queijos
+kofte               
+komposto            
+kompostos           
 krem karamel        
 marunchinos         
 masa                

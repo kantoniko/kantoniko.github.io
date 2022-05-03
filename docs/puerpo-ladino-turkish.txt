@@ -19,6 +19,7 @@ garon               boğaz
 kara                yanak, surat, yüz
 kavesa              baş
 kavesas             
+keshada             çene
 korason             kalp
 korasones           kalp
 kovdo               dirsek

@@ -1,4 +1,5 @@
 Ladino             French
+kol                 
 kuchundurya         
 kulupiya            
 prasa               

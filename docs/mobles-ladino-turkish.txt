@@ -7,6 +7,7 @@ frijider            boz dolabı
 frijideres          boz dolabı
 kama                yatak, döşek
 kamas               yatak, döşek
+kashon              çekmece
 meza                masa
 mezas               masa
 orno                fırın

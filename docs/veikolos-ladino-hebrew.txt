@@ -1,4 +1,8 @@
 Ladino             Hebrew
+karosa              
+karosas             
+koche               
+koches              
 metro               
 otobus              
 otobuses            

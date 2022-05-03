@@ -7,6 +7,7 @@ kezos               cheeses
 kofte               meatball
 komposto            stew (of fruit)
 kompostos           stew (of fruit)
+koyadura            salted anchovy (colatura)
 krem karamel        cream caramel
 marunchinos         almond macaroons
 masa                dough

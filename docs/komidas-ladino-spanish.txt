@@ -7,6 +7,7 @@ kezos               quesos
 kofte               albóndiga
 komposto            almíbar
 kompostos           almíbares
+koyadura            anchoa salada
 krem karamel        flan
 marunchinos         macarrón de almendras
 masa                masa

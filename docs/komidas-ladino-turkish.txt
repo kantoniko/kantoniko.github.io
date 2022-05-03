@@ -7,6 +7,7 @@ kezos               peynir
 kofte               köfte
 komposto            komposto
 kompostos           komposto
+koyadura            tuzlanmış hamsi
 krem karamel        krem karamel
 marunchinos         bademli beze
 masa                hamur

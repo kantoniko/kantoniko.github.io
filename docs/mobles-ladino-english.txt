@@ -7,6 +7,7 @@ frijider            refrigerator
 frijideres          refrigerators
 kama                bed, bedding
 kamas               bed, bedding
+kashon              drawer
 meza                table
 mezas               tables
 orno                oven

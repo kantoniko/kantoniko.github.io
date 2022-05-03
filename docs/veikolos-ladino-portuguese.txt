@@ -1,4 +1,8 @@
 Ladino             Portuguese
+karosa              
+karosas             
+koche               
+koches              
 metro               
 otobus              
 otobuses            

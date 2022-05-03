@@ -1,4 +1,8 @@
 Ladino             Spanish
+karosa              carroza
+karosas             carrozas
+koche               coche
+koches              coches
 metro               metro
 otobus              autobús, autocar
 otobuses            autobúses, autocar

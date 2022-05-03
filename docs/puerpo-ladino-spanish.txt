@@ -19,6 +19,7 @@ garon               garganta
 kara                mejilla, cara, rostro, semblante, faz
 kavesa              cabeza
 kavesas             cabezas
+kaveyo              cabello
 keshada             barbilla, mentón
 korason             corazón
 korasones           corazónes

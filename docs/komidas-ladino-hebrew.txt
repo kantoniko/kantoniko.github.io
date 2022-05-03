@@ -7,6 +7,7 @@ kezos
 kofte               
 komposto            
 kompostos           
+koyadura            
 krem karamel        
 marunchinos         
 masa                

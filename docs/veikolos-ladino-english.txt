@@ -1,4 +1,8 @@
 Ladino             English
+karosa              coach, carriage
+karosas             coaches, carriages
+koche               car
+koches              cars
 metro               subway
 otobus              bus, motor-coach
 otobuses            buses, motor-coaches

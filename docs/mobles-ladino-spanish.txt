@@ -7,6 +7,7 @@ frijider            nevera, refrigerador
 frijideres          neveras, refrigeradores
 kama                cama
 kamas               camas
+kashon              cajón
 meza                mesa
 mezas               mesas
 orno                horno

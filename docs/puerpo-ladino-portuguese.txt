@@ -19,6 +19,7 @@ garon
 kara                
 kavesa              cabeça
 kavesas             
+kaveyo              
 keshada             
 korason             
 korasones           

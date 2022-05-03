@@ -1,4 +1,8 @@
 Ladino             Turkish
+karosa              atlı araba
+karosas             atlı araba
+koche               araba
+koches              araba
 metro               metro
 otobus              otobüs
 otobuses            otobüs

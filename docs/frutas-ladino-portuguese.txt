@@ -1,53 +1,53 @@
 Ladino             Portuguese
-abrikok             
-afarsemon           
+abrikok             damasco
+afarsemon           caqui
 agranada            romã
-agranadas           romã
+agranadas           romãs
 ahududu             
-almendra            
+almendra            amêndoa
 almendras           
-ananas              
-asorva              
-avokado             
+ananas              abacaxi, ananás
+asorva              groselha
+avokado             abacate
 avramila            
 avramilas           
 banana              
 bananas             
-datile              
-eshkidunya          
+datile              tâmara
+eshkidunya          nêspera
 eshkidunyas         
-frambuaz            
-freza               
+frambuaz            framboesa
+freza               morango
 frezas              
-greyfrut            
+greyfrut            greipfrut
 harova              
 hurma               
-igo                 
-karpuz              
+igo                 figo
+karpuz              melancia
 karpuzes            
-limon               
+limon               limão
 limones             
-mandarina           
-mango               
-mansana             
+mandarina           tangerina
+mango               manga
+mansana             maçã
 mansanas            
-melon               
-mora                
+melon               melão
+mora                amora
 muez                noz
 muezes              noz
-pera                
+pera                pera
 peras               
 pomela              
-portokal            
+portokal            laranja
 portokales          
 sabra               
 salsamora           
-sereza              
+sereza              cereja
 serezas             
-shefteli            
+shefteli            pêssego
 sheftelis           
-torondja            
-uva                 
+torondja            toranja
+uva                 uva
 uvas                
-zirguela            
+zirguela            ameixa
 zirguelas           

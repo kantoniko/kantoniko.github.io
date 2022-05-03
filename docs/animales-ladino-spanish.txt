@@ -8,8 +8,15 @@ gato                gato
 gatos               gatos
 gatiko              
 gaya                zarguela
+gayina              gallina
+gayinas             gallinas
 gayna               pollo
 gaynas              pollos
+gayo                gallo
+gayos               gallos
+indiana             pavo
+indianas            pavos
+indiano             pavo
 kodrero             cordero
 kodreros            corderos
 kukuvaya            lechuza

@@ -1,4 +1,5 @@
 Ladino             Spanish
+instrumento de lokomosionvehículo
 karosa              carroza
 karosas             carrozas
 koche               coche

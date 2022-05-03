@@ -2,6 +2,7 @@ Ladino             English
 dondurma            ice cream
 dondurmas           ice creams
 hamburger           hamburger
+kacharola           pan, casserole
 kezo                cheese
 kezos               cheeses
 kofte               meatball

@@ -8,8 +8,15 @@ gato                cat
 gatos               cats
 gatiko              small cat
 gaya                forkbeard fish
+gayina              hen
+gayinas             hen
 gayna               chicken, chick
 gaynas              chickens, chicks
+gayo                cock
+gayos               cocks
+indiana             turkey
+indianas            turkeys
+indiano             turkey
 kodrero             lamb
 kodreros            lambs
 kukuvaya            owl

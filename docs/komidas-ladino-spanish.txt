@@ -2,6 +2,7 @@ Ladino             Spanish
 dondurma            helado
 dondurmas           helados
 hamburger           hamburguesa
+kacharola           cazuela
 kezo                queso
 kezos               quesos
 kofte               albóndiga

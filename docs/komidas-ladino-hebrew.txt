@@ -2,6 +2,7 @@ Ladino             Hebrew
 dondurma            
 dondurmas           
 hamburger           
+kacharola           
 kezo                
 kezos               
 kofte               

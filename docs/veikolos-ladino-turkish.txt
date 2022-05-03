@@ -1,4 +1,5 @@
 Ladino             Turkish
+instrumento de lokomosiontaşıt aracı
 karosa              atlı araba
 karosas             atlı araba
 koche               araba

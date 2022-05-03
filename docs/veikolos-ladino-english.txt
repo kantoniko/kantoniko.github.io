@@ -1,4 +1,5 @@
 Ladino             English
+instrumento de lokomosionvehicle
 karosa              coach, carriage
 karosas             coaches, carriages
 koche               car

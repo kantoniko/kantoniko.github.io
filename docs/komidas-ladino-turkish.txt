@@ -2,6 +2,7 @@ Ladino             Turkish
 dondurma            dordurma
 dondurmas           dordurma
 hamburger           hamburger
+kacharola           sahan, tencere
 kezo                peynir
 kezos               peynir
 kofte               köfte

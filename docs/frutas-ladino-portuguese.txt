@@ -5,7 +5,7 @@ agranada            romã
 agranadas           romãs
 ahududu             
 almendra            amêndoa
-almendras           
+almendras           amêndoas
 ananas              abacaxi, ananás
 asorva              groselha
 avokado             abacate
@@ -15,39 +15,39 @@ banana
 bananas             
 datile              tâmara
 eshkidunya          nêspera
-eshkidunyas         
+eshkidunyas         nêsperas
 frambuaz            framboesa
 freza               morango
-frezas              
+frezas              morangos
 greyfrut            greipfrut
 harova              
 hurma               
 igo                 figo
 karpuz              melancia
-karpuzes            
+karpuzes            melancias
 limon               limão
-limones             
+limones             limãos
 mandarina           tangerina
 mango               manga
 mansana             maçã
-mansanas            
+mansanas            maçãs
 melon               melão
 mora                amora
 muez                noz
 muezes              noz
 pera                pera
-peras               
+peras               peras
 pomela              
 portokal            laranja
-portokales          
+portokales          laranjas
 sabra               
 salsamora           
 sereza              cereja
-serezas             
+serezas             cerejas
 shefteli            pêssego
-sheftelis           
+sheftelis           pêssegos
 torondja            toranja
 uva                 uva
-uvas                
+uvas                uvas
 zirguela            ameixa
-zirguelas           
+zirguelas           ameixas

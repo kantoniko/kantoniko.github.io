@@ -1,4 +1,5 @@
 Ladino             Spanish
+hohombro            cohombre
 kol                 col, repollo
 kuchundurya         coliflor
 kulupiya            coliflor

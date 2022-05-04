@@ -4,6 +4,7 @@ alicha
 azno                asno
 aznos               asnos
 elefante            
+gamba               
 gato                
 gatos               
 gatiko              

@@ -1,1 +1,1 @@
-[{"accented": "garsona", "ladino": "garsona", "source": "garsona.yaml", "translations": {"english": ["waitress"], "french": [], "portuguese": [], "spanish": ["camarera"], "turkish": ["garson"]}}]
+[{"gender": "feminine", "ladino": "garsona", "number": "singular", "source": "garson.yaml", "translations": {"english": ["waitress"], "french": [], "portuguese": [], "spanish": ["camarera"], "turkish": ["garson"]}}]

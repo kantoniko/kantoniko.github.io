@@ -1,1 +1,1 @@
-[{"gender": "feminine", "ladino": "inisial", "number": "singular", "source": "inisial.yaml", "translations": {"english": ["initial"], "french": [], "portuguese": [], "spanish": ["inicial"], "turkish": ["baştaki"]}}]
+[{"alternative-spelling": [{"ladino": "inisiala"}], "gender": "feminine", "ladino": "inisial", "number": "singular", "source": "inisial.yaml", "translations": {"english": ["initial"], "french": [], "portuguese": [], "spanish": ["inicial"], "turkish": ["baştaki"]}}]

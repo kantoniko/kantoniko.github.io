@@ -15,6 +15,10 @@ enfermero           enfermero
 enfermera           enfermera
 enfermeros          enfermeros
 enfermeras          enfermeras
+frutero             frutería
+garson              camarero
+garsona             camarera
+garsones            camareros
 kantador            cantor
 kantadera           cantora
 kantadores          cantors

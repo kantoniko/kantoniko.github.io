@@ -4,6 +4,7 @@ alicha              fish, very small
 azno                donkey
 aznos               donkeys
 elefante            elephant
+gamba               prawn
 gato                cat
 gatos               cats
 gatiko              small cat

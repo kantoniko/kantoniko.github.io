@@ -4,6 +4,7 @@ alicha              kıraça, küçük balık
 azno                eşek
 aznos               eşek
 elefante            fil
+gamba               iri karides
 gato                kedi
 gatos               
 gatiko              

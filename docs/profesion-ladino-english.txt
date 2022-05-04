@@ -15,6 +15,10 @@ enfermero           nurse
 enfermera           nurse
 enfermeros          nurses
 enfermeras          nurses
+frutero             fruit seller
+garson              waiter
+garsona             waitress
+garsones            waiters
 kantador            singer
 kantadera           singer
 kantadores          singers

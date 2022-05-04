@@ -15,6 +15,10 @@ enfermero           hasta
 enfermera           hasta
 enfermeros          hastalar
 enfermeras          hastalar
+frutero             meyvaci
+garson              garson
+garsona             garson
+garsones            garson
 kantador            şarkıcı
 kantadera           şarkıcı
 kantadores          şarkıcı

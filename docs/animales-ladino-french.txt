@@ -4,6 +4,7 @@ alicha              poisson très petit
 azno                âne
 aznos               âne
 elefante            
+estridia            
 gamba               
 gato                
 gatos               

@@ -19,6 +19,7 @@ eshkidunyas         loquats
 frambuaz            raspberry
 freza               strawberry
 frezas              strawberries
+fruto del pino      pine-cone
 greyfrut            grapefruit
 harova              carob
 hurma               persimmon

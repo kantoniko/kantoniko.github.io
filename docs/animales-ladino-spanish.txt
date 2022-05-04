@@ -4,6 +4,7 @@ alicha              pescado muy pequeño
 azno                burro, asno
 aznos               burros, asnos
 elefante            elefante
+estridia            ostra
 gamba               gamba
 gato                gato
 gatos               gatos

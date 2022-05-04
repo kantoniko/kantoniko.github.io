@@ -19,6 +19,7 @@ eshkidunyas         nísperos
 frambuaz            frambuaz
 freza               fresa
 frezas              fresas
+fruto del pino      piña
 greyfrut            pomelo, toronja
 harova              algarroba
 hurma               caqui

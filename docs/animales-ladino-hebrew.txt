@@ -4,6 +4,7 @@ alicha
 azno                
 aznos               
 elefante            
+estridia            
 gamba               
 gato                חתול
 gatos               חתולים

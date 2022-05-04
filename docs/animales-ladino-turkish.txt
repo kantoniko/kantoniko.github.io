@@ -7,13 +7,13 @@ elefante            fil
 estridia            istiridye
 gamba               iri karides
 gato                kedi
-gatos               
-gatiko              
+gatos               kediler
+gatiko              yavru kedi
 gaya                gelincik, kaya balığı
 gayina              tavuk
 gayinas             tavuk
 gayna               piliç
-gaynas              
+gaynas              tavuklar
 gayo                horoz
 gayos               horoz
 indiana             hindi

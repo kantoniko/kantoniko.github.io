@@ -2,7 +2,7 @@ Ladino             Turkish
 agua                su
 bira                bira
 chay                çay
-kafe                
+kafe                kahve
 leche               süt
 sumo                usare (meyva suyu)
 vino                şarap

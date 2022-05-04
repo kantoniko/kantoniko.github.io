@@ -7,7 +7,7 @@ espanyol            ispanyol
 fransez             fransız
 ivrit               Ibranice
 kasteyano           Ispanyol, Kastilyalı, Ispanyolca
-katalan             
+katalan             Katalan
 ladino              
 latin               latin, latince
 portugez            

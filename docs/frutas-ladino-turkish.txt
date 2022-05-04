@@ -14,14 +14,14 @@ avramilas           can eriği
 banana              muz
 bananas             muz
 datile              hurma
-eshkidunya          
-eshkidunyas         
-frambuaz            
-freza               
-frezas              
+eshkidunya          Muşmula
+eshkidunyas         Muşmulalar
+frambuaz            ahududu
+freza               çilek
+frezas              çilekler
 fruto del pino      kozalak
-greyfrut            
-harova              
+greyfrut            greyfrut, altıntop
+harova              keçiboynuzu
 hurma               
 igo                 incir
 karpuz              karpuz

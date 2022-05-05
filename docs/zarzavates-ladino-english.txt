@@ -1,6 +1,9 @@
 Ladino             English
 anchua              anchovy
+asparago            asparagus
+ava                 dry beans
 ava freska          broad beans, fava beans
+barbunya fasulya    beans (fresh butterbeans)
 hohombro            cucumber
 kol                 cabbage
 kuchundurya         cauliflower

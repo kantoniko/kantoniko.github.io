@@ -11,6 +11,7 @@ asorva              grosella
 avokado             avocado
 avramila            ciruela verde
 avramilas           ciruelas verdes
+avyana              avellana
 banana              plátano
 bananas             plátanos
 datile              dátil

@@ -4,6 +4,8 @@ alicha              fish, very small
 aranya              spider
 azno                donkey
 aznos               donkeys
+bakanyado           cod fish
+barbunya            red mullet fish
 elefante            elephant
 estridia            oyster
 gamba               prawn

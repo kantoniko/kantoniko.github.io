@@ -1,1 +1,1 @@
-[{"accented": "brávo", "alternative-spelling": [{"accented": "bráva", "ladino": "brava"}], "examples": [{"ladino": "Admiro estos bravos djurnalistos.\n"}], "ladino": "bravo", "source": "bravo.yaml", "translations": {"english": ["brave"], "french": [], "portuguese": [], "spanish": ["bravo", "brava"], "turkish": ["cesur"]}}]
+[{"accented": "bráva", "gender": "feminine", "ladino": "brava", "number": "singular", "source": "bravo.yaml", "translations": {"english": ["brave"], "french": [], "portuguese": [], "spanish": ["brava"], "turkish": ["cesur"]}}]

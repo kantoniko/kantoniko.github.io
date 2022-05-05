@@ -1,4 +1,9 @@
 Ladino             English
+avion               plane, airplane
+aviones             planes, airplanes
+barka               boat (small)
+barka motorizada    motorboat
+bisikleta           bicycle
 instrumento de lokomosionvehicle
 karosa              coach, carriage
 karosas             coaches, carriages

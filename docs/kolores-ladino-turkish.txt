@@ -1,0 +1,10 @@
+Ladino             Turkish
+blanko              beyaz
+blanka              beyaz
+blankos             beyaz
+blankas             beyaz
+blu                 mavi
+kolorado            kırmızı
+kolorada            kırmızı
+kolorados           kırmızı
+koloradas           kırmızı

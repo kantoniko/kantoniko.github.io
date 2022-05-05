@@ -1,4 +1,9 @@
 Ladino             Spanish
+avion               avión
+aviones             aviónes
+barka               barca
+barka motorizada    motora
+bisikleta           bicicleta
 instrumento de lokomosionvehículo
 karosa              carroza
 karosas             carrozas

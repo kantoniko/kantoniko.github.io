@@ -1,6 +1,9 @@
 Ladino             Turkish
 anchua              hamsi
+asparago            kuşkonmaz
+ava                 kuru fasulye
 ava freska          bakla
+barbunya fasulya    barbunya fasulyesi
 hohombro            hıyar, salatalık
 kol                 lahana
 kuchundurya         karnıbahar

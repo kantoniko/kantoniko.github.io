@@ -11,6 +11,7 @@ asorva
 avokado             
 avramila            
 avramilas           
+avyana              
 banana              
 bananas             
 datile              

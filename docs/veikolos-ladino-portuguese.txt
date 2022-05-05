@@ -1,4 +1,9 @@
 Ladino             Portuguese
+avion               
+aviones             
+barka               
+barka motorizada    
+bisikleta           
 instrumento de lokomosion
 karosa              
 karosas             

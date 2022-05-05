@@ -1,1 +1,1 @@
-[{"ladino": "avlas", "source": "avlar.yaml", "translations": {"english": ["speak"], "turkish": ["konuşursun"]}}]
+[{"ladino": "avlas", "source": "avlar.yaml", "translations": {"english": ["speak"], "turkish": ["konuşursun"]}}, {"accented": "ávlas", "gender": "feminine", "ladino": "avlas", "number": "plural", "source": "avla.yaml", "translations": {"english": ["speeches", "languages", "dialects"], "french": [], "portuguese": [], "spanish": ["hablas"], "turkish": ["konuşma", "laf", "dil", "lehçe"]}}]

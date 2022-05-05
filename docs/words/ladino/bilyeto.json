@@ -1,1 +1,1 @@
-[{"accented": "bilieto", "alternative-spelling": [{"accented": "bilyeto", "ladino": "bilyeto"}], "ladino": "bilieto", "source": "bilieto.yaml", "translations": {"english": ["ticket"], "french": [], "portuguese": [], "spanish": ["billete"], "turkish": ["bilet"]}}]
+[{"alternative-spelling": [{"ladino": "bilyeto"}], "gender": "masculine", "ladino": "bilieto", "number": "singular", "source": "bilieto.yaml", "translations": {"english": ["ticket"], "french": [], "portuguese": [], "spanish": ["billete"], "turkish": ["bilet"]}}]

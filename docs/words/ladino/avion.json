@@ -1,1 +1,1 @@
-[{"accented": "avion", "ladino": "avion", "source": "avion.yaml", "translations": {"english": ["plane", "airplane"], "french": [], "portuguese": [], "spanish": ["avión"], "turkish": ["uçak"]}}]
+[{"gender": "masculine", "ladino": "avion", "number": "singular", "source": "avion.yaml", "translations": {"english": ["plane", "airplane"], "french": [], "portuguese": [], "spanish": ["avión"], "turkish": ["uçak"]}}]

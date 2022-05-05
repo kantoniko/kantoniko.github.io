@@ -1,6 +1,9 @@
 Ladino             Spanish
 anchua              anchoa
+asparago            espárrago
+ava                 judía blanca
 ava freska          habicuela, judía
+barbunya fasulya    habichuela rosa
 hohombro            cohombre
 kol                 col, repollo
 kuchundurya         coliflor

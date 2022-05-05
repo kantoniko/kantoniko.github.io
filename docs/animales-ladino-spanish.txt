@@ -4,6 +4,8 @@ alicha              pescado muy pequeño
 aranya              araña
 azno                burro, asno
 aznos               burros, asnos
+bakanyado           bacallao
+barbunya            salmonete
 elefante            elefante
 estridia            ostra
 gamba               gamba

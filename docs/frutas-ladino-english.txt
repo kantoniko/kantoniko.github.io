@@ -11,6 +11,7 @@ asorva              currant
 avokado             avocado
 avramila            green plum
 avramilas           green plums
+avyana              hazelnut
 banana              banana
 bananas             bananas
 datile              date

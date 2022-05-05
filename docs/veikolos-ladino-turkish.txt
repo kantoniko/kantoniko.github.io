@@ -1,4 +1,9 @@
 Ladino             Turkish
+avion               uçak
+aviones             uçak
+barka               kayık
+barka motorizada    motorlu tekne
+bisikleta           bisiklet
 instrumento de lokomosiontaşıt aracı
 karosa              atlı araba
 karosas             atlı araba

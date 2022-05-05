@@ -4,6 +4,8 @@ alicha              kıraça, küçük balık
 aranya              örümcek
 azno                eşek
 aznos               eşek
+bakanyado           morina balığı
+barbunya            barbunya balığı
 elefante            fil
 estridia            istiridye
 gamba               iri karides

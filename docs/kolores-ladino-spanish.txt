@@ -1,0 +1,10 @@
+Ladino             Spanish
+blanko              blanco
+blanka              blanca
+blankos             blancos
+blankas             blancas
+blu                 azul
+kolorado            rojo
+kolorada            roja
+kolorados           rojos
+koloradas           rojas

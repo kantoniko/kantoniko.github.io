@@ -1,6 +1,7 @@
 Ladino             Portuguese
 abistru             avestruz
 alicha              
+aranya              
 azno                asno
 aznos               asnos
 elefante            

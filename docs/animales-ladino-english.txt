@@ -1,6 +1,7 @@
 Ladino             English
 abistru             ostrich
 alicha              fish, very small
+aranya              spider
 azno                donkey
 aznos               donkeys
 elefante            elephant

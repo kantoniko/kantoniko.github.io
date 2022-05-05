@@ -1,5 +1,6 @@
 Ladino             English
 anchua              anchovy
+ava freska          broad beans, fava beans
 hohombro            cucumber
 kol                 cabbage
 kuchundurya         cauliflower

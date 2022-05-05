@@ -1,6 +1,7 @@
 Ladino             Hebrew
 abistru             
 alicha              
+aranya              
 azno                
 aznos               
 elefante            

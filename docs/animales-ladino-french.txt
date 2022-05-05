@@ -1,6 +1,7 @@
 Ladino             French
 abistru             autruche
 alicha              poisson très petit
+aranya              araignée
 azno                âne
 aznos               âne
 elefante            

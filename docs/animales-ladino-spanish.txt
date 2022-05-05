@@ -1,6 +1,7 @@
 Ladino             Spanish
 abistru             avestruz
 alicha              pescado muy pequeño
+aranya              araña
 azno                burro, asno
 aznos               burros, asnos
 elefante            elefante

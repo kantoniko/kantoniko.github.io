@@ -1,6 +1,7 @@
 Ladino             Turkish
 abistru             devekuşu
 alicha              kıraça, küçük balık
+aranya              örümcek
 azno                eşek
 aznos               eşek
 elefante            fil

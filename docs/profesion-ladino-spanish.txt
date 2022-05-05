@@ -1,4 +1,5 @@
 Ladino             Spanish
+ambasador           embajador
 avokato             abogado
 avokata             abogada
 avokatos            abogados

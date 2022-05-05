@@ -1,4 +1,6 @@
 Ladino             English
+aluenga             tongue
+arma                arm
 boka                mouth
 bokas               mouthes
 braso               arm

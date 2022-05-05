@@ -1,4 +1,6 @@
 Ladino             French
+aluenga             
+arma                
 boka                bouche
 bokas               bouche
 braso               bras

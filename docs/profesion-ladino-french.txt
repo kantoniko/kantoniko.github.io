@@ -1,4 +1,5 @@
 Ladino             French
+ambasador           
 avokato             
 avokata             
 avokatos            

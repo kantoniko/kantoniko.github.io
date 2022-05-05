@@ -1,4 +1,6 @@
 Ladino             Hebrew
+aluenga             
+arma                
 boka                
 bokas               
 braso               

@@ -1,4 +1,9 @@
 Ladino             Turkish
+abudaho             balık yumurtası
+alburniya           domatesli patlıcan kızartma
+alkide              akide şekeri
+anchusa             kaygana
+arroz               pirinç
 dondurma            dordurma
 dondurmas           dordurma
 hamburger           hamburger

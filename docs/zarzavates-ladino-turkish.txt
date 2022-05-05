@@ -1,4 +1,5 @@
 Ladino             Turkish
+anchua              hamsi
 hohombro            hıyar, salatalık
 kol                 lahana
 kuchundurya         karnıbahar

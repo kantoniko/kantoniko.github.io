@@ -1,4 +1,6 @@
 Ladino             Turkish
+aluenga             dil
+arma                silah
 boka                ağız
 bokas               ağız
 braso               kol

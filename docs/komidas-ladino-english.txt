@@ -1,4 +1,9 @@
 Ladino             English
+abudaho             dried salted fish roe
+alburniya           fried eggplant in tomato sauce
+alkide              sugar candy
+anchusa             spinach baked with egg and cheese
+arroz               rice
 dondurma            ice cream
 dondurmas           ice creams
 hamburger           hamburger

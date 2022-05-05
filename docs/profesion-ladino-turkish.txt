@@ -1,4 +1,5 @@
 Ladino             Turkish
+ambasador           büyük elçi
 avokato             avukat
 avokata             avukat
 avokatos            avukat

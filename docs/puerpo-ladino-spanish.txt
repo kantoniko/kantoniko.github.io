@@ -1,4 +1,6 @@
 Ladino             Spanish
+aluenga             luenga
+arma                arma
 boka                boca
 bokas               bocas
 braso               brazo

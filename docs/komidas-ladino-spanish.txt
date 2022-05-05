@@ -1,4 +1,9 @@
 Ladino             Spanish
+abudaho             hueva seca salada
+alburniya           berenjena frita con tomate
+alkide              azúcar cande
+anchusa             gratinado de espinaca con huevo y queso
+arroz               arroz
 dondurma            helado
 dondurmas           helados
 hamburger           hamburguesa

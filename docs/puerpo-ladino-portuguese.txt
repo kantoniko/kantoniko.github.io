@@ -1,4 +1,6 @@
 Ladino             Portuguese
+aluenga             
+arma                
 boka                boca
 bokas               bocas
 braso               braço

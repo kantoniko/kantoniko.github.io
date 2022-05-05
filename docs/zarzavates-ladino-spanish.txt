@@ -1,4 +1,5 @@
 Ladino             Spanish
+anchua              anchoa
 hohombro            cohombre
 kol                 col, repollo
 kuchundurya         coliflor

@@ -8,6 +8,7 @@ baylador            bailarín
 bayladera           bailarina
 bayladores          bailarín
 bayladeras          bailarinas
+djoyero             joyero
 doktor              doctor
 doktora             doctora
 doktores            doctores

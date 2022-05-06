@@ -8,6 +8,7 @@ baylador            dancer, ballet-dancer
 bayladera           dancer, ballet-dancer
 bayladores          dancers, ballet-dancers
 bayladeras          dancers, ballet-dancers
+djoyero             jeweler
 doktor              doctor
 doktora             doctor
 doktores            doctors

@@ -8,6 +8,7 @@ baylador            dansör
 bayladera           dansöz
 bayladores          dansör
 bayladeras          dansöz
+djoyero             kuyumcu
 doktor              doktor
 doktora             doktor
 doktores            doktor

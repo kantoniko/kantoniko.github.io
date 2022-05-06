@@ -9,6 +9,7 @@ bilibiz             garbanzo tostado
 boyo de rayo        bollo con queso rallado
 dondurma            helado
 dondurmas           helados
+estragalakya        garbanzo tostado blanco
 hamburger           hamburguesa
 kacharola           cazuela
 kezo                queso

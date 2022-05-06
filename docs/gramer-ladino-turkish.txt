@@ -1,7 +1,11 @@
 Ladino             Turkish
 abreviasion         kısaltma
 adjektival          sıfatsal
+konjugasion         
+konjugasiones       
 prefikso            
 prepozision         edat
 prepozisiones       edat
 prezente            şimdiki zaman
+verbo               fiil
+verbos              

@@ -1,7 +1,11 @@
 Ladino             English
 abreviasion         abbreviation
 adjektival          adjectival
+konjugasion         conjugation
+konjugasiones       conjugations
 prefikso            prefix
 prepozision         preposition
 prepozisiones       prepositions
 prezente            present
+verbo               verb
+verbos              verbs

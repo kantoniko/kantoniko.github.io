@@ -1,7 +1,11 @@
 Ladino             French
 abreviasion         
 adjektival          
+konjugasion         
+konjugasiones       
 prefikso            
 prepozision         
 prepozisiones       
 prezente            
+verbo               
+verbos              

@@ -1,7 +1,8 @@
-Ladino             French
+Ladino             Portuguese
 Inglez              
-aleman              allemand
+aleman              alemão
 arabo               
+djudeo-espanyol     
 ebreo               
 espanyol            
 fransez             

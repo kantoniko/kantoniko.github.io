@@ -2,6 +2,7 @@ Ladino             English
 Inglez              English
 aleman              German
 arabo               Arab
+djudeo-espanyol     judeo-spanish
 ebreo               Hebrew
 espanyol            Spanish
 fransez             French

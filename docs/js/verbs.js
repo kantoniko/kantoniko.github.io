@@ -73,4 +73,3 @@ function conjugations(verb) {
 
     return data
 }
-module.exports.conjugations = conjugations;

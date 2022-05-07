@@ -4,6 +4,9 @@ aleman              גרמנית
 arabo               ערבית
 djudeo-espanyol     
 ebreo               
+ebrea               
+ebreos              
+ebreas              
 espanyol            
 fransez             
 ivrit               

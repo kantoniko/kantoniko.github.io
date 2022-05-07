@@ -1,1 +1,1 @@
-[{"accented": "es", "ladino": "es", "source": "es.yaml", "translations": {"english": ["it", "it is"], "french": [], "portuguese": [], "spanish": ["es"], "turkish": ["dır", "dir"]}}]
+[{"ladino": "es", "source": "ser.yaml", "translations": {"english": ["he is", "she is", "it is"], "spanish": ["es"]}}, {"accented": "es", "ladino": "es", "source": "es.yaml", "translations": {"english": ["it", "it is"], "french": [], "portuguese": [], "spanish": ["es"], "turkish": ["dır", "dir"]}}]

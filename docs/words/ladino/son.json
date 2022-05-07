@@ -1,1 +1,1 @@
-[{"examples": [{"ladino": "Se oye el son de la kampana."}], "ladino": "son", "source": "son.yaml", "translations": {"english": ["sound"], "french": [], "portuguese": [], "spanish": ["son"], "turkish": ["ses"]}}]
+[{"examples": [{"ladino": "Se oye el son de la kampana."}], "ladino": "son", "source": "son.yaml", "translations": {"english": ["sound"], "french": [], "portuguese": [], "spanish": ["son"], "turkish": ["ses"]}}, {"ladino": "son", "source": "ser.yaml", "translations": {"english": ["they are"], "spanish": ["son"]}}]

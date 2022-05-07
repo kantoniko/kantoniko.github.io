@@ -4,6 +4,9 @@ aleman              Alman, almanca
 arabo               arap
 djudeo-espanyol     Yahudice, Musevice
 ebreo               ıbranıce
+ebrea               ıbranıce
+ebreos              ıbranıce
+ebreas              ıbranıce
 espanyol            ispanyol
 fransez             fransız
 ivrit               Ibranice

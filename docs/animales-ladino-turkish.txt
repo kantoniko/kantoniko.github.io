@@ -27,8 +27,8 @@ kodreros            kuzu
 kukuvaya            baykuş
 kulevra             yılan
 kulevras            yılan
-lonso               
-lonsos              
+lonso               ayı
+lonsos              ayılar
 lovo                kurt
 lovos               kurt
 oveja               koyun

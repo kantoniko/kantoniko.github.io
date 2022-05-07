@@ -29,12 +29,12 @@ karpuz              karpuz
 karpuzes            karpuz
 limon               limon
 limones             limon
-mandarina           
-mango               
+mandarina           mandarina
+mango               mango
 mansana             elma
 mansanas            elma
-melon               
-mora                
+melon               kavun
+mora                dut
 muez                ceviz
 muezes              ceviz
 pera                

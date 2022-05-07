@@ -31,9 +31,9 @@ maridos             koca, eş
 mujer               kadın
 mujeres             kadın
 nono                dede
-nona                
+nona                büyükanne
 nonos               dede
-nonas               
+nonas               büyükanneler
 padre               baba
 padres              baba
 padres              ebeveyn

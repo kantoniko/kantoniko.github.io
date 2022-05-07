@@ -12,7 +12,7 @@ fransez             fransız
 ivrit               Ibranice
 kasteyano           Ispanyol, Kastilyalı, Ispanyolca
 katalan             Katalan
-ladino              
+ladino              ladino
 latin               latin, latince
 portugez            
 turko               Türkçe

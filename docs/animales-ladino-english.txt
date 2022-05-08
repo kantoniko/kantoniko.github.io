@@ -27,8 +27,14 @@ kodreros            lambs
 kukuvaya            owl
 kulevra             snake
 kulevras            snakes
+leon                lion
+leonesa             lioness
+leones              lions
+leonesas            lionesses
 lonso               bear
 lonsos              beers
+lopardo             leopard
+leopardesa          leopard
 lovo                wolf
 lovos               wolfs
 oveja               sheep
@@ -45,7 +51,10 @@ peshkado            fish
 peshkados           fish
 poyo                chicken, chick
 poyos               chickens, chicks
+raton               rat
 renar               fox
 sigonya             stork
+tigro               tigre
+tigresa             tigre
 toro                bull
 toros               bulls

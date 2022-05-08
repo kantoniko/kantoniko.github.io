@@ -27,8 +27,14 @@ kodreros
 kukuvaya            
 kulevra             
 kulevras            
+leon                
+leonesa             
+leones              
+leonesas            
 lonso               דוב
 lonsos              דובים
+lopardo             
+leopardesa          
 lovo                
 lovos               
 oveja               
@@ -45,7 +51,10 @@ peshkado
 peshkados           
 poyo                תרנגולת
 poyos               תרנגולות
+raton               
 renar               
 sigonya             חסידה
+tigro               
+tigresa             
 toro                
 toros               

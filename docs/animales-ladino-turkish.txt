@@ -27,8 +27,14 @@ kodreros            kuzu
 kukuvaya            baykuş
 kulevra             yılan
 kulevras            yılan
+leon                aslan
+leonesa             
+leones              aslanlar
+leonesas            
 lonso               ayı
 lonsos              ayılar
+lopardo             
+leopardesa          
 lovo                kurt
 lovos               kurt
 oveja               koyun
@@ -45,7 +51,10 @@ peshkado            balık
 peshkados           balık
 poyo                piliç
 poyos               
+raton               fare
 renar               tilki
 sigonya             leylek
+tigro               
+tigresa             
 toro                boğa
 toros               boğa

@@ -27,8 +27,14 @@ kodreros
 kukuvaya            
 kulevra             
 kulevras            
+leon                léon
+leonesa             
+leones              
+leonesas            
 lonso               
 lonsos              
+lopardo             
+leopardesa          
 lovo                
 lovos               
 oveja               brebis
@@ -45,7 +51,10 @@ peshkado            poisson
 peshkados           poisson
 poyo                poulet
 poyos               
+raton               
 renar               
 sigonya             
+tigro               
+tigresa             
 toro                
 toros               

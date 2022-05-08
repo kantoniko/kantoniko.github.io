@@ -27,8 +27,14 @@ kodreros            corderos
 kukuvaya            lechuza
 kulevra             serpiente
 kulevras            serpientes
+leon                león
+leonesa             
+leones              leónes
+leonesas            
 lonso               oso
 lonsos              osos
+lopardo             
+leopardesa          
 lovo                lobo
 lovos               lobos
 oveja               oveja
@@ -45,7 +51,10 @@ peshkado            pescado
 peshkados           pescados
 poyo                pollo
 poyos               pollos
+raton               rata
 renar               zorro
 sigonya             cigüeña
+tigro               
+tigresa             
 toro                toro
 toros               toros

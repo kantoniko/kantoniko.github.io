@@ -42,7 +42,7 @@ ovejas              koyun
 palaza              ördek
 palazas             ördek
 pasharo             kuş
-pasharos            
+pasharos            kuşlar
 pato                kaz
 patos               kaz
 perro               köpek
@@ -50,7 +50,7 @@ perros              köpek
 peshkado            balık
 peshkados           balık
 poyo                piliç
-poyos               
+poyos               civcivler
 raton               fare
 renar               tilki
 sigonya             leylek

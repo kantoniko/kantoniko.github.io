@@ -39,8 +39,8 @@ paylacho            palyaço
 paylachos           palyaço
 profesor            öğretmen
 profesora           öğretmen
-profesores          
-profesoras          
+profesores          öğretmenler
+profesoras          öğretmenler
 shofor              şoför
 shofores            şoför
 spiker              spiker

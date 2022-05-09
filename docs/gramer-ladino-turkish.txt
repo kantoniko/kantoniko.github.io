@@ -3,7 +3,7 @@ abreviasion         kısaltma
 adjektival          sıfatsal
 konjugasion         
 konjugasiones       
-prefikso            
+prefikso            ön ek
 prepozision         edat
 prepozisiones       edat
 prezente            şimdiki zaman

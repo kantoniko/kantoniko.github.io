@@ -37,15 +37,15 @@ melon               kavun
 mora                dut
 muez                ceviz
 muezes              ceviz
-pera                
-peras               
-pomela              
+pera                armut
+peras               armutlar
+pomela              greyfurt
 portokal            portakal
 portokales          portakal
-sabra               
+sabra               Frenk yemişi
 salsamora           
-sereza              
-serezas             
+sereza              kiraz
+serezas             kirazlar
 shefteli            şeftali
 sheftelis           şeftali
 torondja            

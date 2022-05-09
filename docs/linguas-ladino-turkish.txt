@@ -14,6 +14,6 @@ kasteyano           Ispanyol, Kastilyalı, Ispanyolca
 katalan             Katalan
 ladino              ladino
 latin               latin, latince
-portugez            
+portugez            Portekizce
 turko               Türkçe
 yiddish             yidiş

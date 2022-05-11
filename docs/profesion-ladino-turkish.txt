@@ -4,10 +4,18 @@ avokato             avukat
 avokata             avukat
 avokatos            avukat
 avokatas            avukat
+bankero             
+bankera             
+bankeros            
+bankeras            
 baylador            dansör
 bayladera           dansöz
 bayladores          dansör
 bayladeras          dansöz
+bibliotekario       
+bibliotekaria       
+bibliotekarios      
+bibliotekarias      
 djoyero             kuyumcu
 doktor              doktor
 doktora             doktor
@@ -17,16 +25,32 @@ enfermero           hasta
 enfermera           hasta
 enfermeros          hastalar
 enfermeras          hastalar
+eskultor            
+eskultora           
+eskultores          
+eskultoras          
 frutero             meyvaci
 garson              garson
 garsona             garson
 garsones            garson
+hamal               hamal
+hamala              
+hamales             
+hamalas             
 kantador            şarkıcı
 kantadera           şarkıcı
 kantadores          şarkıcı
 kantaderas          şarkıcı
 kasap               kasap
 komersante          tüccar
+kompozitor          
+kompozitora         
+kompozitores        
+kompozitoras        
+ladron              hırsız
+ladrona             hırsız
+ladrones            
+ladronas            
 mediko              doktor
 medika              doktor
 medikos             doktor
@@ -35,8 +59,20 @@ moso                hizmetçi
 mosa                hizmetçi
 mosos               hizmetçi
 mosas               hizmetçi
+orero               
+orera               
+oreros              
+oreras              
 paylacho            palyaço
 paylachos           palyaço
+peshkador           
+peshkadora          
+peshkadores         
+peshkadoras         
+pilot               
+pilota              
+pilotes             
+pilotas             
 pintador            ressam
 pintadora           ressam
 pintadores          

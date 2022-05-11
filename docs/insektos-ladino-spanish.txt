@@ -1,0 +1,5 @@
+Ladino             Spanish
+insekto             insecto
+insektos            insectos
+ormiga              hormiga
+ormigas             hormigas

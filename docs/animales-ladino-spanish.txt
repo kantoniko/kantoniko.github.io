@@ -22,6 +22,8 @@ gayos               gallos
 indiana             pavo
 indianas            pavos
 indiano             pavo
+insekto             insecto
+insektos            insectos
 kodrero             cordero
 kodreros            corderos
 kukuvaya            lechuza
@@ -37,6 +39,8 @@ lopardo
 leopardesa          
 lovo                lobo
 lovos               lobos
+ormiga              hormiga
+ormigas             hormigas
 oveja               oveja
 ovejas              ovejas
 palaza              pato

@@ -22,6 +22,8 @@ gayos               cocks
 indiana             turkey
 indianas            turkeys
 indiano             turkey
+insekto             insect
+insektos            insects
 kodrero             lamb
 kodreros            lambs
 kukuvaya            owl
@@ -37,6 +39,8 @@ lopardo             leopard
 leopardesa          leopard
 lovo                wolf
 lovos               wolfs
+ormiga              ant
+ormigas             ants
 oveja               sheep
 ovejas              sheep
 palaza              duck

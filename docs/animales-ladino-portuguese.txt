@@ -22,6 +22,8 @@ gayos
 indiana             
 indianas            
 indiano             
+insekto             
+insektos            
 kodrero             
 kodreros            
 kukuvaya            
@@ -37,6 +39,8 @@ lopardo
 leopardesa          
 lovo                
 lovos               
+ormiga              
+ormigas             
 oveja               ovelha
 ovejas              ovelha
 palaza              

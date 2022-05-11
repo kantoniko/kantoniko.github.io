@@ -22,6 +22,8 @@ gayos               horoz
 indiana             hindi
 indianas            hindi
 indiano             hindi
+insekto             
+insektos            
 kodrero             kuzu
 kodreros            kuzu
 kukuvaya            baykuş
@@ -37,6 +39,8 @@ lopardo
 leopardesa          
 lovo                kurt
 lovos               kurt
+ormiga              
+ormigas             
 oveja               koyun
 ovejas              koyun
 palaza              ördek

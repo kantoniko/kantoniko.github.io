@@ -4,10 +4,18 @@ avokato             lawyer
 avokata             lawyer
 avokatos            lawyers
 avokatas            lawyers
+bankero             banker
+bankera             banker
+bankeros            bankers
+bankeras            bankers
 baylador            dancer, ballet-dancer
 bayladera           dancer, ballet-dancer
 bayladores          dancers, ballet-dancers
 bayladeras          dancers, ballet-dancers
+bibliotekario       librarian
+bibliotekaria       librarian
+bibliotekarios      librarians
+bibliotekarias      librarians
 djoyero             jeweler
 doktor              doctor
 doktora             doctor
@@ -17,16 +25,32 @@ enfermero           nurse
 enfermera           nurse
 enfermeros          nurses
 enfermeras          nurses
+eskultor            sculptor
+eskultora           sculptor
+eskultores          sculptors
+eskultoras          sculptors
 frutero             fruit seller
 garson              waiter
 garsona             waitress
 garsones            waiters
+hamal               porter, carrier
+hamala              porter, carrier
+hamales             porters, carriers
+hamalas             porters, carriers
 kantador            singer
 kantadera           singer
 kantadores          singers
 kantaderas          singers
 kasap               butcher
 komersante          merchant
+kompozitor          compositor
+kompozitora         compositor
+kompozitores        compositors
+kompozitoras        compositors
+ladron              thief
+ladrona             thief
+ladrones            thieves
+ladronas            thieves
 mediko              doctor
 medika              doctor
 medikos             doctors
@@ -35,8 +59,20 @@ moso                maid, servant
 mosa                maid, servant
 mosos               maids, servants
 mosas               maids, servants
+orero               watchmaker
+orera               watchmaker
+oreros              watchmakers
+oreras              watchmakers
 paylacho            clown
 paylachos           clowns
+peshkador           fisherman
+peshkadora          fisherwoman
+peshkadores         fishermen
+peshkadoras         fisherwomen
+pilot               pilot
+pilota              pilot
+pilotes             pilots
+pilotas             pilots
 pintador            painter
 pintadora           painter
 pintadores          painters

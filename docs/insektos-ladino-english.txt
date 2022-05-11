@@ -1,0 +1,5 @@
+Ladino             English
+insekto             insect
+insektos            insects
+ormiga              ant
+ormigas             ants

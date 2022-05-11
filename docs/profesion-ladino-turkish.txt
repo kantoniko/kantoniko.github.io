@@ -37,14 +37,24 @@ mosos               hizmetçi
 mosas               hizmetçi
 paylacho            palyaço
 paylachos           palyaço
+pintador            ressam
+pintadora           ressam
+pintadores          
+pintadoras          
 profesor            öğretmen
 profesora           öğretmen
 profesores          öğretmenler
 profesoras          öğretmenler
 shofor              şoför
 shofores            şoför
+sientista           
+sientistas          
 spiker              spiker
 spikeres            spiker
+tanyedor            
+tanyedora           
+tanyedores          
+tanyedoras          
 traduktor           tercüman
 traduktora          tercüman
 traduktores         tercüman

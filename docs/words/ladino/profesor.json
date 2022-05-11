@@ -1,1 +1,1 @@
-[{"accented": "profesor", "gender": "masculine", "ladino": "profesor", "number": "singular", "source": "profesor.yaml", "translations": {"english": ["teacher"], "french": [], "portuguese": [], "spanish": ["profesor"], "turkish": ["öğretmen"]}}]
+[{"gender": "masculine", "ladino": "profesor", "number": "singular", "source": "profesor.yaml", "translations": {"english": ["teacher"], "french": [], "portuguese": [], "spanish": ["profesor"], "turkish": ["öğretmen"]}}]

@@ -1,1 +1,1 @@
-[{"ladino": "fui", "source": "ser.yaml", "translations": {"english": ["I was"], "spanish": ["soy"]}}]
+[{"ladino": "fui", "source": "ser.yaml", "translations": {"english": ["I was"], "spanish": ["soy"]}}, {"alternative-spelling": [{"ladino": "hui"}], "ladino": "fui", "source": "ir.yaml", "translations": {"english": ["was"], "spanish": ["fui"]}}]

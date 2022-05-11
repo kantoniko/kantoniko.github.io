@@ -37,14 +37,24 @@ mosos               maids, servants
 mosas               maids, servants
 paylacho            clown
 paylachos           clowns
+pintador            painter
+pintadora           painter
+pintadores          painters
+pintadoras          painters
 profesor            teacher
 profesora           teacher
 profesores          teachers
 profesoras          teachers
 shofor              driver
 shofores            drivers
+sientista           scientist
+sientistas          scientists
 spiker              announcer
 spikeres            announcers
+tanyedor            musician
+tanyedora           musician
+tanyedores          musicians
+tanyedoras          musicians
 traduktor           translator
 traduktora          translator
 traduktores         translators

@@ -37,14 +37,24 @@ mosos               criadas, mozos
 mosas               criadas, mozas
 paylacho            payaso
 paylachos           payasos
+pintador            pintor
+pintadora           pintora
+pintadores          pintores
+pintadoras          pintoras
 profesor            profesor
 profesora           profesora
 profesores          profesores
 profesoras          profesoras
 shofor              chofer
 shofores            choferes
+sientista           científico, científica
+sientistas          científicos, científicas
 spiker              locutor
 spikeres            locutores
+tanyedor            músico
+tanyedora           música
+tanyedores          músicos
+tanyedoras          músicas
 traduktor           traductor
 traduktora          traductora
 traduktores         traductores

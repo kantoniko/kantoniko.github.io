@@ -3,6 +3,7 @@ abrikok             מִשׁמֵשׁ
 afarsemon           אפרסמון
 agranada            רימון
 agranadas           רימונים
+agras               
 ahududu             פטל
 almendra            שקד
 almendras           שקדים
@@ -14,6 +15,7 @@ avramilas
 avyana              
 banana              בננה
 bananas             בננות
+bimbriyo            חבוש
 datile              תמר
 eshkidunya          שסק
 eshkidunyas         שסק
@@ -37,6 +39,8 @@ melon               מלון
 mora                אוכמניות
 muez                
 muezes              
+mushmula            
+narandja            חושחש
 pera                אגס
 peras               אגסים
 pomela              פומלה
@@ -51,5 +55,6 @@ sheftelis           אפרסקים
 torondja            אשכולית
 uva                 ענב
 uvas                ענבים
+vishna              
 zirguela            שזיף
 zirguelas           שזיפים

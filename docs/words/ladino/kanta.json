@@ -1,1 +1,1 @@
-[{"ladino": "kanta", "source": "kantar.yaml", "translations": {"english": ["sings"], "spanish": ["canta"]}}]
+[{"ladino": "kanta", "source": "kantar.yaml", "translations": {"english": ["sings"], "spanish": ["canta"]}}, {"gender": "feminine", "ladino": "kanta", "number": "singular", "source": "kanta.yaml", "translations": {"english": ["song"], "french": [], "portuguese": [], "spanish": ["canta", "canción"], "turkish": []}}]

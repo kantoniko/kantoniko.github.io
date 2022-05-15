@@ -3,6 +3,7 @@ abrikok             kayısı
 afarsemon           hurma (Trabzon hurması)
 agranada            nar
 agranadas           nar
+agras               koruk
 ahududu             ahududu
 almendra            badem
 almendras           badem
@@ -14,6 +15,7 @@ avramilas           can eriği
 avyana              fındık
 banana              muz
 bananas             muz
+bimbriyo            
 datile              hurma
 eshkidunya          Muşmula
 eshkidunyas         Muşmulalar
@@ -37,6 +39,8 @@ melon               kavun
 mora                dut
 muez                ceviz
 muezes              ceviz
+mushmula            muşmula
+narandja            
 pera                armut
 peras               armutlar
 pomela              greyfurt
@@ -51,5 +55,6 @@ sheftelis           şeftali
 torondja            
 uva                 üzüm
 uvas                üzümler
+vishna              
 zirguela            erik
 zirguelas           erikler

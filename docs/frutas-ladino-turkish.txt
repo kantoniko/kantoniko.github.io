@@ -49,7 +49,7 @@ serezas             kirazlar
 shefteli            şeftali
 sheftelis           şeftali
 torondja            
-uva                 
-uvas                
+uva                 üzüm
+uvas                üzümler
 zirguela            erik
-zirguelas           
+zirguelas           erikler

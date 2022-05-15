@@ -6,5 +6,5 @@ sinko               beş
 tres                üç
 uno                 bir, biri, tıpkısı
 una                 bir, biri, tıpkısı
-unos                bir, biri, tıpkısı
-unas                bir, biri, tıpkısı
+unos                biriler
+unas                biriler

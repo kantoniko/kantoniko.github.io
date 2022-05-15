@@ -95,8 +95,8 @@ traduktor           tercüman
 traduktora          tercüman
 traduktores         tercüman
 traduktoras         tercüman
-veterinaro          
-veterinara          
-veterinaros         
-veterinaras         
+veterinaro          veteriner, baytar
+veterinara          veteriner, baytar
+veterinaros         veterinerler, baytarlar
+veterinaras         veterinerler, baytarlar
 yaurtchi            yoğurtçu

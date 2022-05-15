@@ -8,4 +8,4 @@ prepozision         edat
 prepozisiones       edat
 prezente            şimdiki zaman
 verbo               fiil
-verbos              
+verbos              fiiller

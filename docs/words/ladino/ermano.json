@@ -1,1 +1,1 @@
-[{"accented": "ermano", "gender": "masculine", "ladino": "ermano", "number": "singular", "source": "ermano.yaml", "translations": {"english": ["brother"], "french": [], "portuguese": [], "spanish": ["hermano"], "turkish": ["erkek kardeş"]}}]
+[{"gender": "masculine", "ladino": "ermano", "number": "singular", "source": "ermano.yaml", "translations": {"english": ["brother"], "french": [], "portuguese": [], "spanish": ["hermano"], "turkish": ["erkek kardeş"]}}]

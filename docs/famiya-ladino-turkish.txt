@@ -5,6 +5,10 @@ avuelos             büyükbaba, ata
 avuelas             büyükanne
 bohor               ilk çocuk
 bohora              ilk çocuk
+ermaniko            
+ermanika            
+ermanikos           
+ermanikas           
 ermano              erkek kardeş
 ermana              kızkardeş
 ermanos             erkek kardeş

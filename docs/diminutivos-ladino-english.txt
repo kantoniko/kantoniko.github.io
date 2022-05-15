@@ -1,3 +1,7 @@
 Ladino             English
+ermaniko            (little) brother
+ermanika            (little) sister
+ermanikos           (little) brothers
+ermanikas           (little) sisters
 ijiko               (little) boy
 kafiko              (little) coffee

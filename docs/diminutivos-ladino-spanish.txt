@@ -1,3 +1,7 @@
 Ladino             Spanish
+ermaniko            hermanito
+ermanika            hermanita
+ermanikos           hermanitos
+ermanikas           hermanitas
 ijiko               
 kafiko              cafecito

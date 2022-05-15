@@ -5,6 +5,10 @@ avuelos             grandfathers
 avuelas             grandmothers
 bohor               first-born
 bohora              first-born
+ermaniko            (little) brother
+ermanika            (little) sister
+ermanikos           (little) brothers
+ermanikas           (little) sisters
 ermano              brother
 ermana              sister
 ermanos             brothers

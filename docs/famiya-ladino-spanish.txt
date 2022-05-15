@@ -5,6 +5,10 @@ avuelos             abuelos
 avuelas             abuelas
 bohor               primogénito
 bohora              primogénita
+ermaniko            hermanito
+ermanika            hermanita
+ermanikos           hermanitos
+ermanikas           hermanitas
 ermano              hermano
 ermana              hermana
 ermanos             hermanos

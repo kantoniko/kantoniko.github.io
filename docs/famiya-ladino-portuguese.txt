@@ -5,6 +5,10 @@ avuelos
 avuelas             
 bohor               
 bohora              
+ermaniko            
+ermanika            
+ermanikos           
+ermanikas           
 ermano              
 ermana              
 ermanos             

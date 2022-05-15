@@ -1,4 +1,6 @@
 Ladino             Turkish
+araba               araba
+arabas              
 avion               uçak
 aviones             uçak
 barka               kayık
@@ -31,6 +33,8 @@ otomobil            araba, otomobil
 otomobiles          araba, otomobil
 parashut            
 parashutes          
+puset               
+pusetes             
 shayna              
 sumarino            
 sumarinos           

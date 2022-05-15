@@ -1,4 +1,6 @@
 Ladino             Spanish
+araba               coche, carro
+arabas              coches, carros
 avion               avión
 aviones             aviónes
 barka               barca
@@ -31,6 +33,8 @@ otomobil            carro, automóvil
 otomobiles          carros, automóviles
 parashut            paracaídas
 parashutes          paracaídas
+puset               cochecito
+pusetes             cochecitos
 shayna              trineo
 sumarino            submarino
 sumarinos           submarinos

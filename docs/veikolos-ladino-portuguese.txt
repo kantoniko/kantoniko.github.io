@@ -1,4 +1,6 @@
 Ladino             Portuguese
+araba               
+arabas              
 avion               
 aviones             
 barka               
@@ -31,6 +33,8 @@ otomobil
 otomobiles          
 parashut            
 parashutes          
+puset               
+pusetes             
 shayna              
 sumarino            
 sumarinos           

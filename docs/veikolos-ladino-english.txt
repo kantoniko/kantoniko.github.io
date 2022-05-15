@@ -1,4 +1,6 @@
 Ladino             English
+araba               carriage, car
+arabas              carriages, cars
 avion               plane, airplane
 aviones             planes, airplanes
 barka               boat (small)
@@ -31,6 +33,8 @@ otomobil            car, automobile
 otomobiles          cars, automobiles
 parashut            parachute
 parashutes          parachutes
+puset               pram
+pusetes             prams
 shayna              sled
 sumarino            submarine
 sumarinos           submarines

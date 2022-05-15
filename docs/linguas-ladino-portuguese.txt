@@ -2,6 +2,7 @@ Ladino             Portuguese
 Inglez              
 aleman              alemão
 arabo               
+arabos              
 djudeo-espanyol     
 ebreo               
 ebrea               

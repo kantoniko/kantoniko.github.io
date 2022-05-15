@@ -1,1 +1,1 @@
-[{"accented": "arabo", "gender": "masculine", "ladino": "arabo", "number": "singular", "source": "arabo.yaml", "translations": {"english": ["Arab"], "french": [], "hebrew": ["ערבית"], "portuguese": [], "spanish": ["árabe"], "turkish": ["arap"]}}]
+[{"examples": [{"ladino": "Los arabes avlan arabo."}], "gender": "masculine", "ladino": "arabo", "number": "singular", "source": "arabo.yaml", "translations": {"english": ["Arab"], "french": [], "hebrew": ["ערבי", "ערבית"], "portuguese": [], "spanish": ["árabe"], "turkish": ["arap"]}}]

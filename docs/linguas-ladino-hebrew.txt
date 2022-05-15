@@ -1,7 +1,8 @@
 Ladino             Hebrew
 Inglez              אנגלית
 aleman              גרמנית
-arabo               ערבית
+arabo               ערבי, ערבית
+arabos              ערבים
 djudeo-espanyol     
 ebreo               
 ebrea               

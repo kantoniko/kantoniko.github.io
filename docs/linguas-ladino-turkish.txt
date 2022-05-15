@@ -2,6 +2,7 @@ Ladino             Turkish
 Inglez              
 aleman              Alman, almanca
 arabo               arap
+arabos              
 djudeo-espanyol     Yahudice, Musevice
 ebreo               ıbranıce
 ebrea               ıbranıce

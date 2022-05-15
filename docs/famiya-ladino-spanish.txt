@@ -13,6 +13,7 @@ esfuegro            suegro
 esfuegra            suegra
 esfuegros           suegros
 esfuegras           suegras
+ijiko               
 ijo                 hijo
 ija                 hija
 ijos                hijos

@@ -1,6 +1,8 @@
 Ladino             English
 abreviasion         abbreviation
 adjektival          adjectival
+diminutivo          dimunitive
+diminutivos         dimunitives
 konjugasion         conjugation
 konjugasiones       conjugations
 prefikso            prefix

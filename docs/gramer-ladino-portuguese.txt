@@ -1,6 +1,8 @@
 Ladino             Portuguese
 abreviasion         
 adjektival          
+diminutivo          
+diminutivos         
 konjugasion         
 konjugasiones       
 prefikso            

@@ -1,6 +1,8 @@
 Ladino             Spanish
 abreviasion         
 adjektival          
+diminutivo          dimunitivo
+diminutivos         dimunitivos
 konjugasion         conjugación
 konjugasiones       conjugaciónes
 prefikso            

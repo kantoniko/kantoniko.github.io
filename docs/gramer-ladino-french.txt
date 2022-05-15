@@ -1,6 +1,8 @@
 Ladino             French
 abreviasion         
 adjektival          
+diminutivo          
+diminutivos         
 konjugasion         
 konjugasiones       
 prefikso            

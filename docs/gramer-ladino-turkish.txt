@@ -1,6 +1,8 @@
 Ladino             Turkish
 abreviasion         kısaltma
 adjektival          sıfatsal
+diminutivo          
+diminutivos         
 konjugasion         
 konjugasiones       
 prefikso            ön ek

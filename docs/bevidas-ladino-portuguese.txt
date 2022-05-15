@@ -3,6 +3,7 @@ agua
 bira                
 chay                chá
 kafe                
+kafiko              
 leche               leite
 sumo                
 vino                

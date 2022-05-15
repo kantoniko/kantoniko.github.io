@@ -3,6 +3,7 @@ agua                water
 bira                beer
 chay                tea
 kafe                coffee
+kafiko              (little) coffee
 leche               milk
 sumo                juice
 vino                wine

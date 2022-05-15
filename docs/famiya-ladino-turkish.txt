@@ -13,6 +13,7 @@ esfuegro            kayınpeder, kayınvalide
 esfuegra            kayınpeder, kayınvalide
 esfuegros           kayınpeder, kayınvalide
 esfuegras           kayınpeder, kayınvalide
+ijiko               
 ijo                 oğul
 ija                 kız
 ijos                oğul

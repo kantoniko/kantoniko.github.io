@@ -13,6 +13,7 @@ esfuegro            father-in-law
 esfuegra            mother-in-law
 esfuegros           father-in-law
 esfuegras           mother-in-law
+ijiko               (little) boy
 ijo                 boy, son
 ija                 girl, daughter
 ijos                boys, sons

@@ -1,6 +1,8 @@
 Ladino             Hebrew
 abreviasion         
 adjektival          
+diminutivo          
+diminutivos         
 konjugasion         
 konjugasiones       
 prefikso            

@@ -13,6 +13,7 @@ esfuegro
 esfuegra            
 esfuegros           
 esfuegras           
+ijiko               
 ijo                 fils
 ija                 fille
 ijos                fils

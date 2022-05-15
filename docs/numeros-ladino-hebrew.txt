@@ -2,9 +2,11 @@ Ladino             Hebrew
 dos                 
 kuatro              
 onze                
+onzen               
 sinko               
 tres                
 uno                 
 una                 
 unos                
 unas                
+zero                

@@ -2,9 +2,11 @@ Ladino             Portuguese
 dos                 
 kuatro              
 onze                
+onzen               
 sinko               
 tres                
 uno                 
 una                 
 unos                
 unas                
+zero                

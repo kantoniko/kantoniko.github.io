@@ -1,1 +1,1 @@
-[{"alternative-spelling": [{"ladino": "vapor"}], "gender": "feminine", "ladino": "nave", "number": "singular", "source": "nave.yaml", "translations": {"english": ["ship"], "french": [], "portuguese": [], "spanish": ["barco"], "turkish": ["gemi"]}}]
+[{"gender": "masculine", "ladino": "vapor", "number": "singular", "source": "vapor.yaml", "translations": {"english": ["ship"], "french": [], "hebrew": [], "portuguese": [], "spanish": ["vapor"], "turkish": []}}]

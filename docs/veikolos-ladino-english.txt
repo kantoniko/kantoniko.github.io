@@ -3,19 +3,43 @@ avion               plane, airplane
 aviones             planes, airplanes
 barka               boat (small)
 barka motorizada    motorboat
+barko               boat (small)
+barkos              boats (small)
 bisikleta           bicycle
+bisikletas          bicycles
+funikular           funicular
+funikulares         funiculars
+helikopter          helicopter
+helikopteros        helicopters
 instrumento de lokomosionvehicle
+kamion              truck
+kamiones            trucks
+kamioneta           van
+kamionetas          vans
 karosa              coach, carriage
 karosas             coaches, carriages
 koche               car
 koches              cars
 metro               subway
+mobilet             moped
+motosikleta         motorcycle
+motosikletas        motorcycles
+nave                ship
 otobus              bus, motor-coach
 otobuses            buses, motor-coaches
 otomobil            car, automobile
 otomobiles          cars, automobiles
+parashut            parachute
+parashutes          parachutes
+shayna              sled
+sumarino            submarine
+sumarinos           submarines
+teleferik           cable car, cableway
+teleferikos         cable cars, cableways
 tractor             tractor
 tramvay             streetcar
 tramvayes           streetcars
 treno               train
 trenos              trains
+trotinet            scooter
+vapor               ship

@@ -1,4 +1,5 @@
 Ladino             Spanish
+avagariko           
 ermaniko            hermanito
 ermanika            hermanita
 ermanikos           hermanitos
@@ -9,5 +10,8 @@ ijiko
 kafiko              cafecito
 mezika              
 mezikas             
+papeliko            
+papelikos           
+prestiko            
 sivdadika           
 sivdadikas          

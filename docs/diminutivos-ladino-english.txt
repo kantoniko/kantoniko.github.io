@@ -1,4 +1,5 @@
 Ladino             English
+avagariko           slowly
 ermaniko            (little) brother
 ermanika            (little) sister
 ermanikos           (little) brothers
@@ -9,5 +10,8 @@ ijiko               (little) boy
 kafiko              (little) coffee
 mezika              (little) table
 mezikas             (little) tables
+papeliko            (little) paper
+papelikos           (little) papers
+prestiko            quick
 sivdadika           (little) city
 sivdadikas          (little) cities

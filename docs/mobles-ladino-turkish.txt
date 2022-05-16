@@ -10,6 +10,8 @@ kamas               yatak, döşek
 kashon              çekmece
 meza                masa
 mezas               masa
+mezika              
+mezikas             
 orno                fırın
 ornos               fırın
 siya                sandalye

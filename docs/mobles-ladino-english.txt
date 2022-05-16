@@ -10,6 +10,8 @@ kamas               bed, bedding
 kashon              drawer
 meza                table
 mezas               tables
+mezika              (little) table
+mezikas             (little) tables
 orno                oven
 ornos               ovens
 siya                chair

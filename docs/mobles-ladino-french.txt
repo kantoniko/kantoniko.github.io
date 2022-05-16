@@ -10,6 +10,8 @@ kamas
 kashon              
 meza                
 mezas               
+mezika              
+mezikas             
 orno                
 ornos               
 siya                

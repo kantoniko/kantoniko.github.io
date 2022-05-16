@@ -10,6 +10,8 @@ kamas               camas
 kashon              cajón
 meza                mesa
 mezas               mesas
+mezika              
+mezikas             
 orno                horno
 ornos               hornos
 siya                silla

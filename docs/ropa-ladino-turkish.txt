@@ -1,10 +1,15 @@
 Ladino             Turkish
 bluza               bluz
 bluzas              bluzlar
+boton               
+botones             
 chapin              ayakkabı
 chapines            ayakkabı
+chizme              
+chizmes             
 djaketa             ceket
 djaketas            ceket
+empermeable         
 fostan              etek
 fostanes            etekler
 fusta               etek
@@ -15,17 +20,25 @@ kalsados            ayakkabı
 kamiza              gömlek
 kamizas             gömlek
 kanyamazo           bez
+kasketa             
+kasketas            
 kombinezon          kombinezon, jupon
 kundurya            ayakkabı, kundura
+kushak              
 mortaja             kefen
 mortajas            kefenler
+panatalon           
+panatalones         
 pantofla            terlik
 panyo               bez
 pardesu             pardesü, palto
+pulover             
+puloveres           
 sapato              terlik, çarık
 sapatos             terlik, çarık
 shal                şal
 shales              şal
+sutien              
 takia               takke
 takias              takke
 triko               kazak

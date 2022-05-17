@@ -1,10 +1,15 @@
 Ladino             French
 bluza               
 bluzas              
+boton               
+botones             
 chapin              
 chapines            
+chizme              
+chizmes             
 djaketa             
 djaketas            
+empermeable         
 fostan              
 fostanes            
 fusta               
@@ -15,17 +20,25 @@ kalsados
 kamiza              
 kamizas             
 kanyamazo           chiffon, torchon
+kasketa             
+kasketas            
 kombinezon          
 kundurya            
+kushak              
 mortaja             linceul
 mortajas            
+panatalon           
+panatalones         
 pantofla            
 panyo               
 pardesu             
+pulover             
+puloveres           
 sapato              
 sapatos             
 shal                
 shales              
+sutien              
 takia               
 takias              
 triko               

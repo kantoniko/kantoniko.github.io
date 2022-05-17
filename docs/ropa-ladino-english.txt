@@ -1,10 +1,15 @@
 Ladino             English
 bluza               blouse
 bluzas              blouses
+boton               button
+botones             buttons
 chapin              shoe
 chapines            shoes
+chizme              boot
+chizmes             boots
 djaketa             jacket
 djaketas            jackets
+empermeable         raincoat
 fostan              dress
 fostanes            dresses
 fusta               skirt
@@ -15,17 +20,25 @@ kalsados            shoes
 kamiza              shirt
 kamizas             shirts
 kanyamazo           rag, cloth
+kasketa             baseball hat
+kasketas            baseball hats
 kombinezon          petticoat
 kundurya            shoe
+kushak              belt
 mortaja             shroud
 mortajas            shrouds
+panatalon           trouser
+panatalones         trousers, pants
 pantofla            slipper
 panyo               piece of cloth
 pardesu             over-coat
+pulover             sweather
+puloveres           sweathers
 sapato              slipper
 sapatos             slippers
 shal                shawl
 shales              shawls
+sutien              bra
 takia               cap
 takias              caps
 triko               jersey, sweater

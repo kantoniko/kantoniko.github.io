@@ -1,10 +1,15 @@
 Ladino             Spanish
 bluza               blusa
 bluzas              blusas
+boton               botón
+botones             botones
 chapin              zapato
 chapines            zapatos
+chizme              
+chizmes             
 djaketa             chaqueta
 djaketas            chaquetas
+empermeable         
 fostan              vestido
 fostanes            vestidos
 fusta               falda
@@ -15,17 +20,25 @@ kalsados            zapatos
 kamiza              camisa
 kamizas             camisas
 kanyamazo           trapo
+kasketa             gorra de béisbol
+kasketas            gorras de béisbol
 kombinezon          enaguas
 kundurya            zapato
+kushak              cinturón
 mortaja             mortaja
 mortajas            mortajas
+panatalon           pantalon
+panatalones         pantalones
 pantofla            zapatilla
 panyo               paño
 pardesu             abrigo
+pulover             suéter
+puloveres           suéteres
 sapato              zapatilla
 sapatos             zapatillas
 shal                chal
 shales              chales
+sutien              sostén
 takia               gorro
 takias              gorros
 triko               jersey

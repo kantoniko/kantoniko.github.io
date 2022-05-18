@@ -1,0 +1,30 @@
+Ladino             Spanish
+bokal               botella
+bokales             botellas
+bolsa               bolsa
+bolsas              bolsas
+bota                barril
+botas               barriles
+chaylik             tetera
+djarro              jarro
+djarros             jarros
+findjan             taza
+findjanes           tazas
+kantaro             botijo
+kantaros            botijos
+kupa                vaso
+kupas               vasos
+papelera            papelera
+papeleras           papeleras
+redoma              botella, redoma
+redomas             botellas, redomas
+sako                saco
+sakos               sacos
+tasa                copa
+tasas               copas
+tubo                tubo
+tubos               tubos
+varil               barril
+variles             barriles
+vazo                florero
+vazos               floreros

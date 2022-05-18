@@ -1,1 +1,1 @@
-[{"alternative-spelling": [{"ladino": "sako"}], "ladino": "bolsa", "source": "bolsa.yaml", "translations": {"english": ["pouch"], "french": [], "portuguese": [], "spanish": ["bolsa"], "turkish": ["torba"]}}]
+[{"gender": "masculine", "ladino": "sako", "number": "singular", "source": "sako.yaml", "translations": {"english": ["sack"], "french": [], "hebrew": [], "portuguese": [], "spanish": ["saco"], "turkish": []}}]

@@ -12,6 +12,8 @@ findjan             cup
 findjanes           cups
 kantaro             pitcher
 kantaros            pitchers
+katramiz            
+katramizes          
 kupa                glass, tumbler
 kupas               glasses, tumblers
 papelera            paper bin

@@ -12,6 +12,8 @@ findjan             fincan
 findjanes           fincan
 kantaro             testi
 kantaros            
+katramiz            
+katramizes          
 kupa                bardak
 kupas               bardak
 papelera            

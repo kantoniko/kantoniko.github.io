@@ -12,6 +12,8 @@ findjan             taza
 findjanes           tazas
 kantaro             botijo
 kantaros            botijos
+katramiz            
+katramizes          
 kupa                vaso
 kupas               vasos
 papelera            papelera

@@ -1,0 +1,431 @@
+<!DOCTYPE html>
+<html lang="lad">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
+    <title>Salonik</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <script src="https://use.fontawesome.com/57525b30bb.js"></script>
+    <script src="/js/all.js"></script>
+    <link rel="stylesheet" href="/css/style.css">
+  </head>
+  <body>
+    <section id="main-section" class="section">
+      <div class="container">
+        <nav class="navbar" role="navigation" aria-label="main navigation">
+  <div class="navbar-brand">
+    <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+    </a>
+  </div>
+
+  <div id="navbarBasicExample" class="navbar-menu">
+    <div class="navbar-start">
+      <a class="navbar-item " href="/">
+        Kaza
+      </a>
+
+      <div class="navbar-item has-dropdown is-hoverable">
+        <a class="navbar-link ">
+          Gramer
+        </a>
+        <div class="navbar-dropdown">
+          <a class="navbar-item" href="/gramer">
+            Biervos de la gramer
+          </a>
+          <a class="navbar-item" href="/pronombres">
+            Pronombres
+          </a>
+          <a class="navbar-item" href="/ser">
+            ser
+          </a>
+          <a class="navbar-item" href="/estar">
+            estar
+          </a>
+        </div>
+      </div>
+
+      <div class="navbar-item has-dropdown is-hoverable">
+        <a class="navbar-link ">
+          Listas
+        </a>
+        <div class="navbar-dropdown">
+          <a class="navbar-item" href="/egzempios">
+            Egzempios
+          </a>
+          <a class="navbar-item" href="/words/ladino/">
+            Palavras en ladino
+          </a>
+          <hr class="navbar-divider">
+          <a class="navbar-item" href="/lists">Listas</a>
+          <a class="navbar-item" href="/dictionaries">Diksionaryos</a>
+        </div>
+      </div>
+
+      <a class="navbar-item " href="/whatsapeando/">
+        Whatsapp
+      </a>
+      <a class="navbar-item " id="show-game">
+        Djugo
+      </a>
+
+
+      <div class="buttons" id="show-config">
+          <a class="button is-light">
+            Konfig
+          </a>
+      </div>
+    </div>
+
+
+    <div class="navbar-end">
+      <a class="navbar-item " href="/about">About</a>
+    </div>
+  </div>
+</nav>
+
+
+
+
+  <h1 class="title">Salonik</h1>
+  <div class="content">
+
+    <table class="table is-striped is-hoverable">
+      <thead>
+        <tr>
+           <th></th>
+           <th>Ladino</th>
+           <th>Accented</th>
+               <th>english</th>
+            
+               <th>french</th>
+            
+               <th>hebrew</th>
+            
+               <th>spanish</th>
+            
+               <th>turkish</th>
+            
+               <th>portuguese</th>
+            </tr>
+      </thead>
+      <tbody>
+            <tr>
+              <td>el</td>
+              <td>
+                <a href="/words/ladino/dumalan">Dumalan</a>
+                
+              </td>
+              <td>
+                Dumalán
+                
+              </td>
+                <td>celeriac,<br>celery root,<br>narrow-minded </td>
+              
+                <td>céleri,<br>individu borné </td>
+              
+                <td> </td>
+              
+                <td>apio,<br>persona de mente estrecha </td>
+              
+                <td>kereviz,<br>dar kafalı </td>
+              
+                <td> </td>
+              </tr>
+          
+            <tr>
+              <td>la</td>
+              <td>
+                <a href="/words/ladino/aranya">aranya</a>
+                
+              </td>
+              <td>
+                aránya
+                
+              </td>
+                <td>spider </td>
+              
+                <td>araignée </td>
+              
+                <td> </td>
+              
+                <td>araña </td>
+              
+                <td>örümcek </td>
+              
+                <td> </td>
+              </tr>
+          
+            <tr>
+              <td>la</td>
+              <td>
+                <a href="/words/ladino/djuben">djuben</a>
+                
+              </td>
+              <td>
+                djubén
+                
+              </td>
+                <td>cossack worn by high ranking rabbis </td>
+              
+                <td>soutane que portent les rabbins de haut grade </td>
+              
+                <td> </td>
+              
+                <td>sotana que visten rabinos de alto grado </td>
+              
+                <td>yüksek dereceli hahamların giydiği cübbe </td>
+              
+                <td> </td>
+              </tr>
+          
+            <tr>
+              <td></td>
+              <td>
+                <a href="/words/ladino/favlar">favlar</a>
+                
+              </td>
+              <td>
+                favlár
+                
+              </td>
+                <td>speak </td>
+              
+                <td>parler </td>
+              
+                <td> </td>
+              
+                <td>hablar </td>
+              
+                <td>konuşmak </td>
+              
+                <td>falar </td>
+              </tr>
+          
+            <tr>
+              <td>el</td>
+              <td>
+                <a href="/words/ladino/fijo">fijo</a>
+                
+              </td>
+              <td>
+                fíjo
+                
+              </td>
+                <td>boy,<br>son </td>
+              
+                <td>fils </td>
+              
+                <td> </td>
+              
+                <td>hijo </td>
+              
+                <td>oğul,<br>kız </td>
+              
+                <td> </td>
+              </tr>
+          
+            <tr>
+              <td>la</td>
+              <td>
+                <a href="/words/ladino/fija">fija</a>
+                
+              </td>
+              <td>
+                fíja
+                
+              </td>
+                <td>girl,<br>daughter </td>
+              
+                <td>fille </td>
+              
+                <td> </td>
+              
+                <td>hija </td>
+              
+                <td>oğul,<br>kız </td>
+              
+                <td> </td>
+              </tr>
+          
+            <tr>
+              <td>los</td>
+              <td>
+                <a href="/words/ladino/fijos">fijos</a>
+                
+              </td>
+              <td>
+                fíjos
+                
+              </td>
+                <td>boys,<br>sons </td>
+              
+                <td>fils </td>
+              
+                <td> </td>
+              
+                <td>hijos </td>
+              
+                <td>oğul,<br>kız </td>
+              
+                <td> </td>
+              </tr>
+          
+            <tr>
+              <td>las</td>
+              <td>
+                <a href="/words/ladino/fijas">fijas</a>
+                
+              </td>
+              <td>
+                fíjas
+                
+              </td>
+                <td>girls,<br>daughters </td>
+              
+                <td>fille </td>
+              
+                <td> </td>
+              
+                <td>hijas </td>
+              
+                <td>oğul,<br>kız </td>
+              
+                <td> </td>
+              </tr>
+          
+            <tr>
+              <td></td>
+              <td>
+                <a href="/words/ladino/fista">fista</a>
+                
+              </td>
+              <td>
+                físta
+                
+              </td>
+                <td>till,<br>until,<br>up till </td>
+              
+                <td>jusqu&#39;à ce que </td>
+              
+                <td> </td>
+              
+                <td>hasta </td>
+              
+                <td>kadar,<br>dek </td>
+              
+                <td> </td>
+              </tr>
+          
+            <tr>
+              <td></td>
+              <td>
+                <a href="/words/ladino/hadrarse">hadrarse</a>
+                
+              </td>
+              <td>
+                hadrárse
+                
+              </td>
+                <td>jostle,<br>flounder about </td>
+              
+                <td>se démener </td>
+              
+                <td> </td>
+              
+                <td>forcejear </td>
+              
+                <td>çabalama,<br>debelenme </td>
+              
+                <td> </td>
+              </tr>
+          
+            <tr>
+              <td>el</td>
+              <td>
+                <a href="/words/ladino/menk">menk</a>
+                
+              </td>
+              <td>
+                
+                
+              </td>
+                <td>touchstone </td>
+              
+                <td>pierre de touche </td>
+              
+                <td> </td>
+              
+                <td>piedra de toque </td>
+              
+                <td>mihenk taşı </td>
+              
+                <td>pedra-de-toque </td>
+              </tr>
+          
+            <tr>
+              <td></td>
+              <td>
+                <a href="/words/ladino/por modre">por modre</a>
+                
+              </td>
+              <td>
+                por módre
+                
+              </td>
+                <td>because of </td>
+              
+                <td>à cause de </td>
+              
+                <td> </td>
+              
+                <td>a causa de,<br>debido a </td>
+              
+                <td>dolayı,<br>yüzünden,<br>sebebiyle </td>
+              
+                <td> </td>
+              </tr>
+          
+            <tr>
+              <td>el</td>
+              <td>
+                <a href="/words/ladino/soko">soko</a>
+                <br>merkado
+              </td>
+              <td>
+                
+                <br>merkádo
+              </td>
+                <td>market,<br>souk </td>
+              
+                <td>marché,<br>souk </td>
+              
+                <td>שוק </td>
+              
+                <td>mercado </td>
+              
+                <td>çarşı,<br>pazar </td>
+              
+                <td> </td>
+              </tr>
+          </tbody>
+    </table>
+  </div>
+
+      </div>
+    </section>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-HEKPCYS70X"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-HEKPCYS70X');
+</script>
+  </body>
+</html>

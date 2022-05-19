@@ -1,1 +1,1 @@
-[{"examples": [{"ladino": "Aki en la primavera ay bastante sol."}], "gender": "masculine", "ladino": "sol", "number": "singular", "source": "sol.yaml", "translations": {"english": ["sun"], "french": ["soleil"], "portuguese": ["sol"], "spanish": ["sol"], "turkish": ["güneş"]}}]
+[{"examples": [{"ladino": "Aki en la primavera ay bastante sol."}], "gender": "masculine", "ladino": "sol", "number": "singular", "origen": "Jeneral", "source": "sol.yaml", "translations": {"english": ["sun"], "french": ["soleil"], "portuguese": ["sol"], "spanish": ["sol"], "turkish": ["güneş"]}}]

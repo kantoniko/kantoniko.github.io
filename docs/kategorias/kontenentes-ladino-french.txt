@@ -1,4 +1,7 @@
 Ladino             French
+bidon               
+bocha               
+bochas              
 bokal               bouteille
 bokales             
 bolsa               
@@ -8,14 +11,17 @@ botas
 chaylik             
 djarro              jarre, broc
 djarros             
+djezve              
 findjan             
 findjanes           
 kantaro             
 kantaros            
 katramiz            
 katramizes          
+kavanoz             
 kupa                
 kupas               
+librik              
 papelera            
 papeleras           
 redoma              bouteille, fiole

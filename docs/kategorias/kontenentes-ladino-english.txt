@@ -1,4 +1,7 @@
 Ladino             English
+bidon               
+bocha               
+bochas              
 bokal               bottle
 bokales             bottles
 bolsa               pouch
@@ -8,14 +11,17 @@ botas               barrels
 chaylik             teapot, kettle
 djarro              jug
 djarros             jugs
+djezve              
 findjan             cup
 findjanes           cups
 kantaro             pitcher
 kantaros            pitchers
 katramiz            
 katramizes          
+kavanoz             
 kupa                glass, tumbler
 kupas               glasses, tumblers
+librik              
 papelera            paper bin
 papeleras           paper bins
 redoma              bottle

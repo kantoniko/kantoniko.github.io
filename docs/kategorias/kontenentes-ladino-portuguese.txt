@@ -1,4 +1,7 @@
 Ladino             Portuguese
+bidon               
+bocha               
+bochas              
 bokal               
 bokales             
 bolsa               
@@ -8,14 +11,17 @@ botas
 chaylik             
 djarro              jarro
 djarros             jarros
+djezve              
 findjan             
 findjanes           
 kantaro             
 kantaros            
 katramiz            
 katramizes          
+kavanoz             
 kupa                
 kupas               
+librik              
 papelera            
 papeleras           
 redoma              garafa

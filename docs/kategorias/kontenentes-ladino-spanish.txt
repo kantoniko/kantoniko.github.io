@@ -1,4 +1,7 @@
 Ladino             Spanish
+bidon               
+bocha               
+bochas              
 bokal               botella
 bokales             botellas
 bolsa               bolsa
@@ -8,14 +11,17 @@ botas               barriles
 chaylik             tetera
 djarro              jarro
 djarros             jarros
+djezve              
 findjan             taza
 findjanes           tazas
 kantaro             botijo
 kantaros            botijos
 katramiz            
 katramizes          
+kavanoz             
 kupa                vaso
 kupas               vasos
+librik              
 papelera            papelera
 papeleras           papeleras
 redoma              botella, redoma

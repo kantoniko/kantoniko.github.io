@@ -1,0 +1,5 @@
+Ladino             Spanish
+bienvenido          bienvenido
+bienvenida          bienvenida
+bienvenidos         bienvenidos
+bienvenidas         bienvenidas

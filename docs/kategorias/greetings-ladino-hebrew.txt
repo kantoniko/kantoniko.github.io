@@ -1,0 +1,5 @@
+Ladino             Hebrew
+bienvenido          ברוך הבא
+bienvenida          ברוך הבאה
+bienvenidos         ברוכים הבאים
+bienvenidas         ברוכות הבאות

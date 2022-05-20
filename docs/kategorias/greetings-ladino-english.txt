@@ -1,0 +1,5 @@
+Ladino             English
+bienvenido          welcome
+bienvenida          welcome
+bienvenidos         welcome
+bienvenidas         welcome

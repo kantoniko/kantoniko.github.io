@@ -8,6 +8,8 @@ filmiko
 filmikos            
 ijiko               
 kafiko              
+kandelika           
+kandelikas          
 mezika              
 mezikas             
 papeliko            

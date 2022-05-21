@@ -1,6 +1,8 @@
 Ladino             Spanish
 almario             armario
 almarios            armarios
+espejo              espejo
+espejos             espejos
 fotolyo             butaca, sillón
 fotolyos            butacas, sillónes
 frijider            nevera, refrigerador
@@ -8,6 +10,9 @@ frijideres          neveras, refrigeradores
 kama                cama
 kamas               camas
 kashon              cajón
+kolchon             colchón
+lampa               lampara
+lampas              lamparas
 meza                mesa
 mezas               mesas
 mezika              
@@ -16,3 +21,4 @@ orno                horno
 ornos               hornos
 siya                silla
 siyas               sillas
+tabure              taburete

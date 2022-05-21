@@ -1,6 +1,8 @@
 Ladino             Portuguese
 almario             
 almarios            
+espejo              
+espejos             
 fotolyo             
 fotolyos            
 frijider            
@@ -8,6 +10,9 @@ frijideres
 kama                
 kamas               
 kashon              
+kolchon             colchão
+lampa               
+lampas              
 meza                
 mezas               
 mezika              
@@ -16,3 +21,4 @@ orno
 ornos               
 siya                
 siyas               
+tabure              

@@ -1,6 +1,8 @@
 Ladino             Turkish
 almario             dolap
 almarios            dolap
+espejo              ayna
+espejos             ayna
 fotolyo             koltuk
 fotolyos            koltuk
 frijider            boz dolabı
@@ -8,6 +10,9 @@ frijideres          boz dolabı
 kama                yatak, döşek
 kamas               yatak, döşek
 kashon              çekmece
+kolchon             şilte
+lampa               
+lampas              
 meza                masa
 mezas               masa
 mezika              
@@ -16,3 +21,4 @@ orno                fırın
 ornos               fırın
 siya                sandalye
 siyas               sandalye
+tabure              

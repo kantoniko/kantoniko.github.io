@@ -38,6 +38,8 @@ pusetes             prams
 shayna              sled
 sumarino            submarine
 sumarinos           submarines
+taksi               taxi, cab
+taksis              taxis, cabs
 teleferik           cable car, cableway
 teleferikos         cable cars, cableways
 tractor             tractor

@@ -38,6 +38,8 @@ pusetes
 shayna              
 sumarino            
 sumarinos           
+taksi               
+taksis              
 teleferik           
 teleferikos         
 tractor             

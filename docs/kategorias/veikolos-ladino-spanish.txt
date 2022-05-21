@@ -38,6 +38,8 @@ pusetes             cochecitos
 shayna              trineo
 sumarino            submarino
 sumarinos           submarinos
+taksi               taxi
+taksis              taxis
 teleferik           teleférico
 teleferikos         teleféricos
 tractor             tractor

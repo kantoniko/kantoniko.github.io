@@ -1,5 +1,6 @@
 Ladino             Spanish
-abreviasion         
+abreviasion         abbreviation, abreviatura
+abreviasiones       abbreviationes, abreviaturas
 adjektival          
 diminutivo          dimunitivo
 diminutivos         dimunitivos

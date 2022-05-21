@@ -1,5 +1,6 @@
 Ladino             English
 abreviasion         abbreviation
+abreviasiones       abbreviations
 adjektival          adjectival
 diminutivo          dimunitive
 diminutivos         dimunitives

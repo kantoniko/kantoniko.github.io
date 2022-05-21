@@ -1,5 +1,6 @@
 Ladino             Hebrew
 abreviasion         
+abreviasiones       
 adjektival          
 diminutivo          
 diminutivos         

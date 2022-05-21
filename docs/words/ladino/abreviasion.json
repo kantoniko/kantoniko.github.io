@@ -1,1 +1,1 @@
-[{"ladino": "abreviasion", "origen": "Ladinokomunita", "source": "abreviasion.yaml", "translations": {"english": ["abbreviation"], "french": [], "hebrew": [], "portuguese": [], "spanish": [], "turkish": ["kısaltma"]}}]
+[{"accented": "abreviasión", "gender": "feminine", "ladino": "abreviasion", "number": "singular", "origen": "Ladinokomunita", "source": "abreviasion.yaml", "translations": {"english": ["abbreviation"], "french": [], "hebrew": [], "portuguese": [], "spanish": ["abbreviation", "abreviatura"], "turkish": ["kısaltma"]}}]

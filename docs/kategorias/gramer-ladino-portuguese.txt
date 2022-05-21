@@ -1,5 +1,6 @@
 Ladino             Portuguese
 abreviasion         
+abreviasiones       
 adjektival          
 diminutivo          
 diminutivos         

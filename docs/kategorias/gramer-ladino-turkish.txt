@@ -1,5 +1,6 @@
 Ladino             Turkish
 abreviasion         kısaltma
+abreviasiones       kısaltma
 adjektival          sıfatsal
 diminutivo          
 diminutivos         

@@ -2,6 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url><loc>https://diksionaryo.szabgab.com/</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/about</loc></url>
+<url><loc>https://diksionaryo.szabgab.com/abreviasiones</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/dias-de-la-semana</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/dictionaries</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/egzempios</loc></url>
@@ -57,6 +58,7 @@
 <url><loc>https://diksionaryo.szabgab.com/numeros</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/origenes/aki yerushalayim</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/origenes/balkanes</loc></url>
+<url><loc>https://diksionaryo.szabgab.com/origenes/ebreo</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/origenes/estanbol</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/origenes/gresia</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/origenes/index</loc></url>
@@ -2522,6 +2524,7 @@
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/kavesas</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/kaveyo</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/kavo</loc></url>
+<url><loc>https://diksionaryo.szabgab.com/words/ladino/kavod</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/kavza</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/kavzar</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/kavzo</loc></url>
@@ -3627,6 +3630,7 @@
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/obstakolo</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/obstakolos</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/obtener</loc></url>
+<url><loc>https://diksionaryo.szabgab.com/words/ladino/obviamente</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/ochen</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/ofisial</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/ofisio</loc></url>

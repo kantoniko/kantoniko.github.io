@@ -42,5 +42,5 @@ sutien
 takia               
 takias              
 triko               
-vestido             
-vestidos            
+vestido             robe
+vestidos            robes

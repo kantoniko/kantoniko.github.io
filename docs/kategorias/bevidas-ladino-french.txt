@@ -6,5 +6,5 @@ kafe
 kafiko              
 leche               lait
 sumo                
-vino                
+vino                vin
 vino kolorado       vin rouge

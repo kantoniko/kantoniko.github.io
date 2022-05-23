@@ -48,3 +48,4 @@ supas               soups
 tomat reynado       meat-filled tomatoes
 travados            nut-filled pastry
 yelada              ice-cream
+yeladas             ice-creams

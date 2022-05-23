@@ -53,5 +53,5 @@ tias
 tio                 
 tios                
 vava                
-yerno               
-yernos              
+yerno               gendre
+yernos              gendres

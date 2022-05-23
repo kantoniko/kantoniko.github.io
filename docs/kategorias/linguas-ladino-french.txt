@@ -17,4 +17,4 @@ ladino
 latin               
 portugez            
 turko               
-yiddish             
+yiddish             Yiddish

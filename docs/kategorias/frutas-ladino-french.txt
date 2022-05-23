@@ -56,5 +56,5 @@ torondja
 uva                 
 uvas                
 vishna              
-zirguela            
-zirguelas           
+zirguela            prune
+zirguelas           prunes

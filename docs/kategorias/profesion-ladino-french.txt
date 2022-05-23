@@ -95,8 +95,8 @@ traduktor
 traduktora          
 traduktores         
 traduktoras         
-veterinaro          
-veterinara          
-veterinaros         
-veterinaras         
-yaurtchi            
+veterinaro          vétérinaire
+veterinara          vétérinaire
+veterinaros         vétérinaires
+veterinaras         vétérinaires
+yaurtchi            vendeur de yaourt

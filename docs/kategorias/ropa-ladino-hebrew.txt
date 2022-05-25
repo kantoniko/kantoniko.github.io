@@ -10,21 +10,30 @@ chizmes
 djaketa             
 djaketas            
 empermeable         
+esharpa             
+esharpas            
 fostan              שמלה
 fostanes            שמלות
 fusta               
 fustas              
 guantes             כפפות
+kalsa               
+kalsas              
 kalsado             
 kalsados            
 kamiza              
 kamizas             
+kamizeta            
+kamizetas           
 kanyamazo           
 kasketa             
 kasketas            
 kombinezon          
+komple              
 kundurya            
 kushak              
+mayo                
+mayos               
 mortaja             
 mortajas            
 panatalon           
@@ -34,6 +43,7 @@ panyo
 pardesu             
 pulover             
 puloveres           
+ropa interior       
 sapato              
 sapatos             
 shal                צעיף

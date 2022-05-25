@@ -10,21 +10,30 @@ chizmes
 djaketa             ceket
 djaketas            ceket
 empermeable         
+esharpa             
+esharpas            
 fostan              etek
 fostanes            etekler
 fusta               etek
 fustas              etek
 guantes             eldivenler
+kalsa               
+kalsas              
 kalsado             ayakkabı
 kalsados            ayakkabı
 kamiza              gömlek
 kamizas             gömlek
+kamizeta            
+kamizetas           
 kanyamazo           bez
 kasketa             
 kasketas            
 kombinezon          kombinezon, jupon
+komple              takım elbise
 kundurya            ayakkabı, kundura
 kushak              
+mayo                
+mayos               
 mortaja             kefen
 mortajas            kefenler
 panatalon           
@@ -34,6 +43,7 @@ panyo               bez
 pardesu             pardesü, palto
 pulover             
 puloveres           
+ropa interior       
 sapato              terlik, çarık
 sapatos             terlik, çarık
 shal                şal

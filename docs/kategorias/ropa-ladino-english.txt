@@ -10,21 +10,30 @@ chizmes             boots
 djaketa             jacket
 djaketas            jackets
 empermeable         raincoat
+esharpa             scarf
+esharpas            scarfs
 fostan              dress
 fostanes            dresses
 fusta               skirt
 fustas              skirts
 guantes             gloves
+kalsa               sock
+kalsas              socks
 kalsado             shoe
 kalsados            shoes
 kamiza              shirt
 kamizas             shirts
+kamizeta            t-shirt
+kamizetas           t-shirts
 kanyamazo           rag, cloth
 kasketa             baseball hat
 kasketas            baseball hats
 kombinezon          petticoat
+komple              costume, suit
 kundurya            shoe
 kushak              belt
+mayo                swimsuit
+mayos               swimsuits
 mortaja             shroud
 mortajas            shrouds
 panatalon           trouser
@@ -34,6 +43,7 @@ panyo               piece of cloth
 pardesu             over-coat
 pulover             sweather
 puloveres           sweathers
+ropa interior       underware
 sapato              slipper
 sapatos             slippers
 shal                shawl

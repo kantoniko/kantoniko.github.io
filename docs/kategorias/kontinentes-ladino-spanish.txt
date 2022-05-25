@@ -1,0 +1,6 @@
+Ladino             Spanish
+Afrika              África
+Amerika             América
+Asia                Asia
+Australia           Australia
+Evropa              Europa

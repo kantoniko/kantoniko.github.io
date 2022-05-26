@@ -3,3 +3,6 @@ bienvenido          bienvenido
 bienvenida          bienvenida
 bienvenidos         bienvenidos
 bienvenidas         bienvenidas
+buenas tadres       buenas tardes
+buenos dias         buenos dias
+buyrun              

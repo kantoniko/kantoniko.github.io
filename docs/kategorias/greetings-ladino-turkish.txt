@@ -1,4 +1,5 @@
 Ladino             Turkish
+Sanos i rezyos      
 bienvenido          
 bienvenida          
 bienvenidos         

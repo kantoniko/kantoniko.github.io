@@ -1,4 +1,5 @@
 Ladino             English
+Sanos i rezyos      
 bienvenido          welcome
 bienvenida          welcome
 bienvenidos         welcome

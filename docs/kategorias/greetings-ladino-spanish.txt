@@ -1,4 +1,5 @@
 Ladino             Spanish
+Sanos i rezyos      
 bienvenido          bienvenido
 bienvenida          bienvenida
 bienvenidos         bienvenidos

@@ -14,7 +14,8 @@ ivrit               hebreo
 kasteyano           Castellano
 katalan             catalán
 ladino              Ladino
-latin               latín
+latinos             latinos
+latinas             latínas
 portugez            portugués
 turko               turco
 yiddish             lengua de los judios askenazis

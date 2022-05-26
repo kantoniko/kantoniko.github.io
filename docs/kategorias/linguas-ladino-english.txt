@@ -14,7 +14,8 @@ ivrit               Hebrew
 kasteyano           Castilian
 katalan             Catalan
 ladino              Ladino
-latin               latin
+latinos             latin
+latinas             latin
 portugez            Portuguese
 turko               Turkish
 yiddish             yiddish

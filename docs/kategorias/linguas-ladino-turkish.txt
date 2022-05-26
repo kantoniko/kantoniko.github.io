@@ -14,7 +14,8 @@ ivrit               Ibranice
 kasteyano           Ispanyol, Kastilyalı, Ispanyolca
 katalan             Katalan
 ladino              ladino
-latin               latin, latince
+latinos             
+latinas             
 portugez            Portekizce
 turko               Türkçe
 yiddish             yidiş

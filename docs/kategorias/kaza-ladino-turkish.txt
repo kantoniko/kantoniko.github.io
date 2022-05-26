@@ -1,0 +1,7 @@
+Ladino             Turkish
+banyo               
+banyos              
+dormitorio          yatak odası, yatakhane
+dormitorios         
+ventana             pencere
+ventanas            pencere

@@ -1,0 +1,31 @@
+Ladino             Turkish
+buziera             buzdolabı
+chini               tabak
+findjan             fincan
+findjanes           fincan
+frijider            boz dolabı
+frijideres          boz dolabı
+kacharola           sahan, tencere
+kaldera             
+kuchara             kaşık
+kucharas            kaşık
+kuchiyo             bıçak
+kuchiyos            bıçak
+kupa                bardak
+kupas               bardak
+orno                fırın
+ornos               fırın
+oya                 
+piron               çatal
+pirones             çatal
+plato               tabak
+platos              tabak
+prestij             
+redoma              şişe
+redomas             şişe
+sarten              tava
+tasa                fincan, kupa
+tasas               fincan, kupa
+tava                tava
+tefsin              
+tendjere            

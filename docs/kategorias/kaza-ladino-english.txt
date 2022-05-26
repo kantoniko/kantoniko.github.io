@@ -1,0 +1,7 @@
+Ladino             English
+banyo               bathroom
+banyos              bathrooms
+dormitorio          bedroom, dormitory
+dormitorios         bedrooms, dormitories
+ventana             window
+ventanas            windows

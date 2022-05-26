@@ -1,0 +1,7 @@
+Ladino             Spanish
+banyo               baño
+banyos              baños
+dormitorio          dormitorio
+dormitorios         dormitorios
+ventana             ventana
+ventanas            ventanas

@@ -25,14 +25,17 @@
 <url><loc>https://diksionaryo.szabgab.com/kategorias/index</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/kategorias/insektos</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/kategorias/kamareta-de-echar</loc></url>
+<url><loc>https://diksionaryo.szabgab.com/kategorias/kaza</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/kategorias/kolores</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/kategorias/komidas</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/kategorias/kontenentes</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/kategorias/kontinentes</loc></url>
+<url><loc>https://diksionaryo.szabgab.com/kategorias/kuzina</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/kategorias/linguas</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/kategorias/mamiferos</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/kategorias/mobles</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/kategorias/muzika</loc></url>
+<url><loc>https://diksionaryo.szabgab.com/kategorias/natura</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/kategorias/numeros</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/kategorias/paises</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/kategorias/plantas</loc></url>
@@ -40,7 +43,6 @@
 <url><loc>https://diksionaryo.szabgab.com/kategorias/puerpo</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/kategorias/relijiones</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/kategorias/ropa</loc></url>
-<url><loc>https://diksionaryo.szabgab.com/kategorias/servisio-de-kuzina</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/kategorias/servisio-de-meza</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/kategorias/sivdades</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/kategorias/sports</loc></url>
@@ -225,6 +227,8 @@
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/aedadas</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/aedado</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/aedados</loc></url>
+<url><loc>https://diksionaryo.szabgab.com/words/ladino/aeroporto</loc></url>
+<url><loc>https://diksionaryo.szabgab.com/words/ladino/aeroportos</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/afalagar</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/afarsemon</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/aferrada</loc></url>
@@ -285,6 +289,7 @@
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/ahuera</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/ainda</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/ainito</loc></url>
+<url><loc>https://diksionaryo.szabgab.com/words/ladino/aire</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/ajektivo</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/ajektivos</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/ajena</loc></url>
@@ -1332,6 +1337,7 @@
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/dondurma</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/dondurmas</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/dormitorio</loc></url>
+<url><loc>https://diksionaryo.szabgab.com/words/ladino/dormitorios</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/dos</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/dospues</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/dozientos</loc></url>
@@ -1762,7 +1768,9 @@
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/estar repozado</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/estar seguro</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/estas</loc></url>
+<url><loc>https://diksionaryo.szabgab.com/words/ladino/estasion</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/estasion de benzin</loc></url>
+<url><loc>https://diksionaryo.szabgab.com/words/ladino/estasiones</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/este</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/estes</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/estimada</loc></url>
@@ -3066,6 +3074,8 @@
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/ladrona</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/ladronas</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/ladrones</loc></url>
+<url><loc>https://diksionaryo.szabgab.com/words/ladino/lago</loc></url>
+<url><loc>https://diksionaryo.szabgab.com/words/ladino/lagos</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/lampa</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/lampas</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/lampas de trafik</loc></url>
@@ -3636,6 +3646,7 @@
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/numeros</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/nunka</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/nuve</loc></url>
+<url><loc>https://diksionaryo.szabgab.com/words/ladino/nuves</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/nuvlozo</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/o</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/obeisar</loc></url>
@@ -4291,6 +4302,8 @@
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/pruntar</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/psikiatriya</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/publikar</loc></url>
+<url><loc>https://diksionaryo.szabgab.com/words/ladino/publikasion</loc></url>
+<url><loc>https://diksionaryo.szabgab.com/words/ladino/publikasiones</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/publiko</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/publikos</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/puede</loc></url>
@@ -4318,6 +4331,8 @@
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/puset</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/pusetes</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/puso</loc></url>
+<url><loc>https://diksionaryo.szabgab.com/words/ladino/puvlikasion</loc></url>
+<url><loc>https://diksionaryo.szabgab.com/words/ladino/puvlikasiones</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/pye</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/pyes</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/rabino</loc></url>

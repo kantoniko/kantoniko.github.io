@@ -1,5 +1,13 @@
 Ladino             Turkish
+aktor               aktör
+aktores             aktör
+aktrisa             aktris
+aktrisas            aktris
 ambasador           büyük elçi
+arkitekto           
+arkitekta           
+arkitektos          
+arkitektas          
 avokato             avukat
 avokata             avukat
 avokatos            avukat
@@ -16,6 +24,19 @@ bibliotekario
 bibliotekaria       
 bibliotekarios      
 bibliotekarias      
+chadirdjis          
+dientisto           dişçi
+dientista           dişçi
+dientistos          dişçi
+dientistas          dişçi
+direktor            yönetici, müdür, direktör
+direktora           yönetici, müdür, direktör
+direktores          yönetici, müdür, direktör
+direktoras          yönetici, müdür, direktör
+djoranalisto        
+djoranalista        
+djoranalistos       
+djoranalistas       
 djoyero             kuyumcu
 doktor              doktor
 doktora             doktor
@@ -33,6 +54,10 @@ frutero             meyvaci
 garson              garson
 garsona             garson
 garsones            garson
+giador              rehber, lıder
+giadora             rehber, lıder
+guia                
+guias               
 hamal               hamal
 hamala              
 hamales             
@@ -42,6 +67,8 @@ kantadera           şarkıcı
 kantadores          şarkıcı
 kantaderas          şarkıcı
 kasap               kasap
+komediante          
+komediantes         
 komersante          tüccar
 kompozitor          
 kompozitora         
@@ -51,6 +78,7 @@ ladron              hırsız
 ladrona             hırsız
 ladrones            
 ladronas            
+mafyonero           
 mediko              doktor
 medika              doktor
 medikos             doktor
@@ -81,6 +109,10 @@ profesor            öğretmen
 profesora           öğretmen
 profesores          öğretmenler
 profesoras          öğretmenler
+redaktor            
+redaktora           
+redaktores          
+redaktoras          
 shofor              şoför
 shofores            şoför
 sientista           
@@ -95,6 +127,10 @@ traduktor           tercüman
 traduktora          tercüman
 traduktores         tercüman
 traduktoras         tercüman
+vendedor            
+vendedora           
+vendedores          
+vendedoras          
 veterinaro          veteriner, baytar
 veterinara          veteriner, baytar
 veterinaros         veterinerler, baytarlar

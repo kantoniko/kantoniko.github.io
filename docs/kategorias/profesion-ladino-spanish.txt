@@ -1,5 +1,13 @@
 Ladino             Spanish
+aktor               actor
+aktores             actores
+aktrisa             actriz
+aktrisas            actrizas
 ambasador           embajador
+arkitekto           arquitecto
+arkitekta           arquitecta
+arkitektos          arquitectos
+arkitektas          arquitectas
 avokato             abogado
 avokata             abogada
 avokatos            abogados
@@ -16,6 +24,19 @@ bibliotekario       bibliotecario
 bibliotekaria       bibliotecaria
 bibliotekarios      bibliotecarios
 bibliotekarias      bibliotecarias
+chadirdjis          
+dientisto           dentista
+dientista           dentista
+dientistos          dentistas
+dientistas          dentistas
+direktor            director, empresario
+direktora           directora, empresaria
+direktores          directores, empresarios
+direktoras          directoras, empresarias
+djoranalisto        periodista
+djoranalista        periodista
+djoranalistos       periodistas
+djoranalistas       periodistas
 djoyero             joyero
 doktor              doctor
 doktora             doctora
@@ -33,6 +54,10 @@ frutero             frutería
 garson              camarero
 garsona             camarera
 garsones            camareros
+giador              guía
+giadora             guía
+guia                guía
+guias               guías
 hamal               portador
 hamala              portadora
 hamales             portadores
@@ -42,6 +67,8 @@ kantadera           cantora
 kantadores          cantors
 kantaderas          cantoras
 kasap               carnicero
+komediante          cómico, comediante
+komediantes         cómicos, comediantes
 komersante          comerciante
 kompozitor          compositor
 kompozitora         compositora
@@ -51,6 +78,7 @@ ladron              ladrón
 ladrona             ladrona
 ladrones            ladrones
 ladronas            ladronas
+mafyonero           mafioso
 mediko              médico
 medika              médica
 medikos             médicos
@@ -81,6 +109,10 @@ profesor            profesor
 profesora           profesora
 profesores          profesores
 profesoras          profesoras
+redaktor            editor
+redaktora           editora
+redaktores          editores
+redaktoras          editoras
 shofor              chofer
 shofores            choferes
 sientista           científico, científica
@@ -95,6 +127,10 @@ traduktor           traductor
 traduktora          traductora
 traduktores         traductores
 traduktoras         traductoras
+vendedor            vendedor
+vendedora           vendedora
+vendedores          vendedores
+vendedoras          vendedoras
 veterinaro          veterinario
 veterinara          veterinaria
 veterinaros         veterinarios

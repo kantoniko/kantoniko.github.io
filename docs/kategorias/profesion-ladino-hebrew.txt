@@ -1,5 +1,13 @@
 Ladino             Hebrew
+aktor               
+aktores             
+aktrisa             
+aktrisas            
 ambasador           
+arkitekto           
+arkitekta           
+arkitektos          
+arkitektas          
 avokato             
 avokata             
 avokatos            
@@ -16,6 +24,19 @@ bibliotekario
 bibliotekaria       
 bibliotekarios      
 bibliotekarias      
+chadirdjis          
+dientisto           
+dientista           
+dientistos          
+dientistas          
+direktor            
+direktora           
+direktores          
+direktoras          
+djoranalisto        
+djoranalista        
+djoranalistos       
+djoranalistas       
 djoyero             
 doktor              
 doktora             
@@ -33,6 +54,10 @@ frutero
 garson              
 garsona             
 garsones            
+giador              
+giadora             
+guia                
+guias               
 hamal               
 hamala              
 hamales             
@@ -42,6 +67,8 @@ kantadera
 kantadores          
 kantaderas          
 kasap               
+komediante          
+komediantes         
 komersante          
 kompozitor          
 kompozitora         
@@ -51,6 +78,7 @@ ladron
 ladrona             
 ladrones            
 ladronas            
+mafyonero           
 mediko              
 medika              
 medikos             
@@ -81,6 +109,10 @@ profesor
 profesora           
 profesores          
 profesoras          
+redaktor            
+redaktora           
+redaktores          
+redaktoras          
 shofor              
 shofores            
 sientista           
@@ -95,6 +127,10 @@ traduktor
 traduktora          
 traduktores         
 traduktoras         
+vendedor            
+vendedora           
+vendedores          
+vendedoras          
 veterinaro          
 veterinara          
 veterinaros         

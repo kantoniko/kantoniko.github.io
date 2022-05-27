@@ -1,10 +1,18 @@
 Ladino             French
 agua                
+alkol               
 bira                
 chay                thé
+espreso             
+espresos            
 kafe                
 kafiko              
+kapuchino           
+kapuchinos          
+kave                
+kokakola            
 leche               lait
+shampanya           
 sumo                
 vino                vin
 vino kolorado       vin rouge

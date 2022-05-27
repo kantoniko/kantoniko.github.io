@@ -29,7 +29,6 @@
 <url><loc>https://diksionaryo.szabgab.com/kategorias/flores</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/kategorias/frutas</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/kategorias/gramer</loc></url>
-<url><loc>https://diksionaryo.szabgab.com/kategorias/greetings</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/kategorias/index</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/kategorias/insektos</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/kategorias/kamareta-de-echar</loc></url>
@@ -52,6 +51,7 @@
 <url><loc>https://diksionaryo.szabgab.com/kategorias/puerpo</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/kategorias/relijiones</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/kategorias/ropa</loc></url>
+<url><loc>https://diksionaryo.szabgab.com/kategorias/saludos</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/kategorias/servisio-de-meza</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/kategorias/sivdades</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/kategorias/sports</loc></url>
@@ -795,6 +795,7 @@
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/azno</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/aznos</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/azo</loc></url>
+<url><loc>https://diksionaryo.szabgab.com/words/ladino/azul</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/bagaje</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/bahshish</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/bakal</loc></url>
@@ -953,6 +954,7 @@
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/bonete</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/bonora</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/bora</loc></url>
+<url><loc>https://diksionaryo.szabgab.com/words/ladino/bordo</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/borracha</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/borrachas</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/borracho</loc></url>
@@ -1781,6 +1783,8 @@
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/espitales</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/espor</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/espozorio</loc></url>
+<url><loc>https://diksionaryo.szabgab.com/words/ladino/espreso</loc></url>
+<url><loc>https://diksionaryo.szabgab.com/words/ladino/espresos</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/esta</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/estableser</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/estado</loc></url>
@@ -2528,6 +2532,8 @@
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/kapachi</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/kapachitad</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/kapo</loc></url>
+<url><loc>https://diksionaryo.szabgab.com/words/ladino/kapuchino</loc></url>
+<url><loc>https://diksionaryo.szabgab.com/words/ladino/kapuchinos</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/kara</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/karakter</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/karar</loc></url>
@@ -2643,6 +2649,7 @@
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/kestyones</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/kezo</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/kezos</loc></url>
+<url><loc>https://diksionaryo.szabgab.com/words/ladino/khaki</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/kije</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/kijeron</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/kijimos</loc></url>
@@ -2694,6 +2701,7 @@
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/kodreros</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/koensidar</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/kofte</loc></url>
+<url><loc>https://diksionaryo.szabgab.com/words/ladino/kokakola</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/kol</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/kola</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/kolaborasion</loc></url>
@@ -3338,6 +3346,7 @@
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/maridos</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/marka</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/markas</loc></url>
+<url><loc>https://diksionaryo.szabgab.com/words/ladino/maron</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/marso</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/martes</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/marunchinos</loc></url>
@@ -3350,6 +3359,7 @@
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/material</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/materiales</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/matrana</loc></url>
+<url><loc>https://diksionaryo.szabgab.com/words/ladino/mavi</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/maydanoz</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/mayo</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/mayor</loc></url>
@@ -3520,6 +3530,10 @@
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/montanyas</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/monton</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/mora</loc></url>
+<url><loc>https://diksionaryo.szabgab.com/words/ladino/morada</loc></url>
+<url><loc>https://diksionaryo.szabgab.com/words/ladino/moradas</loc></url>
+<url><loc>https://diksionaryo.szabgab.com/words/ladino/morado</loc></url>
+<url><loc>https://diksionaryo.szabgab.com/words/ladino/morados</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/moral</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/morar</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/moras</loc></url>
@@ -4745,6 +4759,7 @@
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/shal</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/shales</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/shalom</loc></url>
+<url><loc>https://diksionaryo.szabgab.com/words/ladino/shampanya</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/shampinyon</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/shara tropikal</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/sharope</loc></url>

@@ -10,3 +10,4 @@ bienvenidas         bienvenidas
 buenas tadres       buenas tardes
 buenos dias         buenos dias
 buyrun              
+shalom              saludo, salutación

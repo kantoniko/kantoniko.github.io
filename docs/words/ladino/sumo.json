@@ -1,1 +1,1 @@
-[{"ladino": "sumo", "origen": "Jeneral", "source": "sumo.yaml", "translations": {"english": ["juice"], "french": [], "portuguese": [], "spanish": ["zumo", "jumo", "jugo"], "turkish": ["usare (meyva suyu)"]}}]
+[{"examples": [{"english": "apple juice", "ladino": "sumo de mansana"}, {"english": "orange juice", "ladino": "sumo de portokal"}], "ladino": "sumo", "origen": "Jeneral", "source": "sumo.yaml", "translations": {"english": ["juice"], "french": [], "portuguese": [], "spanish": ["zumo", "jumo", "jugo"], "turkish": ["usare (meyva suyu)"]}}]

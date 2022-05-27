@@ -1,10 +1,18 @@
 Ladino             Turkish
 agua                su
+alkol               alkol
 bira                bira
 chay                çay
+espreso             
+espresos            
 kafe                kahve
 kafiko              
+kapuchino           
+kapuchinos          
+kave                kahve, kahvehane
+kokakola            
 leche               süt
+shampanya           
 sumo                usare (meyva suyu)
 vino                şarap
 vino kolorado       kırmızı şarap

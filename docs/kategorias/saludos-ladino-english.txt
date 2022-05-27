@@ -10,3 +10,4 @@ bienvenidas         welcome
 buenas tadres       good afternoon
 buenos dias         good morning
 buyrun              welcome
+shalom              salute, greetings

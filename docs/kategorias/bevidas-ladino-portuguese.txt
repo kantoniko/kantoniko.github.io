@@ -1,10 +1,18 @@
 Ladino             Portuguese
 agua                
+alkol               
 bira                
 chay                chá
+espreso             
+espresos            
 kafe                
 kafiko              
+kapuchino           
+kapuchinos          
+kave                
+kokakola            
 leche               leite
+shampanya           
 sumo                
 vino                
 vino kolorado       

@@ -3,6 +3,8 @@ bluza               blouse
 bluzas              blouses
 boton               button
 botones             buttons
+braga               panties
+bragas              panties
 chapin              shoe
 chapines            shoes
 chizme              boot
@@ -36,14 +38,16 @@ mayo                swimsuit
 mayos               swimsuits
 mortaja             shroud
 mortajas            shrouds
-panatalon           trouser
-panatalones         trousers, pants
+pantalon            trouser
+pantalones          trousers, pants
 pantofla            slipper
 panyo               piece of cloth
 pardesu             over-coat
 pulover             sweather
 puloveres           sweathers
 ropa interior       underware
+sandal              sandal
+sandales            sandals
 sapato              slipper
 sapatos             slippers
 shal                shawl

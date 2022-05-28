@@ -3,6 +3,8 @@ bluza               bluz
 bluzas              bluzlar
 boton               
 botones             
+braga               
+bragas              
 chapin              ayakkabı
 chapines            ayakkabı
 chizme              
@@ -36,14 +38,16 @@ mayo
 mayos               
 mortaja             kefen
 mortajas            kefenler
-panatalon           
-panatalones         
+pantalon            
+pantalones          
 pantofla            terlik
 panyo               bez
 pardesu             pardesü, palto
 pulover             
 puloveres           
 ropa interior       
+sandal              
+sandales            
 sapato              terlik, çarık
 sapatos             terlik, çarık
 shal                şal

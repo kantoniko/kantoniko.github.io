@@ -3,6 +3,8 @@ bluza               blusa
 bluzas              blusas
 boton               botón
 botones             botones
+braga               bragas
+bragas              bragas
 chapin              zapato
 chapines            zapatos
 chizme              
@@ -36,14 +38,16 @@ mayo                traje de baño
 mayos               trajes de baño
 mortaja             mortaja
 mortajas            mortajas
-panatalon           pantalon
-panatalones         pantalones
+pantalon            pantalon
+pantalones          pantalones
 pantofla            zapatilla
 panyo               paño
 pardesu             abrigo
 pulover             suéter
 puloveres           suéteres
 ropa interior       ropa interior
+sandal              sandalia
+sandales            sandalias
 sapato              zapatilla
 sapatos             zapatillas
 shal                chal

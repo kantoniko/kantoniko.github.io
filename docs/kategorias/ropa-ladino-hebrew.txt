@@ -3,6 +3,8 @@ bluza
 bluzas              
 boton               
 botones             
+braga               
+bragas              
 chapin              
 chapines            
 chizme              
@@ -36,14 +38,16 @@ mayo
 mayos               
 mortaja             
 mortajas            
-panatalon           
-panatalones         
+pantalon            
+pantalones          
 pantofla            
 panyo               
 pardesu             
 pulover             
 puloveres           
 ropa interior       
+sandal              
+sandales            
 sapato              
 sapatos             
 shal                צעיף

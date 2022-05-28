@@ -4,10 +4,18 @@ asparago            asparagus
 ava                 dry beans
 ava freska          broad beans, fava beans
 barbunya fasulya    beans (fresh butterbeans)
+berendjena          eggplant
 hohombro            cucumber
+karota              carrot
+karotas             carrots
+kartof              potato
 kol                 cabbage
 kuchundurya         cauliflower
 kulupiya            cauliflower
+mais                corn
+misir               corn
+patata              potato
+patatas             potatoes
 prasa               leek
 prasas              leeks
 safanorya           carrot

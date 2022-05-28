@@ -10,5 +10,5 @@ prefikso
 prepozision         
 prepozisiones       
 prezente            
-verbo               
-verbos              
+verbo               verbe
+verbos              verbes

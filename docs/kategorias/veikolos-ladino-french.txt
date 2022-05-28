@@ -48,4 +48,4 @@ tramvayes
 treno               
 trenos              
 trotinet            
-vapor               
+vapor               vapeur

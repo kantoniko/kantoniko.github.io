@@ -16,5 +16,5 @@ piron
 pirones             
 plato               
 platos              
-vazo                
+vazo                vase
 vazos               

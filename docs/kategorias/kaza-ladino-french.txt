@@ -3,5 +3,5 @@ banyo
 banyos              
 dormitorio          
 dormitorios         
-ventana             
-ventanas            
+ventana             fenêtre
+ventanas            fenetrês

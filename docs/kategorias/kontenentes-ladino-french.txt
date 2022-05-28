@@ -34,5 +34,5 @@ tubo
 tubos               
 varil               
 variles             
-vazo                
+vazo                vase
 vazos               

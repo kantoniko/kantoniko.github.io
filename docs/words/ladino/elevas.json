@@ -1,1 +1,1 @@
-[{"accented": "elevas", "gender": "feminine", "ladino": "elevas", "number": "plural", "origen": "Jeneral", "source": "elevo.yaml", "translations": {"english": ["student", "pupil"], "french": [], "portuguese": [], "spanish": ["alumnas"], "turkish": ["talebe"]}}]
+[{"gender": "feminine", "ladino": "elevas", "number": "plural", "origen": "Jeneral", "source": "elevo.yaml", "translations": {"english": ["student", "pupil"], "french": [], "portuguese": [], "spanish": ["alumnas"], "turkish": ["talebe"]}}]

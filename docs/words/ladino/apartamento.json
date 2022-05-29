@@ -1,1 +1,1 @@
-[{"accented": "apartamento", "alternative-spelling": [{"accented": "etaj", "ladino": "etaj"}], "ladino": "apartamento", "origen": "Jeneral", "source": "etaj.yaml", "translations": {"english": ["apartment"], "french": [], "portuguese": [], "spanish": ["piso"], "turkish": ["kat", "daire"]}}]
+[{"alternative-spelling": [{"ladino": "etaj"}], "ladino": "apartamento", "origen": "Jeneral", "source": "etaj.yaml", "translations": {"english": ["apartment"], "french": [], "portuguese": [], "spanish": ["piso"], "turkish": ["kat", "daire"]}}]

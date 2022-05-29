@@ -1,4 +1,8 @@
 Ladino             English
+olandez             dutch
+olandeza            dutch
+olandezes           dutch
+olandezas           dutch
 turkano             of Turkish origin
 turkana             of Turkish origin
 turkanos            of Turkish origin

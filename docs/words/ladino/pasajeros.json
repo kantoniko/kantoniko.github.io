@@ -1,1 +1,1 @@
-[{"accented": "pasajeros", "gender": "masculine", "ladino": "pasajeros", "number": "plural", "origen": "Jeneral", "source": "pasajero.yaml", "translations": {"english": ["passengers"], "french": [], "portuguese": [], "spanish": ["pasajeros"], "turkish": ["yolcu"]}}]
+[{"gender": "masculine", "ladino": "pasajeros", "number": "plural", "origen": "Jeneral", "source": "pasajero.yaml", "translations": {"english": ["passengers"], "french": [], "portuguese": [], "spanish": ["pasajeros"], "turkish": ["yolcu"]}}]

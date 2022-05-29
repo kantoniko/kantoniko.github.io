@@ -1,4 +1,8 @@
 Ladino             Turkish
+olandez             
+olandeza            
+olandezes           
+olandezas           
 turkano             Türkiyeli
 turkana             Türkiyeli
 turkanos            Türkiyeli

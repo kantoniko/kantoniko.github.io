@@ -1,4 +1,8 @@
 Ladino             Spanish
+olandez             holandés
+olandeza            holandesa
+olandezes           holandeses
+olandezas           holandesas
 turkano             de Turquía
 turkana             de Turquía
 turkanos            de Turquía

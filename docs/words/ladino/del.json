@@ -1,1 +1,1 @@
-[{"accented": "del", "examples": [{"ladino": "El livro del profesor."}, {"ladino": "del es \"de el\"."}], "ladino": "del", "origen": "Jeneral", "source": "del.yaml", "translations": {"english": ["of the"], "french": [], "portuguese": [], "spanish": ["del"], "turkish": ["den", "dan"]}}]
+[{"examples": [{"ladino": "El livro del profesor."}, {"ladino": "del es \"de el\"."}], "ladino": "del", "origen": "Jeneral", "source": "del.yaml", "translations": {"english": ["of the"], "french": [], "portuguese": [], "spanish": ["del"], "turkish": ["den", "dan"]}}]

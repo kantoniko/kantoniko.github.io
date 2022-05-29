@@ -1,1 +1,1 @@
-[{"accented": "viejo", "gender": "masculine", "ladino": "viejo", "number": "singular", "origen": "Jeneral", "source": "viejo.yaml", "translations": {"english": ["old"], "french": ["vieil"], "portuguese": [], "spanish": ["antiguo"], "turkish": ["eski"]}}]
+[{"gender": "masculine", "ladino": "viejo", "number": "singular", "origen": "Jeneral", "source": "viejo.yaml", "translations": {"english": ["old"], "french": ["vieil"], "portuguese": [], "spanish": ["antiguo"], "turkish": ["eski"]}}]

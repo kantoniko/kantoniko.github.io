@@ -1,1 +1,1 @@
-[{"accented": "empiegados", "gender": "masculine", "ladino": "empiegados", "number": "plural", "origen": "Jeneral", "source": "empiegado.yaml", "translations": {"english": ["employees"], "french": [], "portuguese": [], "spanish": ["empleados"], "turkish": ["müstahdem"]}}]
+[{"gender": "masculine", "ladino": "empiegados", "number": "plural", "origen": "Jeneral", "source": "empiegado.yaml", "translations": {"english": ["employees"], "french": [], "portuguese": [], "spanish": ["empleados"], "turkish": ["müstahdem"]}}]

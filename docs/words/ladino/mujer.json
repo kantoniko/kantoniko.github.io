@@ -1,1 +1,1 @@
-[{"accented": "mujer", "gender": "feminine", "ladino": "mujer", "number": "singular", "origen": "Jeneral", "source": "mujer.yaml", "translations": {"english": ["woman"], "french": [], "portuguese": [], "spanish": ["mujer"], "turkish": ["kadın"]}}]
+[{"gender": "feminine", "ladino": "mujer", "number": "singular", "origen": "Jeneral", "source": "mujer.yaml", "translations": {"english": ["woman"], "french": [], "portuguese": [], "spanish": ["mujer"], "turkish": ["kadın"]}}]

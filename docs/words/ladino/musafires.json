@@ -1,1 +1,1 @@
-[{"accented": "musafires", "gender": "masculine", "ladino": "musafires", "number": "plural", "origen": "Estanbol", "source": "musafir.yaml", "translations": {"english": ["guests"], "french": [], "portuguese": [], "spanish": ["huéspedes", "convidados"], "turkish": ["misafir", "konuk"]}}]
+[{"gender": "masculine", "ladino": "musafires", "number": "plural", "origen": "Estanbol", "source": "musafir.yaml", "translations": {"english": ["guests"], "french": [], "portuguese": [], "spanish": ["huéspedes", "convidados"], "turkish": ["misafir", "konuk"]}}]

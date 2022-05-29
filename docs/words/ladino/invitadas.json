@@ -1,1 +1,1 @@
-[{"accented": "invitadas", "gender": "feminine", "ladino": "invitadas", "number": "plural", "origen": "Jeneral", "source": "invitado.yaml", "translations": {"english": ["guests"], "french": [], "portuguese": [], "spanish": ["invitadas"], "turkish": ["davetli"]}}]
+[{"gender": "feminine", "ladino": "invitadas", "number": "plural", "origen": "Jeneral", "source": "invitado.yaml", "translations": {"english": ["guests"], "french": [], "portuguese": [], "spanish": ["invitadas"], "turkish": ["davetli"]}}]

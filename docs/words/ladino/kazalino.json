@@ -1,1 +1,1 @@
-[{"accented": "kazalino", "gender": "masculine", "ladino": "kazalino", "number": "singular", "origen": "Jeneral", "source": "kazalino.yaml", "translations": {"english": ["villager"], "french": [], "portuguese": [], "spanish": ["campesino", "pueblerino"], "turkish": ["köylü"]}}]
+[{"gender": "masculine", "ladino": "kazalino", "number": "singular", "origen": "Jeneral", "source": "kazalino.yaml", "translations": {"english": ["villager"], "french": [], "portuguese": [], "spanish": ["campesino", "pueblerino"], "turkish": ["köylü"]}}]

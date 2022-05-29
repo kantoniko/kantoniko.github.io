@@ -1,1 +1,1 @@
-[{"accented": "lektores", "gender": "masculine", "ladino": "lektores", "number": "plural", "origen": "Jeneral", "source": "lektor.yaml", "translations": {"english": ["readers"], "french": [], "portuguese": [], "spanish": ["lectores"], "turkish": ["okur"]}}]
+[{"gender": "masculine", "ladino": "lektores", "number": "plural", "origen": "Jeneral", "source": "lektor.yaml", "translations": {"english": ["readers"], "french": [], "portuguese": [], "spanish": ["lectores"], "turkish": ["okur"]}}]

@@ -1,1 +1,1 @@
-[{"accented": "sekretas", "gender": "feminine", "ladino": "sekretas", "number": "plural", "origen": "Jeneral", "source": "sekreto.yaml", "translations": {"english": ["secrets"], "french": [], "portuguese": [], "spanish": ["secretas"], "turkish": ["gizli"]}}]
+[{"gender": "feminine", "ladino": "sekretas", "number": "plural", "origen": "Jeneral", "source": "sekreto.yaml", "translations": {"english": ["secrets"], "french": [], "portuguese": [], "spanish": ["secretas"], "turkish": ["gizli"]}}]

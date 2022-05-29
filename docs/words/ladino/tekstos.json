@@ -1,1 +1,1 @@
-[{"accented": "tekstos", "gender": "masculine", "ladino": "tekstos", "number": "plural", "origen": "Jeneral", "source": "teksto.yaml", "translations": {"english": ["texts"], "french": [], "portuguese": [], "spanish": ["textos"], "turkish": ["metin"]}}]
+[{"gender": "masculine", "ladino": "tekstos", "number": "plural", "origen": "Jeneral", "source": "teksto.yaml", "translations": {"english": ["texts"], "french": [], "portuguese": [], "spanish": ["textos"], "turkish": ["metin"]}}]

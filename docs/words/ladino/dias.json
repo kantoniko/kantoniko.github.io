@@ -1,1 +1,1 @@
-[{"accented": "dias", "alternative-spelling": [{"accented": "diyas", "ladino": "diyas"}], "gender": "masculine", "ladino": "dias", "number": "plural", "origen": "Jeneral", "source": "dia.yaml", "translations": {"english": ["days"], "french": [], "portuguese": [], "spanish": ["días"], "turkish": ["gün"]}}]
+[{"alternative-spelling": [{"ladino": "diyas"}], "gender": "masculine", "ladino": "dias", "number": "plural", "origen": "Jeneral", "source": "dia.yaml", "translations": {"english": ["days"], "french": [], "portuguese": [], "spanish": ["días"], "turkish": ["gün"]}}]

@@ -1,1 +1,1 @@
-[{"accented": "kotidiano", "gender": "masculine", "ladino": "kotidiano", "number": "singular", "origen": "Jeneral", "source": "kotidiano.yaml", "translations": {"english": ["daily"], "french": [], "portuguese": [], "spanish": ["cotidiano"], "turkish": ["gündelik", "günlük"]}}]
+[{"gender": "masculine", "ladino": "kotidiano", "number": "singular", "origen": "Jeneral", "source": "kotidiano.yaml", "translations": {"english": ["daily"], "french": [], "portuguese": [], "spanish": ["cotidiano"], "turkish": ["gündelik", "günlük"]}}]

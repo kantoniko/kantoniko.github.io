@@ -1,1 +1,1 @@
-[{"accented": "primero", "gender": "masculine", "ladino": "primero", "number": "singular", "origen": "Jeneral", "source": "primero.yaml", "translations": {"english": ["first"], "french": [], "portuguese": [], "spanish": ["primero"], "turkish": ["birinci"]}}]
+[{"gender": "masculine", "ladino": "primero", "number": "singular", "origen": "Jeneral", "source": "primero.yaml", "translations": {"english": ["first"], "french": [], "portuguese": [], "spanish": ["primero"], "turkish": ["birinci"]}}]

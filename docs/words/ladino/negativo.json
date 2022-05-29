@@ -1,1 +1,1 @@
-[{"accented": "negativo", "gender": "masculine", "ladino": "negativo", "number": "singular", "origen": "Jeneral", "source": "negativo.yaml", "translations": {"english": ["negative"], "french": [], "portuguese": [], "spanish": ["negativo"], "turkish": ["menfî", "olumsuz"]}}]
+[{"gender": "masculine", "ladino": "negativo", "number": "singular", "origen": "Jeneral", "source": "negativo.yaml", "translations": {"english": ["negative"], "french": [], "portuguese": [], "spanish": ["negativo"], "turkish": ["menfî", "olumsuz"]}}]

@@ -1,1 +1,1 @@
-[{"accented": "yenas", "gender": "feminine", "ladino": "yenas", "number": "plural", "origen": "Jeneral", "source": "yeno.yaml", "translations": {"english": ["full"], "french": ["pleines"], "portuguese": [], "spanish": ["llenas"], "turkish": ["dolu"]}}]
+[{"gender": "feminine", "ladino": "yenas", "number": "plural", "origen": "Jeneral", "source": "yeno.yaml", "translations": {"english": ["full"], "french": ["pleines"], "portuguese": [], "spanish": ["llenas"], "turkish": ["dolu"]}}]

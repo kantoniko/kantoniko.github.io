@@ -1,1 +1,1 @@
-[{"accented": "otobus", "gender": "masculine", "ladino": "otobus", "number": "singular", "origen": "Jeneral", "source": "otobus.yaml", "translations": {"english": ["bus", "motor-coach"], "french": [], "portuguese": [], "spanish": ["autobús", "autocar"], "turkish": ["otobüs"]}}]
+[{"gender": "masculine", "ladino": "otobus", "number": "singular", "origen": "Jeneral", "source": "otobus.yaml", "translations": {"english": ["bus", "motor-coach"], "french": [], "portuguese": [], "spanish": ["autobús", "autocar"], "turkish": ["otobüs"]}}]

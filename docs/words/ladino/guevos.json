@@ -1,1 +1,1 @@
-[{"accented": "guevos", "gender": "masculine", "ladino": "guevos", "number": "plural", "origen": "Jeneral", "source": "guevo.yaml", "translations": {"english": ["eggs"], "french": [], "portuguese": [], "spanish": ["huevos"], "turkish": ["yumurta"]}}]
+[{"gender": "masculine", "ladino": "guevos", "number": "plural", "origen": "Jeneral", "source": "guevo.yaml", "translations": {"english": ["eggs"], "french": [], "portuguese": [], "spanish": ["huevos"], "turkish": ["yumurta"]}}]

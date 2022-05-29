@@ -1,1 +1,1 @@
-[{"accented": "nombre", "gender": "masculine", "ladino": "nombre", "number": "singular", "origen": "Jeneral", "source": "nombre.yaml", "translations": {"english": ["name"], "french": [], "portuguese": [], "spanish": ["nombre"], "turkish": ["isim"]}}]
+[{"gender": "masculine", "ladino": "nombre", "number": "singular", "origen": "Jeneral", "source": "nombre.yaml", "translations": {"english": ["name"], "french": [], "portuguese": [], "spanish": ["nombre"], "turkish": ["isim"]}}]

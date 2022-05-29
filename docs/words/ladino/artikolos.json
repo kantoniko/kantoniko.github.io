@@ -1,1 +1,1 @@
-[{"accented": "artikolos", "gender": "masculine", "ladino": "artikolos", "number": "plural", "origen": "Jeneral", "source": "artikolo.yaml", "translations": {"english": ["articles"], "french": [], "portuguese": [], "spanish": ["artículos"], "turkish": ["madde", "makale"]}}]
+[{"gender": "masculine", "ladino": "artikolos", "number": "plural", "origen": "Jeneral", "source": "artikolo.yaml", "translations": {"english": ["articles"], "french": [], "portuguese": [], "spanish": ["artículos"], "turkish": ["madde", "makale"]}}]

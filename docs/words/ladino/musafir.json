@@ -1,1 +1,1 @@
-[{"accented": "musafir", "gender": "masculine", "ladino": "musafir", "number": "singular", "origen": "Estanbol", "source": "musafir.yaml", "translations": {"english": ["guest"], "french": [], "portuguese": [], "spanish": ["huésped", "convidado"], "turkish": ["misafir", "konuk"]}}]
+[{"gender": "masculine", "ladino": "musafir", "number": "singular", "origen": "Estanbol", "source": "musafir.yaml", "translations": {"english": ["guest"], "french": [], "portuguese": [], "spanish": ["huésped", "convidado"], "turkish": ["misafir", "konuk"]}}]

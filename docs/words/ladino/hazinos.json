@@ -1,1 +1,1 @@
-[{"accented": "hazinos", "gender": "masculine", "ladino": "hazinos", "number": "plural", "origen": "Jeneral", "source": "hazino.yaml", "translations": {"english": ["ill", "sick"], "french": [], "portuguese": [], "spanish": ["enfermos"], "turkish": ["hastalar"]}}]
+[{"gender": "masculine", "ladino": "hazinos", "number": "plural", "origen": "Jeneral", "source": "hazino.yaml", "translations": {"english": ["ill", "sick"], "french": [], "portuguese": [], "spanish": ["enfermos"], "turkish": ["hastalar"]}}]

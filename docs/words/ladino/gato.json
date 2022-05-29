@@ -1,1 +1,1 @@
-[{"accented": "gato", "gender": "masculine", "ladino": "gato", "number": "singular", "origen": "Jeneral", "source": "gato.yaml", "translations": {"english": ["cat"], "french": [], "hebrew": ["חתול"], "portuguese": [], "spanish": ["gato"], "turkish": ["kedi"]}}]
+[{"gender": "masculine", "ladino": "gato", "number": "singular", "origen": "Jeneral", "source": "gato.yaml", "translations": {"english": ["cat"], "french": [], "hebrew": ["חתול"], "portuguese": [], "spanish": ["gato"], "turkish": ["kedi"]}}]

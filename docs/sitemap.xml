@@ -43,6 +43,7 @@
 <url><loc>https://diksionaryo.szabgab.com/kategorias/mamiferos</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/kategorias/mobles</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/kategorias/muzika</loc></url>
+<url><loc>https://diksionaryo.szabgab.com/kategorias/nasionalidad</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/kategorias/natura</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/kategorias/numeros</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/kategorias/paises</loc></url>
@@ -2804,6 +2805,7 @@
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/kompozitora</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/kompozitoras</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/kompozitores</loc></url>
+<url><loc>https://diksionaryo.szabgab.com/words/ladino/komprender</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/kompuesto</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/komputadora</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/komputadoras</loc></url>
@@ -3161,7 +3163,6 @@
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/lektores</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/lengua</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/lenguas</loc></url>
-<url><loc>https://diksionaryo.szabgab.com/words/ladino/lentamente</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/leon</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/leones</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/leonesa</loc></url>
@@ -3650,6 +3651,8 @@
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/nasimiento</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/nasimientos</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/nasional</loc></url>
+<url><loc>https://diksionaryo.szabgab.com/words/ladino/nasionalidad</loc></url>
+<url><loc>https://diksionaryo.szabgab.com/words/ladino/nasionalita</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/nasyon</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/nasyones</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/natura</loc></url>
@@ -3945,6 +3948,7 @@
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/parparear</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/parparo</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/partajar</loc></url>
+<url><loc>https://diksionaryo.szabgab.com/words/ladino/partajarvos</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/parte</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/partes</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/partida</loc></url>
@@ -4377,6 +4381,7 @@
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/proverbio</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/proverbios</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/proves</loc></url>
+<url><loc>https://diksionaryo.szabgab.com/words/ladino/proyekto</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/pruna</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/prunas</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/words/ladino/pruntar</loc></url>

@@ -1,3 +1,4 @@
 Ladino             Turkish
 Estanbol            Istanbul
 Ezmirna             Izmir
+Yerushalayim        

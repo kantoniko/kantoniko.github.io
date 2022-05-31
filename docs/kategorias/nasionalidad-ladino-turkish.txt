@@ -1,4 +1,6 @@
 Ladino             Turkish
+izmirli             
+izmirlis            
 olandez             
 olandeza            
 olandezes           

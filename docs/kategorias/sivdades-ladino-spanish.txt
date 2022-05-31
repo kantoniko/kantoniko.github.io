@@ -1,4 +1,5 @@
 Ladino             Spanish
 Estanbol            Estambul
 Ezmirna             Esmirna
+Izmir               
 Yerushalayim        Jerusalén

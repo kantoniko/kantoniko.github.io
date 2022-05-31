@@ -18,4 +18,7 @@ latinos             latinos
 latinas             latínas
 portugez            portugués
 turko               turco
+turka               turca
+turkos              turcos
+turkas              turcas
 yiddish             lengua de los judios askenazis

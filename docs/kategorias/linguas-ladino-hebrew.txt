@@ -17,5 +17,8 @@ ladino              לאדינו
 latinos             
 latinas             
 portugez            
-turko               טורקית
+turko               טורקית, טורקי
+turka               
+turkos              
+turkas              
 yiddish             

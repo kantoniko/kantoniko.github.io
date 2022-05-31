@@ -1,4 +1,6 @@
 Ladino             Spanish
+izmirli             de Izmir
+izmirlis            de Izmir
 olandez             holandés
 olandeza            holandesa
 olandezes           holandeses

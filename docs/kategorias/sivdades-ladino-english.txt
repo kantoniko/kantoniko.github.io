@@ -1,4 +1,5 @@
 Ladino             English
 Estanbol            Istanbul
 Ezmirna             Smyrna
+Izmir               Izmir
 Yerushalayim        Jerusalem

@@ -11,3 +11,4 @@ Polonya             Poland
 Suedia              Sweden
 Turkia              Turkey
 Ungaria             Hungary
+ingletierra         England

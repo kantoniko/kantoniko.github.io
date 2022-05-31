@@ -95,29 +95,38 @@ $(document).ready(function(){
         $("#output").html(html);
     }
 
+    function show_welcome() {
+        $('#welcome-message').removeClass('is-hidden');
+        $('#output').addClass('is-hidden');
+    }
+
+    function hide_welcome() {
+        $('#welcome-message').addClass('is-hidden');
+        $('#output').removeClass('is-hidden');
+    }
+
     var display_translate = function() {
         let original;
         const languages = get_languages();
 
         if ($('#single-search').prop('checked')) {
-            original = $("#input-expression").val();
+            original = $("#input-expression").val().toLowerCase();
             save_config_search_text();
         } else if ($('#multi-search').prop('checked')) {
             original = $("#input-text").val();
             localStorage.setItem('original', original);
         } else if ($('#lucky-search').prop('checked')) {
+            hide_welcome();
             display_lucky();
             return;
         } else {
             console.log('ohoh');
         }
         if (/^\s*$/.exec(original)) {
-            $('#welcome-message').removeClass('is-hidden');
-            $('#output').addClass('is-hidden');
+            show_welcome();
             return;
         }
-        $('#welcome-message').addClass('is-hidden');
-        $('#output').removeClass('is-hidden');
+        hide_welcome();
 
         let rows = [];
         let count;

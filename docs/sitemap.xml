@@ -3,11 +3,9 @@
 <url><loc>https://diksionaryo.szabgab.com/</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/about</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/abreviasiones</loc></url>
-<url><loc>https://diksionaryo.szabgab.com/dias-de-la-semana</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/dictionaries</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/egzempios</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/english-ladino</loc></url>
-<url><loc>https://diksionaryo.szabgab.com/enverano</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/estar</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/french-ladino</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/gramer</loc></url>
@@ -20,7 +18,6 @@
 <url><loc>https://diksionaryo.szabgab.com/gramer/pronoun</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/gramer/verb</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/hebrew-ladino</loc></url>
-<url><loc>https://diksionaryo.szabgab.com/invierno</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/kategorias/animales</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/kategorias/bevidas</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/kategorias/diminutivos</loc></url>
@@ -58,17 +55,23 @@
 <url><loc>https://diksionaryo.szabgab.com/kategorias/sports</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/kategorias/veikolos</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/kategorias/zarzavates</loc></url>
-<url><loc>https://diksionaryo.szabgab.com/kontrarios</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/ladino-english</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/ladino-french</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/ladino-hebrew</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/ladino-portuguese</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/ladino-spanish</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/ladino-turkish</loc></url>
+<url><loc>https://diksionaryo.szabgab.com/listas/dias-de-la-semana</loc></url>
+<url><loc>https://diksionaryo.szabgab.com/listas/enverano</loc></url>
+<url><loc>https://diksionaryo.szabgab.com/listas/index</loc></url>
+<url><loc>https://diksionaryo.szabgab.com/listas/invierno</loc></url>
+<url><loc>https://diksionaryo.szabgab.com/listas/kontrarios</loc></url>
+<url><loc>https://diksionaryo.szabgab.com/listas/mezes</loc></url>
+<url><loc>https://diksionaryo.szabgab.com/listas/numeros</loc></url>
+<url><loc>https://diksionaryo.szabgab.com/listas/sezones</loc></url>
+<url><loc>https://diksionaryo.szabgab.com/listas/tiempos</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/lists</loc></url>
-<url><loc>https://diksionaryo.szabgab.com/mezes</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/nombres</loc></url>
-<url><loc>https://diksionaryo.szabgab.com/numeros</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/numeros</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/origenes/aki yerushalayim</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/origenes/balkanes</loc></url>
@@ -88,10 +91,8 @@
 <url><loc>https://diksionaryo.szabgab.com/portuguese-ladino</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/pronombres</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/ser</loc></url>
-<url><loc>https://diksionaryo.szabgab.com/sezones</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/sivdades</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/spanish-ladino</loc></url>
-<url><loc>https://diksionaryo.szabgab.com/tiempos</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/turkish-ladino</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/whatsapeando/akel-tyempo-akeya-noche-en-izmir</loc></url>
 <url><loc>https://diksionaryo.szabgab.com/whatsapeando/akel-tyempo-chay-en-emirgan</loc></url>

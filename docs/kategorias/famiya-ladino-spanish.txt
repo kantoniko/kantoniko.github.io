@@ -48,6 +48,10 @@ primo               primo
 prima               prima
 primos              primos
 primas              primas
+suvrino             sobrino
+suvrina             sobrina
+suvrinos            sobrinos
+suvrinas            sobrinas
 tia                 tía
 tias                tías
 tio                 tío

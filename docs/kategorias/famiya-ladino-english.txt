@@ -48,6 +48,10 @@ primo               cousin
 prima               cousin
 primos              cousins
 primas              cousins
+suvrino             nephew
+suvrina             niece
+suvrinos            nephews
+suvrinas            nieces
 tia                 aunt
 tias                aunts
 tio                 uncle

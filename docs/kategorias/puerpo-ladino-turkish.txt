@@ -46,6 +46,7 @@ orejas              kulak
 oyido               kulak
 oyidos              kulak
 parparo             göz kapağı
+parparos            
 pecho               göğüs
 pechos              göğüs
 pelo                kıl

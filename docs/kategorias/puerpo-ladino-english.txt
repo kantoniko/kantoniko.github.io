@@ -46,6 +46,7 @@ orejas              ears
 oyido               ear
 oyidos              ears
 parparo             eyelid
+parparos            eyelids
 pecho               chest
 pechos              chests
 pelo                hair, coat (animal), whiskers, bristle

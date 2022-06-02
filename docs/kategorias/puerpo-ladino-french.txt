@@ -46,6 +46,7 @@ orejas
 oyido               
 oyidos              
 parparo             
+parparos            
 pecho               
 pechos              
 pelo                

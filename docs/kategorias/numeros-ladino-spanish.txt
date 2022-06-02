@@ -3,6 +3,7 @@ dos                 dos
 kuatro              cuatro
 onze                once
 onzen               
+sesh                seis
 sinko               cinco
 tres                tres
 uno                 uno

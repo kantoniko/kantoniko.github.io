@@ -5,6 +5,10 @@ olandez             holandés
 olandeza            holandesa
 olandezes           holandeses
 olandezas           holandesas
+suediano            sueco
+suediana            sueca
+suedianos           suecos
+suedianas           suecas
 turkano             de Turquía
 turkana             de Turquía
 turkanos            de Turquía

@@ -3,6 +3,7 @@ dos                 two
 kuatro              four
 onze                eleven
 onzen               eleventh
+sesh                six
 sinko               five
 tres                three
 uno                 one, identical

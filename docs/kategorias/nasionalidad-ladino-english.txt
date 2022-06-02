@@ -5,6 +5,10 @@ olandez             dutch
 olandeza            dutch
 olandezes           dutch
 olandezas           dutch
+suediano            swedish
+suediana            swedish
+suedianos           swedish
+suedianas           swedish
 turkano             of Turkish origin
 turkana             of Turkish origin
 turkanos            of Turkish origin

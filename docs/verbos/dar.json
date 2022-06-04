@@ -1,1 +1,1 @@
-{"to": "dar"}
+{"prezente": {"el": {"ladino": "da", "source": "dar.yaml", "translations": {"english": ["gives"], "spanish": ["da"]}}, "tu": {"ladino": "das", "source": "dar.yaml", "translations": {"english": ["give"], "spanish": ["das"]}}, "yo": {"ladino": "do", "source": "dar.yaml", "translations": {"english": ["give"], "spanish": ["doy"]}}}}

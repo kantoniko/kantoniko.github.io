@@ -1,11 +1,14 @@
 Ladino             English
+Alemania            Germany
 Ardjentina          Argentina
 Australia           Australia
+Austria             Austria
 Bosna               Bosnia
 Brazil              Brazil
 Bulgaria            Bulgaria
 Chile               Chile
 Espanya             Spain
+Estados Unidos      United States
 Fransia             France
 Gresia              Greece
 Israel              Israel

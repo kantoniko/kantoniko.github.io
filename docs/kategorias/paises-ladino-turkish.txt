@@ -11,6 +11,7 @@ Espanya             İspanya
 Estados Unidos      
 Fransia             Fransa
 Gresia              
+Ingletierra         
 Israel              İsrail
 Italya              İtalya
 Kanada              
@@ -23,4 +24,3 @@ Suedia              İsveç
 Turkia              Türkiye
 Ungaria             Macaristan
 Uruguay             
-ingletierra         

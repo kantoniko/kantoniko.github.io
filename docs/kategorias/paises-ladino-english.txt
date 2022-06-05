@@ -11,6 +11,7 @@ Espanya             Spain
 Estados Unidos      United States
 Fransia             France
 Gresia              Greece
+Ingletierra         England
 Israel              Israel
 Italya              Italy
 Kanada              Canada
@@ -23,4 +24,3 @@ Suedia              Sweden
 Turkia              Turkey
 Ungaria             Hungary
 Uruguay             Uruguay
-ingletierra         England

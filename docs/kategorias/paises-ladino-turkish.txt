@@ -1,14 +1,23 @@
 Ladino             Turkish
 Ardjentina          Arjantin
+Australia           
 Bosna               Bosna
+Brazil              
 Bulgaria            Bulgaristan
+Chile               
 Espanya             İspanya
 Fransia             Fransa
+Gresia              
 Israel              İsrail
 Italya              İtalya
+Kanada              
+Makedonia           
 Meksiko             Meksika
 Polonya             Polonya
+Romania             
+Rusia               
 Suedia              İsveç
 Turkia              Türkiye
 Ungaria             Macaristan
+Uruguay             
 ingletierra         

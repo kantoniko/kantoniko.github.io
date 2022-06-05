@@ -1,14 +1,23 @@
 Ladino             Spanish
 Ardjentina          
+Australia           Australia
 Bosna               
+Brazil              Brasil
 Bulgaria            
+Chile               Chile
 Espanya             
 Fransia             
+Gresia              Grecia
 Israel              
 Italya              
+Kanada              Canadá
+Makedonia           Macedonia
 Meksiko             
 Polonya             
+Romania             Rumania
+Rusia               Rusia
 Suedia              
 Turkia              Turquía
 Ungaria             Hungría
+Uruguay             Uruguay
 ingletierra         inglaterra

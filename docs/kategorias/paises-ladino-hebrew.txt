@@ -1,4 +1,5 @@
 Ladino             Hebrew
+&#39;Haiti              
 Afganistan          
 Alemania            
 Aljeria             
@@ -7,22 +8,33 @@ Arabia Saudita
 Ardjentina          
 Australia           
 Austria             
+Azerbaydján         
 Bangladesh          
+Belarús             
+Beljika             
+Benín               
+Bolivia             
 Bosna               
 Brazil              
 Bulgaria            
 Burkina Faso        
 Burma               
+Burundi             
+Chad                
+Chekia              
 Chile               
 Ejipto              
 Ekuador             
+Emirates Arabos Unidos
 Espanya             
 Estados Unidos de Amerika
 Etiopia             
 Filipines           
 Fransia             
 Gana                
+Ginea               
 Gresia              
+Guatemala           
 India               
 Indonezia           
 Ingletierra         
@@ -31,6 +43,8 @@ Iran
 Israel              
 Italya              
 Japon               
+Jordania            
+Kambodia            
 Kamerun             
 Kanada              
 Kazahstan           
@@ -41,6 +55,7 @@ Kongo
 Korea del Norte     
 Korea del Sud       
 Kosta de Marfil     
+Kuba                
 Madagaskar          
 Makedonia           
 Malawi              
@@ -53,19 +68,27 @@ Nepal
 Nijer               
 Nijeria             
 Olanda              
+Onduras             
 Pakistan            
 Perú                
 Polonya             
+Portugal            
+Repúblika Dominikana
 Romania             
+Ruanda              
 Rusia               
+Senegal             
 Siria               
+Somalia             
 Sri Lanka           
 Sud-Afrika          
 Sudan               
+Sudán del Sud       
 Suedia              
 Tanzania            
 Tayland             
 Tayvan              
+Tunizia             
 Turkia              טורקיה
 Uganda              
 Ukrayna             
@@ -76,3 +99,4 @@ Venezuela
 Vietnam             
 Yemen               
 Zambia              
+Zimbabwe            

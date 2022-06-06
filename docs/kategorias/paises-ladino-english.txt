@@ -1,4 +1,5 @@
 Ladino             English
+&#39;Haiti              Haiti
 Afganistan          Afghanistan
 Alemania            Germany
 Aljeria             Algeria
@@ -7,22 +8,33 @@ Arabia Saudita      Saudi Arabia
 Ardjentina          Argentina
 Australia           Australia
 Austria             Austria
+Azerbaydján         Azerbaijan
 Bangladesh          Bangladesh
+Belarús             Belarus
+Beljika             Belgium
+Benín               Benin
+Bolivia             Bolivia
 Bosna               Bosnia
 Brazil              Brazil
 Bulgaria            Bulgaria
 Burkina Faso        Burkina Faso
 Burma               Burma
+Burundi             Burundi
+Chad                Chad
+Chekia              Czech Republic
 Chile               Chile
 Ejipto              Egypt
 Ekuador             Ecuador
+Emirates Arabos UnidosUnited Arab Emirates
 Espanya             Spain
 Estados Unidos de AmerikaUnited States
 Etiopia             Ethiopia
 Filipines           Philippines
 Fransia             France
 Gana                Ghana
+Ginea               Guinea
 Gresia              Greece
+Guatemala           Guatemala
 India               India
 Indonezia           Indonesia
 Ingletierra         England
@@ -31,6 +43,8 @@ Iran                Iran
 Israel              Israel
 Italya              Italy
 Japon               Japan
+Jordania            Jordan
+Kambodia            Cambodia
 Kamerun             Cameroon
 Kanada              Canada
 Kazahstan           Kazakhstan
@@ -41,6 +55,7 @@ Kongo               Kongo
 Korea del Norte     North Korea
 Korea del Sud       South Korea
 Kosta de Marfil     Ivory Coast
+Kuba                Cuba
 Madagaskar          Madagascar
 Makedonia           Macedonia
 Malawi              Malawi
@@ -53,19 +68,27 @@ Nepal               Nepal
 Nijer               Niger
 Nijeria             Nigeria
 Olanda              Netherlands
+Onduras             Honduras
 Pakistan            Pakistan
 Perú                Peru
 Polonya             Poland
+Portugal            Portugal
+Repúblika DominikanaDominican Republic
 Romania             Romania
+Ruanda              Rwanda
 Rusia               Russia
+Senegal             Senegal
 Siria               Syria
+Somalia             Somalia
 Sri Lanka           Sri Lanka
 Sud-Afrika          South Africa
 Sudan               Sudan
+Sudán del Sud       South Sudan
 Suedia              Sweden
 Tanzania            Tanzania
 Tayland             Thailand
 Tayvan              Taiwan
+Tunizia             Tunisia
 Turkia              Turkey
 Uganda              Uganda
 Ukrayna             Ukraine
@@ -76,3 +99,4 @@ Venezuela           Venezuela
 Vietnam             Vietnam
 Yemen               Yemen
 Zambia              Zambia
+Zimbabwe            Zimbabwe

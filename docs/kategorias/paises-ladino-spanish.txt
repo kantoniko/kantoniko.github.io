@@ -1,4 +1,5 @@
 Ladino             Spanish
+&#39;Haiti              Haití
 Afganistan          Afganistán
 Alemania            Alemania
 Aljeria             Argelia
@@ -7,22 +8,33 @@ Arabia Saudita      Arabia Saudita
 Ardjentina          
 Australia           Australia
 Austria             Austria
+Azerbaydján         Azerbaiyán
 Bangladesh          Bangladesh
+Belarús             Bielorrusia
+Beljika             Bélgica
+Benín               Benín
+Bolivia             Bolivia
 Bosna               
 Brazil              Brasil
 Bulgaria            
 Burkina Faso        Burkina Faso
 Burma               Birmania
+Burundi             Burundi
+Chad                Chad
+Chekia              República Checa
 Chile               Chile
 Ejipto              Egipto
 Ekuador             Ecuador
+Emirates Arabos UnidosEmiratos Árabes Unidos
 Espanya             
 Estados Unidos de AmerikaEstados Unidos
 Etiopia             Etiopía
 Filipines           Filipinas
 Fransia             
 Gana                Ghana
+Ginea               Guinea
 Gresia              Grecia
+Guatemala           Guatemala
 India               India
 Indonezia           Indonesia
 Ingletierra         Inglaterra
@@ -31,6 +43,8 @@ Iran                Irán
 Israel              
 Italya              
 Japon               Japón
+Jordania            Jordania
+Kambodia            Camboya
 Kamerun             Camerún
 Kanada              Canadá
 Kazahstan           Kazajistán
@@ -41,6 +55,7 @@ Kongo               Kongo
 Korea del Norte     Corea del Norte
 Korea del Sud       Corea del Sur
 Kosta de Marfil     Costa de Marfil
+Kuba                Cuba
 Madagaskar          Madagascar
 Makedonia           Macedonia
 Malawi              Malawi
@@ -53,19 +68,27 @@ Nepal               Nepal
 Nijer               Níger
 Nijeria             Nigeria
 Olanda              Países Bajos
+Onduras             Honduras
 Pakistan            Pakistán
 Perú                Perú
 Polonya             
+Portugal            Portugal
+Repúblika DominikanaRepública Dominicana
 Romania             Rumania
+Ruanda              Ruanda
 Rusia               Rusia
+Senegal             Senegal
 Siria               Siria
+Somalia             Somalia
 Sri Lanka           Sri Lanka
 Sud-Afrika          Sudáfrica
 Sudan               Sudán
+Sudán del Sud       Sudán del Sur
 Suedia              
 Tanzania            Tanzania
 Tayland             Tailandia
 Tayvan              Taiwán
+Tunizia             Túnez
 Turkia              Turquía
 Uganda              Uganda
 Ukrayna             Ucrania
@@ -76,3 +99,4 @@ Venezuela           Venezuela
 Vietnam             Vietnam
 Yemen               Yemen
 Zambia              Zambia
+Zimbabwe            Zimbabue

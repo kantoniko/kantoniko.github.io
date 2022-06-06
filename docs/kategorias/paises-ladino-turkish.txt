@@ -1,5 +1,8 @@
 Ladino             Turkish
+Afganistan          
 Alemania            
+Aljeria             
+Arabia Saudita      
 Ardjentina          Arjantin
 Australia           
 Austria             
@@ -19,26 +22,36 @@ Gresia
 India               
 Indonezia           
 Ingletierra         
+Irak                
 Iran                
 Israel              İsrail
 Italya              İtalya
 Japon               
 Kanada              
+Kenia               
 Kina                
+Kolombia            
 Kongo               
 Korea del Sud       
 Makedonia           
+Malezia             
+Maroko              
 Meksiko             Meksika
 Nijeria             
 Pakistan            
+Perú                
 Polonya             Polonya
 Romania             
 Rusia               
 Sud-Afrika          
+Sudan               
 Suedia              İsveç
 Tanzania            
 Tayland             
 Turkia              Türkiye
+Uganda              
+Ukrayna             
 Ungaria             Macaristan
 Uruguay             
+Uzbekistan          
 Vietnam             

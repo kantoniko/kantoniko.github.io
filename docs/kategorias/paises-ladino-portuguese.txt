@@ -3,21 +3,30 @@ Alemania
 Ardjentina          
 Australia           
 Austria             
+Bangladesh          
 Bosna               
 Brazil              
 Bulgaria            
+Burma               
 Chile               
+Ejipto              
 Espanya             
 Estados Unidos de Amerika
+Etiopia             
+Filipines           
 Fransia             
 Gresia              
 India               
 Indonezia           
 Ingletierra         
+Iran                
 Israel              
 Italya              
+Japon               
 Kanada              
 Kina                
+Kongo               
+Korea del Sud       
 Makedonia           
 Meksiko             
 Nijeria             
@@ -25,7 +34,11 @@ Pakistan
 Polonya             
 Romania             
 Rusia               
+Sud-Afrika          
 Suedia              
+Tanzania            
+Tayland             
 Turkia              
 Ungaria             
 Uruguay             
+Vietnam             

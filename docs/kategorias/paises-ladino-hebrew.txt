@@ -1,5 +1,6 @@
 Ladino             Hebrew
 &#39;Haiti              
+&#39;Hong-Kong          
 Afganistan          
 Alemania            
 Aljeria             
@@ -8,6 +9,7 @@ Arabia Saudita
 Ardjentina          
 Australia           
 Austria             
+Autoridad Palestiniana
 Azerbaydján         
 Bangladesh          
 Belarús             
@@ -23,13 +25,16 @@ Burundi
 Chad                
 Chekia              
 Chile               
+Danimarka           
 Ejipto              
 Ekuador             
+El Salvador         
 Emirates Arabos Unidos
 Espanya             
 Estados Unidos de Amerika
 Etiopia             
 Filipines           
+Finlandia           
 Fransia             
 Gana                
 Ginea               
@@ -50,12 +55,18 @@ Kanada
 Kazahstan           
 Kenia               
 Kina                
+Kina                
+Kirgizstán          
 Kolombia            
 Kongo               
+Kongo-Brazzaville   
 Korea del Norte     
 Korea del Sud       
+Kosta Rika          
 Kosta de Marfil     
 Kuba                
+Laos                
+Liban               
 Madagaskar          
 Makedonia           
 Malawi              
@@ -67,29 +78,41 @@ Mozambik
 Nepal               
 Nijer               
 Nijeria             
+Nikaragua           
+Norvejia            
 Olanda              
 Onduras             
 Pakistan            
+Papua-Mueva-Ginea   
+Paraguay            
 Perú                
 Polonya             
 Portugal            
 Repúblika Dominikana
+Repúblika Sentro-Afrikana
 Romania             
 Ruanda              
 Rusia               
 Senegal             
+Serbia              
+Sierra Leone        
+Singapur            
 Siria               
+Slovakia            
 Somalia             
 Sri Lanka           
 Sud-Afrika          
 Sudan               
 Sudán del Sud       
 Suedia              
+Suisa               
+Tadjikistan         
 Tanzania            
 Tayland             
 Tayvan              
 Tunizia             
 Turkia              טורקיה
+Turkmenistan        
 Uganda              
 Ukrayna             
 Ungaria             

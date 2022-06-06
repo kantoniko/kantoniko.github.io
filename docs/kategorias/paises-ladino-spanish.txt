@@ -2,6 +2,7 @@ Ladino             Spanish
 Afganistan          Afganistán
 Alemania            Alemania
 Aljeria             Argelia
+Angola              Angola
 Arabia Saudita      Arabia Saudita
 Ardjentina          
 Australia           Australia
@@ -10,14 +11,17 @@ Bangladesh          Bangladesh
 Bosna               
 Brazil              Brasil
 Bulgaria            
+Burkina Faso        Burkina Faso
 Burma               Birmania
 Chile               Chile
 Ejipto              Egipto
+Ekuador             Ecuador
 Espanya             
 Estados Unidos de AmerikaEstados Unidos
 Etiopia             Etiopía
 Filipines           Filipinas
 Fransia             
+Gana                Ghana
 Gresia              Grecia
 India               India
 Indonezia           Indonesia
@@ -27,31 +31,48 @@ Iran                Irán
 Israel              
 Italya              
 Japon               Japón
+Kamerun             Camerún
 Kanada              Canadá
+Kazahstan           Kazajistán
 Kenia               Kenia
 Kina                China
 Kolombia            Colombia
 Kongo               Kongo
+Korea del Norte     Corea del Norte
 Korea del Sud       Corea del Sur
+Kosta de Marfil     Costa de Marfil
+Madagaskar          Madagascar
 Makedonia           Macedonia
+Malawi              Malawi
 Malezia             Malasia
+Mali                Malí
 Maroko              Marruecos
 Meksiko             Méksiko
+Mozambik            Mozambique
+Nepal               Nepal
+Nijer               Níger
 Nijeria             Nigeria
+Olanda              Países Bajos
 Pakistan            Pakistán
 Perú                Perú
 Polonya             
 Romania             Rumania
 Rusia               Rusia
+Siria               Siria
+Sri Lanka           Sri Lanka
 Sud-Afrika          Sudáfrica
 Sudan               Sudán
 Suedia              
 Tanzania            Tanzania
 Tayland             Tailandia
+Tayvan              Taiwán
 Turkia              Turquía
 Uganda              Uganda
 Ukrayna             Ucrania
 Ungaria             Hungría
 Uruguay             Uruguay
 Uzbekistan          Uzbekistán
+Venezuela           Venezuela
 Vietnam             Vietnam
+Yemen               Yemen
+Zambia              Zambia

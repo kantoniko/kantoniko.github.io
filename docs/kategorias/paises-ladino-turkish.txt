@@ -2,6 +2,7 @@ Ladino             Turkish
 Afganistan          
 Alemania            
 Aljeria             
+Angola              
 Arabia Saudita      
 Ardjentina          Arjantin
 Australia           
@@ -10,14 +11,17 @@ Bangladesh
 Bosna               Bosna
 Brazil              
 Bulgaria            Bulgaristan
+Burkina Faso        
 Burma               
 Chile               
 Ejipto              
+Ekuador             
 Espanya             İspanya
 Estados Unidos de Amerika
 Etiopia             
 Filipines           
 Fransia             Fransa
+Gana                
 Gresia              
 India               
 Indonezia           
@@ -27,31 +31,48 @@ Iran
 Israel              İsrail
 Italya              İtalya
 Japon               
+Kamerun             
 Kanada              
+Kazahstan           
 Kenia               
 Kina                
 Kolombia            
 Kongo               
+Korea del Norte     
 Korea del Sud       
+Kosta de Marfil     
+Madagaskar          
 Makedonia           
+Malawi              
 Malezia             
+Mali                
 Maroko              
 Meksiko             Meksika
+Mozambik            
+Nepal               
+Nijer               
 Nijeria             
+Olanda              
 Pakistan            
 Perú                
 Polonya             Polonya
 Romania             
 Rusia               
+Siria               
+Sri Lanka           
 Sud-Afrika          
 Sudan               
 Suedia              İsveç
 Tanzania            
 Tayland             
+Tayvan              
 Turkia              Türkiye
 Uganda              
 Ukrayna             
 Ungaria             Macaristan
 Uruguay             
 Uzbekistan          
+Venezuela           
 Vietnam             
+Yemen               
+Zambia              

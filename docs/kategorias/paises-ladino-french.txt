@@ -2,6 +2,7 @@ Ladino             French
 Afganistan          
 Alemania            
 Aljeria             
+Angola              
 Arabia Saudita      
 Ardjentina          
 Australia           
@@ -10,14 +11,17 @@ Bangladesh
 Bosna               
 Brazil              
 Bulgaria            
+Burkina Faso        
 Burma               
 Chile               
 Ejipto              
+Ekuador             
 Espanya             
 Estados Unidos de Amerika
 Etiopia             
 Filipines           
 Fransia             
+Gana                
 Gresia              
 India               
 Indonezia           
@@ -27,31 +31,48 @@ Iran
 Israel              
 Italya              
 Japon               
+Kamerun             
 Kanada              
+Kazahstan           
 Kenia               
 Kina                
 Kolombia            
 Kongo               
+Korea del Norte     
 Korea del Sud       
+Kosta de Marfil     
+Madagaskar          
 Makedonia           
+Malawi              
 Malezia             
+Mali                
 Maroko              
 Meksiko             
+Mozambik            
+Nepal               
+Nijer               
 Nijeria             
+Olanda              
 Pakistan            
 Perú                
 Polonya             
 Romania             
 Rusia               
+Siria               
+Sri Lanka           
 Sud-Afrika          
 Sudan               
 Suedia              
 Tanzania            
 Tayland             
+Tayvan              
 Turkia              
 Uganda              
 Ukrayna             
 Ungaria             
 Uruguay             
 Uzbekistan          
+Venezuela           
 Vietnam             
+Yemen               
+Zambia              

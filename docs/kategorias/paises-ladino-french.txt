@@ -2,11 +2,13 @@ Ladino             French
 &#39;Haiti              
 &#39;Hong-Kong          
 Afganistan          
+Albania             
 Alemania            
 Aljeria             
 Angola              
 Arabia Saudita      
 Ardjentina          
+Armenia             
 Australia           
 Austria             
 Autoridad Palestiniana
@@ -17,6 +19,7 @@ Beljika
 Benín               
 Bolivia             
 Bosna               
+Bosna i &#39;Hersegovina
 Brazil              
 Bulgaria            
 Burkina Faso        
@@ -30,6 +33,7 @@ Ejipto
 Ekuador             
 El Salvador         
 Emirates Arabos Unidos
+Eritrea             
 Espanya             
 Estados Unidos de Amerika
 Etiopia             
@@ -45,13 +49,17 @@ Indonezia
 Ingletierra         
 Irak                
 Iran                
+Irlanda             
 Israel              
 Italya              
+Jamaika             
 Japon               
+Jeorjia             
 Jordania            
 Kambodia            
 Kamerun             
 Kanada              
+Katar               
 Kazahstan           
 Kenia               
 Kina                
@@ -64,30 +72,42 @@ Korea del Norte
 Korea del Sud       
 Kosta Rika          
 Kosta de Marfil     
+Kroasia             
 Kuba                
+Kuveyt              
 Laos                
 Liban               
+Liberia             
+Litvania            
 Madagaskar          
 Makedonia           
 Malawi              
 Malezia             
 Mali                
 Maroko              
+Mauritania          
 Meksiko             
+Moldavia            
+Mongolia            
 Mozambik            
+Mueva Zelanda       
+Namibia             
 Nepal               
 Nijer               
 Nijeria             
 Nikaragua           
 Norvejia            
 Olanda              
+Oman                
 Onduras             
 Pakistan            
+Panama              
 Papua-Mueva-Ginea   
 Paraguay            
 Perú                
 Polonya             
 Portugal            
+Puerto Riko         
 Repúblika Dominikana
 Repúblika Sentro-Afrikana
 Romania             

@@ -2,11 +2,13 @@ Ladino             English
 &#39;Haiti              Haiti
 &#39;Hong-Kong          Hong Kong
 Afganistan          Afghanistan
+Albania             Albania
 Alemania            Germany
 Aljeria             Algeria
 Angola              Angola
 Arabia Saudita      Saudi Arabia
 Ardjentina          Argentina
+Armenia             Armenia
 Australia           Australia
 Austria             Austria
 Autoridad PalestinianaPalestinian Authority
@@ -17,6 +19,7 @@ Beljika             Belgium
 Benín               Benin
 Bolivia             Bolivia
 Bosna               Bosnia
+Bosna i &#39;HersegovinaBosnia and Herzegovina
 Brazil              Brazil
 Bulgaria            Bulgaria
 Burkina Faso        Burkina Faso
@@ -30,6 +33,7 @@ Ejipto              Egypt
 Ekuador             Ecuador
 El Salvador         El Salvador
 Emirates Arabos UnidosUnited Arab Emirates
+Eritrea             Eritrea
 Espanya             Spain
 Estados Unidos de AmerikaUnited States
 Etiopia             Ethiopia
@@ -45,13 +49,17 @@ Indonezia           Indonesia
 Ingletierra         England
 Irak                Iraq
 Iran                Iran
+Irlanda             Ireland
 Israel              Israel
 Italya              Italy
+Jamaika             Jamaica
 Japon               Japan
+Jeorjia             Georgia
 Jordania            Jordan
 Kambodia            Cambodia
 Kamerun             Cameroon
 Kanada              Canada
+Katar               Qatar
 Kazahstan           Kazakhstan
 Kenia               Kenya
 Kina                China
@@ -64,30 +72,42 @@ Korea del Norte     North Korea
 Korea del Sud       South Korea
 Kosta Rika          Costa Rica
 Kosta de Marfil     Ivory Coast
+Kroasia             Croatia
 Kuba                Cuba
+Kuveyt              Kuwait
 Laos                Laos
 Liban               Lebanon
+Liberia             Liberia
+Litvania            Lithuania
 Madagaskar          Madagascar
 Makedonia           Macedonia
 Malawi              Malawi
 Malezia             Malaysia
 Mali                Mali
 Maroko              Morocco
+Mauritania          Mauritania
 Meksiko             Mexico
+Moldavia            Moldova
+Mongolia            Mongolia
 Mozambik            Mozambique
+Mueva Zelanda       New Zealand
+Namibia             Namibia
 Nepal               Nepal
 Nijer               Niger
 Nijeria             Nigeria
 Nikaragua           Nicaragua
 Norvejia            Norway
 Olanda              Netherlands
+Oman                Oman
 Onduras             Honduras
 Pakistan            Pakistan
+Panama              Panama
 Papua-Mueva-Ginea   Papua New Guinea
 Paraguay            Paraguay
 Perú                Peru
 Polonya             Poland
 Portugal            Portugal
+Puerto Riko         Puerto Rico
 Repúblika DominikanaDominican Republic
 Repúblika Sentro-AfrikanaCentral African Republic
 Romania             Romania

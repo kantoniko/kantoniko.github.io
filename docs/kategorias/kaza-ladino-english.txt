@@ -3,5 +3,8 @@ banyo               bathroom
 banyos              bathrooms
 dormitorio          bedroom, dormitory
 dormitorios         bedrooms, dormitories
+entrada             entrance
+koridor             corridor
+koridores           corridors
 ventana             window
 ventanas            windows

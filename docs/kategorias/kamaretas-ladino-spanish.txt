@@ -1,0 +1,21 @@
+Ladino             Spanish
+banyo               baño
+banyos              baños
+buro                oficina, buró, despacho
+buros               oficinas, burós, despachos
+entrada             entrada
+kabine              inodoro
+kamareta            cuarto
+kamaretas           cuartos
+kamareta de echar   dormitorio
+kamareta de estudio gabinete
+koridor             pasillo
+koridores           pasillos
+kozina              cocina
+kozinas             cocinas
+mupak               cocina
+salamanje           comedor
+salon               salón
+tualeta             wáter
+tualetas            wáter
+uda de echar        dormitorio

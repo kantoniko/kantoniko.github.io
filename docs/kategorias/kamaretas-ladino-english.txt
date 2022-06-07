@@ -1,0 +1,21 @@
+Ladino             English
+banyo               bathroom
+banyos              bathrooms
+buro                office, study
+buros               offices
+entrada             entrance
+kabine              toilets
+kamareta            room
+kamaretas           rooms
+kamareta de echar   bedroom
+kamareta de estudio study, private room
+koridor             corridor
+koridores           corridors
+kozina              kitchen
+kozinas             kitchens
+mupak               kitchen
+salamanje           dining room
+salon               living room
+tualeta             water closet
+tualetas            water closet
+uda de echar        bedroom

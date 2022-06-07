@@ -3,5 +3,8 @@ banyo
 banyos              
 dormitorio          yatak odası, yatakhane
 dormitorios         
+entrada             giriş
+koridor             koridor
+koridores           koridor
 ventana             pencere
 ventanas            pencere

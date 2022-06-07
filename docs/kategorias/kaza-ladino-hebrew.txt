@@ -1,7 +1,10 @@
 Ladino             Hebrew
-banyo               
-banyos              
+banyo               חדר אמבטיה
+banyos              חדרי אמבטיה
 dormitorio          
 dormitorios         
+entrada             
+koridor             
+koridores           
 ventana             
 ventanas            

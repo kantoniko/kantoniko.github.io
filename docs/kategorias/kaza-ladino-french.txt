@@ -3,5 +3,8 @@ banyo
 banyos              
 dormitorio          
 dormitorios         
+entrada             
+koridor             
+koridores           
 ventana             fenêtre
 ventanas            fenetrês

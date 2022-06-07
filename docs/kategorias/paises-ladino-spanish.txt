@@ -13,6 +13,7 @@ Australia           Australia
 Austria             Austria
 Autoridad PalestinianaAutoridad Palestina
 Azerbaydján         Azerbaiyán
+Bahreyn             Baréin
 Bangladesh          Bangladesh
 Belarús             Bielorrusia
 Beljika             Bélgica
@@ -20,6 +21,7 @@ Benín               Benín
 Bolivia             Bolivia
 Bosna               
 Bosna i &#39;HersegovinaBosnia y Herzegovina
+Botswana            Botsuana
 Brazil              Brasil
 Bulgaria            
 Burkina Faso        Burkina Faso
@@ -36,12 +38,17 @@ Emirates Arabos UnidosEmiratos Árabes Unidos
 Eritrea             Eritrea
 Espanya             
 Estados Unidos de AmerikaEstados Unidos
+Estonia             Estonia
 Etiopia             Etiopía
 Filipines           Filipinas
 Finlandia           Finlandia
 Fransia             
+Gabon               Gabón
+Gambia              Gambia
 Gana                Ghana
 Ginea               Guinea
+Ginea Ekuatorial    Guinea Ecuatorial
+Ginea-Bisau         Guinea-Bisáu
 Gresia              Grecia
 Guatemala           Guatemala
 India               India
@@ -70,12 +77,15 @@ Kongo               Kongo
 Kongo-Brazzaville   República del Congo, Congo-Brazzaville
 Korea del Norte     Corea del Norte
 Korea del Sud       Corea del Sur
+Kosovo              Kosovo
 Kosta Rika          Costa Rica
 Kosta de Marfil     Costa de Marfil
 Kroasia             Croacia
 Kuba                Cuba
 Kuveyt              Kuwait
 Laos                Laos
+Lesoto              Lesoto
+Letonia             Letonia
 Liban               Líbano
 Liberia             Liberia
 Litvania            Lituania
@@ -85,6 +95,8 @@ Malawi              Malawi
 Malezia             Malasia
 Mali                Malí
 Maroko              Marruecos
+Masedonia           Macedonia del Norte
+Maurisius           Mauricio
 Mauritania          Mauritania
 Meksiko             Méksiko
 Moldavia            Moldavia
@@ -119,6 +131,7 @@ Sierra Leone        Sierra Leona
 Singapur            Singapur
 Siria               Siria
 Slovakia            Eslovaquia
+Slovenia            Eslovenia
 Somalia             Somalia
 Sri Lanka           Sri Lanka
 Sud-Afrika          Sudáfrica
@@ -130,6 +143,8 @@ Tadjikistan         Tayikistán
 Tanzania            Tanzania
 Tayland             Tailandia
 Tayvan              Taiwán
+Timor Este          Timor Oriental
+Trinidad i Tobago   Trinidad y Tobago
 Tunizia             Túnez
 Turkia              Turquía
 Turkmenistan        Turkmenistán

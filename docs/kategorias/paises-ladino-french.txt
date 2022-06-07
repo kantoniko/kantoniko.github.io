@@ -5,6 +5,7 @@ Afganistan
 Albania             
 Alemania            
 Aljeria             
+Andora              
 Angola              
 Arabia Saudita      
 Ardjentina          
@@ -13,16 +14,20 @@ Australia
 Austria             
 Autoridad Palestiniana
 Azerbaydján         
+Ba&#39;hamas            
 Bahreyn             
 Bangladesh          
 Belarús             
+Beliz               
 Beljika             
 Benín               
+Bhutan              
 Bolivia             
 Bosna               
 Bosna i &#39;Hersegovina
 Botswana            
 Brazil              
+Bruney              
 Bulgaria            
 Burkina Faso        
 Burma               
@@ -31,6 +36,8 @@ Chad
 Chekia              
 Chile               
 Danimarka           
+Djibraltar          
+Djibuti             
 Ejipto              
 Ekuador             
 El Salvador         
@@ -40,6 +47,7 @@ Espanya
 Estados Unidos de Amerika
 Estonia             
 Etiopia             
+Fiji                
 Filipines           
 Finlandia           
 Fransia             
@@ -50,29 +58,38 @@ Ginea
 Ginea Ekuatorial    
 Ginea-Bisau         
 Gresia              
+Gronland            
 Guatemala           
+Guyana              
 India               
 Indonezia           
 Ingletierra         
 Irak                
 Iran                
 Irlanda             
+Islanda             
 Israel              
 Italya              
+Izlas Shelomo       
+Izlas Virjines      
 Jamaika             
 Japon               
 Jeorjia             
+Jerse               
 Jordania            
+Kabo Vedre          
 Kambodia            
 Kamerun             
 Kanada              
 Katar               
 Kazahstan           
 Kenia               
+Kibris              
 Kina                
 Kina                
 Kirgizstán          
 Kolombia            
+Komoros             
 Kongo               
 Kongo-Brazzaville   
 Korea del Norte     
@@ -88,19 +105,26 @@ Lesoto
 Letonia             
 Liban               
 Liberia             
+Lihtenshtayn        
 Litvania            
+Luksemburg          
 Madagaskar          
+Makau               
 Makedonia           
 Malawi              
+Maldivas            
 Malezia             
 Mali                
+Malta               
 Maroko              
 Masedonia           
 Maurisius           
 Mauritania          
 Meksiko             
 Moldavia            
+Monako              
 Mongolia            
+Montenegro          
 Mozambik            
 Mueva Zelanda       
 Namibia             
@@ -125,6 +149,9 @@ Repúblika Sentro-Afrikana
 Romania             
 Ruanda              
 Rusia               
+Sahara Oksidental   
+San Marino          
+Santa Elena         
 Senegal             
 Serbia              
 Sierra Leone        
@@ -139,6 +166,8 @@ Sudan
 Sudán del Sud       
 Suedia              
 Suisa               
+Surinam             
+Swaziland           
 Tadjikistan         
 Tanzania            
 Tayland             
@@ -153,6 +182,7 @@ Ukrayna
 Ungaria             
 Uruguay             
 Uzbekistan          
+Vatikán             Vatican
 Venezuela           
 Vietnam             
 Yemen               

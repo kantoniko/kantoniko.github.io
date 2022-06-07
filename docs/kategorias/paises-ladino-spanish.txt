@@ -5,6 +5,7 @@ Afganistan          Afganistán
 Albania             Albania
 Alemania            Alemania
 Aljeria             Argelia
+Andora              Andorra
 Angola              Angola
 Arabia Saudita      Arabia Saudita
 Ardjentina          
@@ -13,16 +14,20 @@ Australia           Australia
 Austria             Austria
 Autoridad PalestinianaAutoridad Palestina
 Azerbaydján         Azerbaiyán
+Ba&#39;hamas            Bahamas
 Bahreyn             Baréin
 Bangladesh          Bangladesh
 Belarús             Bielorrusia
+Beliz               Belice
 Beljika             Bélgica
 Benín               Benín
+Bhutan              Bután
 Bolivia             Bolivia
 Bosna               
 Bosna i &#39;HersegovinaBosnia y Herzegovina
 Botswana            Botsuana
 Brazil              Brasil
+Bruney              Brunéi
 Bulgaria            
 Burkina Faso        Burkina Faso
 Burma               Birmania
@@ -31,6 +36,8 @@ Chad                Chad
 Chekia              República Checa
 Chile               Chile
 Danimarka           Dinamarca
+Djibraltar          Gibraltar
+Djibuti             Yibuti
 Ejipto              Egipto
 Ekuador             Ecuador
 El Salvador         El Salvador
@@ -40,6 +47,7 @@ Espanya
 Estados Unidos de AmerikaEstados Unidos
 Estonia             Estonia
 Etiopia             Etiopía
+Fiji                Fiyi
 Filipines           Filipinas
 Finlandia           Finlandia
 Fransia             
@@ -50,29 +58,38 @@ Ginea               Guinea
 Ginea Ekuatorial    Guinea Ecuatorial
 Ginea-Bisau         Guinea-Bisáu
 Gresia              Grecia
+Gronland            Groenlandia
 Guatemala           Guatemala
+Guyana              Guyana
 India               India
 Indonezia           Indonesia
 Ingletierra         Inglaterra
 Irak                Irak
 Iran                Irán
 Irlanda             Irlanda
+Islanda             Islandia
 Israel              
 Italya              
+Izlas Shelomo       Islas Salomón
+Izlas Virjines      Islas Vírgenes
 Jamaika             Jamaica
 Japon               Japón
 Jeorjia             Georgia
+Jerse               Jersey
 Jordania            Jordania
+Kabo Vedre          Cabo Verde
 Kambodia            Camboya
 Kamerun             Camerún
 Kanada              Canadá
 Katar               Catar
 Kazahstan           Kazajistán
 Kenia               Kenia
+Kibris              Chipre
 Kina                China
 Kina                Libia
 Kirgizstán          Kirguistán
 Kolombia            Colombia
+Komoros             Comoras
 Kongo               Kongo
 Kongo-Brazzaville   República del Congo, Congo-Brazzaville
 Korea del Norte     Corea del Norte
@@ -88,19 +105,26 @@ Lesoto              Lesoto
 Letonia             Letonia
 Liban               Líbano
 Liberia             Liberia
+Lihtenshtayn        Liechtenstein
 Litvania            Lituania
+Luksemburg          Luxemburgo
 Madagaskar          Madagascar
+Makau               Macao
 Makedonia           Macedonia
 Malawi              Malawi
+Maldivas            Maldivas
 Malezia             Malasia
 Mali                Malí
+Malta               Malta
 Maroko              Marruecos
 Masedonia           Macedonia del Norte
 Maurisius           Mauricio
 Mauritania          Mauritania
 Meksiko             Méksiko
 Moldavia            Moldavia
+Monako              Mónaco
 Mongolia            Mongolia
+Montenegro          Montenegro
 Mozambik            Mozambique
 Mueva Zelanda       Nueva Zelanda
 Namibia             Namibia
@@ -125,6 +149,9 @@ Repúblika Sentro-AfrikanaRepública Centroafricana
 Romania             Rumania
 Ruanda              Ruanda
 Rusia               Rusia
+Sahara Oksidental   República Árabe Saharaui Democrática
+San Marino          San Marino
+Santa Elena         Isla Santa Elena
 Senegal             Senegal
 Serbia              Serbia
 Sierra Leone        Sierra Leona
@@ -139,6 +166,8 @@ Sudan               Sudán
 Sudán del Sud       Sudán del Sur
 Suedia              
 Suisa               Suiza
+Surinam             Surinam
+Swaziland           Suazilandia
 Tadjikistan         Tayikistán
 Tanzania            Tanzania
 Tayland             Tailandia
@@ -153,6 +182,7 @@ Ukrayna             Ucrania
 Ungaria             Hungría
 Uruguay             Uruguay
 Uzbekistan          Uzbekistán
+Vatikán             Ciudad del Vaticano
 Venezuela           Venezuela
 Vietnam             Vietnam
 Yemen               Yemen

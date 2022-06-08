@@ -53,8 +53,8 @@ serezas
 shefteli            
 sheftelis           
 torondja            
-uva                 
-uvas                
+uva                 raisin
+uvas                raisins
 vishna              
 zirguela            prune
 zirguelas           prunes

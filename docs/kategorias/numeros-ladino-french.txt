@@ -6,8 +6,8 @@ onzen
 sesh                
 sinko               
 tres                
-uno                 
-una                 
-unos                
-unas                
+uno                 un
+una                 une
+unos                uns
+unas                unes
 zero                

@@ -12,14 +12,14 @@ avokato
 avokata             
 avokatos            
 avokatas            
-bankero             
-bankera             
-bankeros            
-bankeras            
-baylador            
-bayladera           
-bayladores          
-bayladeras          
+bankero             bancaire
+bankera             bancaire
+bankeros            bancaires
+bankeras            bancaires
+baylador            danseur
+bayladera           danseuse
+bayladores          danseurs
+bayladeras          danseuses
 bibliotekario       
 bibliotekaria       
 bibliotekarios      

@@ -3,10 +3,10 @@ araba
 arabas              
 avion               
 aviones             
-barka               
-barka motorizada    
-barko               
-barkos              
+barka               bateau
+barka motorizada    bateau motorisé
+barko               bateau
+barkos              bateaux
 bisikleta           
 bisikletas          
 funikular           

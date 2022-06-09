@@ -1,6 +1,7 @@
 Ladino             French
-banyo               
-banyos              
+balkon              balcon
+banyo               bain
+banyos              bains
 dormitorio          
 dormitorios         
 entrada             

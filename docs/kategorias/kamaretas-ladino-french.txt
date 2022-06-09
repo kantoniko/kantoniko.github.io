@@ -1,6 +1,6 @@
 Ladino             French
-banyo               
-banyos              
+banyo               bain
+banyos              bains
 buro                
 buros               
 entrada             

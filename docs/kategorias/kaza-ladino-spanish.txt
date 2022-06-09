@@ -1,4 +1,5 @@
 Ladino             Spanish
+balkon              balcón, palco
 banyo               baño
 banyos              baños
 dormitorio          dormitorio

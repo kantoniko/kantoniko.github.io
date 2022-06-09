@@ -1,4 +1,5 @@
 Ladino             Turkish
+balkon              balkon
 banyo               
 banyos              
 dormitorio          yatak odası, yatakhane

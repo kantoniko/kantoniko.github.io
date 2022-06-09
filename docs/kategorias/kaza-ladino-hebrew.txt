@@ -1,4 +1,5 @@
 Ladino             Hebrew
+balkon              
 banyo               חדר אמבטיה
 banyos              חדרי אמבטיה
 dormitorio          

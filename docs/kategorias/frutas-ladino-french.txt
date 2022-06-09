@@ -13,8 +13,8 @@ avokado
 avramila            
 avramilas           
 avyana              
-banana              
-bananas             
+banana              banane
+bananas             bananes
 bimbriyo            
 datile              
 eshkidunya          

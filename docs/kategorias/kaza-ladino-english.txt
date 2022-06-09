@@ -1,4 +1,5 @@
 Ladino             English
+balkon              balcony
 banyo               bathroom
 banyos              bathrooms
 dormitorio          bedroom, dormitory

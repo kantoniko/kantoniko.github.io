@@ -80,3 +80,8 @@ jobs:
         name: diksionaryo-ladino
         path: ladino-diksionaryo-code/pdf
 
+    - uses: actions/upload-artifact@v3
+      with:
+        name: hunspell
+        path: docs/hunspell
+

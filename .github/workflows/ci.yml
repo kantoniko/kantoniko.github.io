@@ -45,6 +45,13 @@ jobs:
         repository: 'szabgab/ladino-estamos-whatsapeando'
         path: ladino-estamos-whatsapeando
 
+    - name: Checkout the ladino-una-fraza-al-diya
+      uses: actions/checkout@v2
+      with:
+        repository: 'szabgab/ladino-una-fraza-al-diya'
+        path: ladino-una-fraza-al-diya
+
+
     - name: Install dependencies
       run: |
           printenv | sort
@@ -55,7 +62,7 @@ jobs:
       env:
         PYTHONPATH: ladino-diksionaryo-code
       run: |
-          python ladino-diksionaryo-code/ladino/generate.py --dictionary ladino-diksionaryo-data/ --html docs --all --log --whatsapp ladino-estamos-whatsapeando --sounds ladino-diksionaryo-sounds
+          python ladino-diksionaryo-code/ladino/generate.py --dictionary ladino-diksionaryo-data/ --html docs --all --log --whatsapp ladino-estamos-whatsapeando --sounds ladino-diksionaryo-sounds --unafraza ladino-una-fraza-al-diya
           echo diksionaryo.szabgab.com > docs/CNAME
 
     - name: Commit new files

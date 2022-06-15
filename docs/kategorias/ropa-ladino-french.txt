@@ -53,8 +53,8 @@ sapatos
 shal                
 shales              
 sutien              
-takia               
-takias              
+takia               calotte
+takias              calottes
 triko               
 vestido             robe
 vestidos            robes

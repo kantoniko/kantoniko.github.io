@@ -119,10 +119,10 @@ sientista
 sientistas          
 spiker              
 spikeres            
-tanyedor            
-tanyedora           
-tanyedores          
-tanyedoras          
+tanyedor            musicien
+tanyedora           musicienne
+tanyedores          musiciennes
+tanyedoras          musiciens
 traduktor           
 traduktora          
 traduktores         

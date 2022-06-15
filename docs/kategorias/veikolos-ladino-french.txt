@@ -40,8 +40,8 @@ sumarino
 sumarinos           
 taksi               
 taksis              
-teleferik           
-teleferikos         
+teleferik           téléphérique
+teleferikos         téléphériques
 tractor             
 tramvay             
 tramvayes           

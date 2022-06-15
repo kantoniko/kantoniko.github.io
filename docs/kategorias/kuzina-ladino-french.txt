@@ -24,8 +24,8 @@ prestij
 redoma              bouteille, fiole
 redomas             bouteille, fiole
 sarten              
-tasa                
-tasas               
+tasa                tasse
+tasas               tasses
 tava                
 tefsin              
 tendjere            

@@ -28,8 +28,8 @@ redoma              bouteille, fiole
 redomas             bouteille, fiole
 sako                
 sakos               
-tasa                
-tasas               
+tasa                tasse
+tasas               tasses
 tubo                
 tubos               
 varil               

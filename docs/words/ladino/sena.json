@@ -1,1 +1,1 @@
-[{"gender": "feminine", "ladino": "sena", "number": "singular", "origen": "Jeneral", "source": "sena.yaml", "translations": {"english": ["dinner"], "french": [], "portuguese": [], "spanish": ["cena"], "turkish": ["akşam yemeği"]}}]
+[{"ladino": "sena", "source": "senar.yaml", "translations": {}}, {"gender": "feminine", "ladino": "sena", "number": "singular", "origen": "Jeneral", "source": "sena.yaml", "translations": {"english": ["dinner"], "french": [], "portuguese": [], "spanish": ["cena"], "turkish": ["akşam yemeği"]}}]

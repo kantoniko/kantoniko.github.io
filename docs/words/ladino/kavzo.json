@@ -1,1 +1,1 @@
-[{"ladino": "kavzo", "number": "singular", "origen": "Jeneral", "source": "kavzo.yaml", "translations": {"english": ["case", "event"], "french": [], "portuguese": [], "spanish": ["caso"], "turkish": ["olay", "durum"]}}]
+[{"ladino": "kavzo", "source": "kavzar.yaml", "translations": {}}, {"ladino": "kavzo", "source": "kavzar.yaml", "translations": {}}, {"ladino": "kavzo", "number": "singular", "origen": "Jeneral", "source": "kavzo.yaml", "translations": {"english": ["case", "event"], "french": [], "portuguese": [], "spanish": ["caso"], "turkish": ["olay", "durum"]}}]

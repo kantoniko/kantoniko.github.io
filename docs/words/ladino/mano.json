@@ -1,1 +1,1 @@
-[{"gender": "masculine", "ladino": "mano", "number": "singular", "origen": "Jeneral", "source": "mano.yaml", "translations": {"english": ["hand"], "french": [], "portuguese": [], "spanish": ["mano"], "turkish": ["el"]}}]
+[{"ladino": "mano", "source": "manar.yaml", "translations": {}}, {"ladino": "mano", "source": "manar.yaml", "translations": {}}, {"gender": "masculine", "ladino": "mano", "number": "singular", "origen": "Jeneral", "source": "mano.yaml", "translations": {"english": ["hand"], "french": [], "portuguese": [], "spanish": ["mano"], "turkish": ["el"]}}]

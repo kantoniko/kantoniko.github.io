@@ -1,1 +1,1 @@
-[{"gender": "feminine", "ladino": "parte", "number": "singular", "origen": "Jeneral", "source": "parte.yaml", "translations": {"english": ["part", "side"], "french": [], "portuguese": [], "spanish": ["parte"], "turkish": ["kısım", "taraf", "pay"]}}]
+[{"ladino": "parte", "source": "partir.yaml", "translations": {}}, {"gender": "feminine", "ladino": "parte", "number": "singular", "origen": "Jeneral", "source": "parte.yaml", "translations": {"english": ["part", "side"], "french": [], "portuguese": [], "spanish": ["parte"], "turkish": ["kısım", "taraf", "pay"]}}]

@@ -1,1 +1,1 @@
-[{"gender": "feminine", "ladino": "fiestas", "number": "plural", "origen": "Jeneral", "source": "fiesta.yaml", "translations": {"english": ["feasts"], "french": [], "portuguese": [], "spanish": ["fiestas"], "turkish": ["bayram"]}}]
+[{"ladino": "fiestas", "source": "fiestar.yaml", "translations": {}}, {"gender": "feminine", "ladino": "fiestas", "number": "plural", "origen": "Jeneral", "source": "fiesta.yaml", "translations": {"english": ["feasts"], "french": [], "portuguese": [], "spanish": ["fiestas"], "turkish": ["bayram"]}}]

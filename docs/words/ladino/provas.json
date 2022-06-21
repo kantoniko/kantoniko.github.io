@@ -1,1 +1,1 @@
-[{"ladino": "provas", "source": "provar.yaml", "translations": {}}, {"gender": "feminine", "ladino": "provas", "number": "plural", "origen": "Jeneral", "source": "prova.yaml", "translations": {"english": ["trials", "proofs"], "french": [], "portuguese": [], "spanish": ["pruebas"], "turkish": ["prova", "ispat"]}}]
+[{"gender": "feminine", "ladino": "provas", "number": "plural", "origen": "Jeneral", "source": "prova.yaml", "translations": {"english": ["trials", "proofs"], "french": [], "portuguese": [], "spanish": ["pruebas"], "turkish": ["prova", "ispat"]}}]

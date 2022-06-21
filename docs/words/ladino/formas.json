@@ -1,1 +1,1 @@
-[{"ladino": "formas", "source": "formar.yaml", "translations": {}}, {"gender": "feminine", "ladino": "formas", "number": "plural", "origen": "Jeneral", "source": "forma.yaml", "translations": {"english": ["forms", "shapes"], "french": [], "portuguese": [], "spanish": ["formas"], "turkish": ["tarz"]}}]
+[{"gender": "feminine", "ladino": "formas", "number": "plural", "origen": "Jeneral", "source": "forma.yaml", "translations": {"english": ["forms", "shapes"], "french": [], "portuguese": [], "spanish": ["formas"], "turkish": ["tarz"]}}]

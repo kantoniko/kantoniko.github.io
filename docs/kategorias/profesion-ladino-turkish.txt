@@ -83,6 +83,7 @@ mediko              doktor
 medika              doktor
 medikos             doktor
 medikas             doktor
+merkader            
 moso                hizmetçi
 mosa                hizmetçi
 mosos               hizmetçi

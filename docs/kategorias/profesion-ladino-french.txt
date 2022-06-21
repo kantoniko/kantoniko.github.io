@@ -83,6 +83,7 @@ mediko
 medika              
 medikos             
 medikas             
+merkader            
 moso                
 mosa                
 mosos               

@@ -83,6 +83,7 @@ mediko              doctor
 medika              doctor
 medikos             doctors
 medikas             doctors
+merkader            merchant
 moso                maid, servant
 mosa                maid, servant
 mosos               maids, servants

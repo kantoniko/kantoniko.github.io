@@ -23,32 +23,32 @@ jobs:
     - name: Checkout the ladino-diksionaryo-code
       uses: actions/checkout@v2
       with:
-        repository: 'djudezmo-org/ladino-diksionaryo-code'
+        repository: 'kantoniko/ladino-diksionaryo-code'
         path: ladino-diksionaryo-code
 
     - name: Checkout the ladino-diksionaryo-data
       uses: actions/checkout@v2
       with:
-        repository: 'djudezmo-org/ladino-diksionaryo-data'
+        repository: 'kantoniko/ladino-diksionaryo-data'
         path: ladino-diksionaryo-data
 
     - name: Checkout the ladino-diksionaryo-sounds
       uses: actions/checkout@v2
       with:
-        repository: 'djudezmo-org/ladino-diksionaryo-sounds'
+        repository: 'kantoniko/ladino-diksionaryo-sounds'
         path: ladino-diksionaryo-sounds
 
 
     - name: Checkout the ladino-estamos-whatsapeando
       uses: actions/checkout@v2
       with:
-        repository: 'djudezmo-org/ladino-estamos-whatsapeando'
+        repository: 'kantoniko/ladino-estamos-whatsapeando'
         path: ladino-estamos-whatsapeando
 
     - name: Checkout the ladino-una-fraza-al-diya
       uses: actions/checkout@v2
       with:
-        repository: 'djudezmo-org/ladino-una-fraza-al-diya'
+        repository: 'kantoniko/ladino-una-fraza-al-diya'
         path: ladino-una-fraza-al-diya
 
 
@@ -66,7 +66,7 @@ jobs:
           echo diksionaryo.szabgab.com > docs/CNAME
 
     - name: Commit new files
-      if: github.repository == 'djudezmo-org/ladino-diksionaryo-generated'
+      if: github.repository == 'kantoniko/ladino-diksionaryo-generated'
       run: |
         GIT_STATUS=$(git status --porcelain docs/)
         GIT_COUNT=$(git status --porcelain docs/|wc -l)

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url><loc>https://kantoniko.com/</loc></url>
-<url><loc>https://kantoniko.com/about</loc></url>
 <url><loc>https://kantoniko.com/abreviasiones</loc></url>
 <url><loc>https://kantoniko.com/artikels</loc></url>
 <url><loc>https://kantoniko.com/dictionaries</loc></url>
+<url><loc>https://kantoniko.com/egzempios/</loc></url>
 <url><loc>https://kantoniko.com/egzempios/a</loc></url>
 <url><loc>https://kantoniko.com/egzempios/a-la-fin</loc></url>
 <url><loc>https://kantoniko.com/egzempios/a-la-fin</loc></url>
@@ -778,7 +778,6 @@
 <url><loc>https://kantoniko.com/egzempios/importar</loc></url>
 <url><loc>https://kantoniko.com/egzempios/imprimeriya</loc></url>
 <url><loc>https://kantoniko.com/egzempios/imprimir</loc></url>
-<url><loc>https://kantoniko.com/egzempios/index</loc></url>
 <url><loc>https://kantoniko.com/egzempios/indiana</loc></url>
 <url><loc>https://kantoniko.com/egzempios/indiano</loc></url>
 <url><loc>https://kantoniko.com/egzempios/inkizision</loc></url>
@@ -1548,14 +1547,15 @@
 <url><loc>https://kantoniko.com/egzempios/zerzevat</loc></url>
 <url><loc>https://kantoniko.com/egzempios/zirguela</loc></url>
 <url><loc>https://kantoniko.com/egzempios/zor</loc></url>
-<url><loc>https://kantoniko.com/en/index</loc></url>
+<url><loc>https://kantoniko.com/en/</loc></url>
+<url><loc>https://kantoniko.com/en/about</loc></url>
 <url><loc>https://kantoniko.com/english-ladino</loc></url>
 <url><loc>https://kantoniko.com/estar</loc></url>
 <url><loc>https://kantoniko.com/french-ladino</loc></url>
 <url><loc>https://kantoniko.com/gramer</loc></url>
+<url><loc>https://kantoniko.com/gramer/</loc></url>
 <url><loc>https://kantoniko.com/gramer/adjective</loc></url>
 <url><loc>https://kantoniko.com/gramer/adverb</loc></url>
-<url><loc>https://kantoniko.com/gramer/index</loc></url>
 <url><loc>https://kantoniko.com/gramer/na</loc></url>
 <url><loc>https://kantoniko.com/gramer/noun</loc></url>
 <url><loc>https://kantoniko.com/gramer/preposition</loc></url>
@@ -1563,6 +1563,7 @@
 <url><loc>https://kantoniko.com/gramer/verb</loc></url>
 <url><loc>https://kantoniko.com/hebrew-ladino</loc></url>
 <url><loc>https://kantoniko.com/karakteres</loc></url>
+<url><loc>https://kantoniko.com/kategorias/</loc></url>
 <url><loc>https://kantoniko.com/kategorias/animales</loc></url>
 <url><loc>https://kantoniko.com/kategorias/bevidas</loc></url>
 <url><loc>https://kantoniko.com/kategorias/diminutivos</loc></url>
@@ -1572,7 +1573,6 @@
 <url><loc>https://kantoniko.com/kategorias/flores</loc></url>
 <url><loc>https://kantoniko.com/kategorias/frutas</loc></url>
 <url><loc>https://kantoniko.com/kategorias/gramer</loc></url>
-<url><loc>https://kantoniko.com/kategorias/index</loc></url>
 <url><loc>https://kantoniko.com/kategorias/insektos</loc></url>
 <url><loc>https://kantoniko.com/kategorias/kamareta-de-echar</loc></url>
 <url><loc>https://kantoniko.com/kategorias/kamaretas</loc></url>
@@ -1608,9 +1608,9 @@
 <url><loc>https://kantoniko.com/ladino-portuguese</loc></url>
 <url><loc>https://kantoniko.com/ladino-spanish</loc></url>
 <url><loc>https://kantoniko.com/ladino-turkish</loc></url>
+<url><loc>https://kantoniko.com/listas/</loc></url>
 <url><loc>https://kantoniko.com/listas/dias-de-la-semana</loc></url>
 <url><loc>https://kantoniko.com/listas/enverano</loc></url>
-<url><loc>https://kantoniko.com/listas/index</loc></url>
 <url><loc>https://kantoniko.com/listas/invierno</loc></url>
 <url><loc>https://kantoniko.com/listas/kontrarios</loc></url>
 <url><loc>https://kantoniko.com/listas/mezes</loc></url>
@@ -1620,12 +1620,12 @@
 <url><loc>https://kantoniko.com/lists</loc></url>
 <url><loc>https://kantoniko.com/nombres</loc></url>
 <url><loc>https://kantoniko.com/numeros</loc></url>
+<url><loc>https://kantoniko.com/origenes/</loc></url>
 <url><loc>https://kantoniko.com/origenes/aki yerushalayim</loc></url>
 <url><loc>https://kantoniko.com/origenes/balkanes</loc></url>
 <url><loc>https://kantoniko.com/origenes/ebreo</loc></url>
 <url><loc>https://kantoniko.com/origenes/estanbol</loc></url>
 <url><loc>https://kantoniko.com/origenes/gresia</loc></url>
-<url><loc>https://kantoniko.com/origenes/index</loc></url>
 <url><loc>https://kantoniko.com/origenes/izmir</loc></url>
 <url><loc>https://kantoniko.com/origenes/jeneral</loc></url>
 <url><loc>https://kantoniko.com/origenes/ladinadores</loc></url>
@@ -1641,7 +1641,9 @@
 <url><loc>https://kantoniko.com/ser</loc></url>
 <url><loc>https://kantoniko.com/sivdades</loc></url>
 <url><loc>https://kantoniko.com/spanish-ladino</loc></url>
+<url><loc>https://kantoniko.com/statistika</loc></url>
 <url><loc>https://kantoniko.com/turkish-ladino</loc></url>
+<url><loc>https://kantoniko.com/ufad/</loc></url>
 <url><loc>https://kantoniko.com/ufad/1.01-me-esto-ambezando-el-judeo-espanyol</loc></url>
 <url><loc>https://kantoniko.com/ufad/1.02-yo-me-alevanto-a-las-siete-kada-dia</loc></url>
 <url><loc>https://kantoniko.com/ufad/1.03.-me-plaze-meldar</loc></url>
@@ -1937,7 +1939,7 @@
 <url><loc>https://kantoniko.com/ufad/97-eyos-keren-una-kaza-afuera-de-la-sivdad</loc></url>
 <url><loc>https://kantoniko.com/ufad/98-en-enverano-sara-i-moshe-se-van-a-büyükada</loc></url>
 <url><loc>https://kantoniko.com/ufad/99-eyos-tienen-una-kaza-en-büyükada</loc></url>
-<url><loc>https://kantoniko.com/ufad/index</loc></url>
+<url><loc>https://kantoniko.com/verbos/</loc></url>
 <url><loc>https://kantoniko.com/verbos/abandonar</loc></url>
 <url><loc>https://kantoniko.com/verbos/abashar</loc></url>
 <url><loc>https://kantoniko.com/verbos/abastar</loc></url>
@@ -2263,7 +2265,6 @@
 <url><loc>https://kantoniko.com/verbos/importar</loc></url>
 <url><loc>https://kantoniko.com/verbos/imprimir</loc></url>
 <url><loc>https://kantoniko.com/verbos/inchir</loc></url>
-<url><loc>https://kantoniko.com/verbos/index</loc></url>
 <url><loc>https://kantoniko.com/verbos/informar</loc></url>
 <url><loc>https://kantoniko.com/verbos/inisiar</loc></url>
 <url><loc>https://kantoniko.com/verbos/inklinar</loc></url>
@@ -2549,6 +2550,7 @@
 <url><loc>https://kantoniko.com/verbos/yerrarse</loc></url>
 <url><loc>https://kantoniko.com/verbos/yevar</loc></url>
 <url><loc>https://kantoniko.com/verbos/yorar</loc></url>
+<url><loc>https://kantoniko.com/whatsapeando/</loc></url>
 <url><loc>https://kantoniko.com/whatsapeando/akel-tyempo-adovar</loc></url>
 <url><loc>https://kantoniko.com/whatsapeando/akel-tyempo-akeya-noche-en-izmir</loc></url>
 <url><loc>https://kantoniko.com/whatsapeando/akel-tyempo-alevantar</loc></url>
@@ -2734,7 +2736,6 @@
 <url><loc>https://kantoniko.com/whatsapeando/de-aki-de-aya-semana</loc></url>
 <url><loc>https://kantoniko.com/whatsapeando/de-aki-de-aya-trokar</loc></url>
 <url><loc>https://kantoniko.com/whatsapeando/este-tyempo-banana-kon-kezo</loc></url>
-<url><loc>https://kantoniko.com/whatsapeando/index</loc></url>
 <url><loc>https://kantoniko.com/whatsapeando/ken-es-este-aguzador</loc></url>
 <url><loc>https://kantoniko.com/whatsapeando/ken-es-este-eskidji</loc></url>
 <url><loc>https://kantoniko.com/whatsapeando/ken-es-este-hallachi</loc></url>
@@ -2929,7 +2930,8 @@
 <url><loc>https://kantoniko.com/whatsapeando/timbros-i-la-kultura-sefaradi-yitzhak-ben-shelomo</loc></url>
 <url><loc>https://kantoniko.com/whatsapeando/timbros-i-la-kultura-sefaradi-yosef-karo</loc></url>
 <url><loc>https://kantoniko.com/whatsapeando/yag-satarim-bal-satarim</loc></url>
-<url><loc>https://kantoniko.com/words/index</loc></url>
+<url><loc>https://kantoniko.com/words/</loc></url>
+<url><loc>https://kantoniko.com/words/ladino/</loc></url>
 <url><loc>https://kantoniko.com/words/ladino/'haiti</loc></url>
 <url><loc>https://kantoniko.com/words/ladino/'holanda</loc></url>
 <url><loc>https://kantoniko.com/words/ladino/'holandeza</loc></url>
@@ -5240,7 +5242,6 @@
 <url><loc>https://kantoniko.com/words/ladino/indechizo</loc></url>
 <url><loc>https://kantoniko.com/words/ladino/indechizos</loc></url>
 <url><loc>https://kantoniko.com/words/ladino/indemas</loc></url>
-<url><loc>https://kantoniko.com/words/ladino/index</loc></url>
 <url><loc>https://kantoniko.com/words/ladino/india</loc></url>
 <url><loc>https://kantoniko.com/words/ladino/indiana</loc></url>
 <url><loc>https://kantoniko.com/words/ladino/indianas</loc></url>

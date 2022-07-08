@@ -32,6 +32,13 @@ jobs:
         repository: 'kantoniko/ladino-diksionaryo-data'
         path: ladino-diksionaryo-data
 
+    - name: Checkout ladino-pages
+      uses: actions/checkout@v2
+      with:
+        repository: 'kantoniko/ladino-pages'
+        path: ladino-pages
+
+
     - name: Checkout the ladino-diksionaryo-sounds
       uses: actions/checkout@v2
       with:
@@ -62,7 +69,7 @@ jobs:
       env:
         PYTHONPATH: ladino-diksionaryo-code
       run: |
-          python ladino-diksionaryo-code/ladino/generate.py --dictionary ladino-diksionaryo-data/ --html docs --all --log --whatsapp ladino-estamos-whatsapeando --sounds ladino-diksionaryo-sounds --unafraza ladino-una-fraza-al-diya
+          python ladino-diksionaryo-code/ladino/generate.py --dictionary ladino-diksionaryo-data/ --html docs --all --log --whatsapp ladino-estamos-whatsapeando --sounds ladino-diksionaryo-sounds --unafraza ladino-una-fraza-al-diya --pages ladino-pages
           echo kantoniko.com > docs/CNAME
 
     - name: Commit new files

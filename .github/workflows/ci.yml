@@ -58,6 +58,12 @@ jobs:
         repository: 'kantoniko/ladino-una-fraza-al-diya'
         path: ladino-una-fraza-al-diya
 
+    - name: Checkout ladino-hola-lola
+      uses: actions/checkout@v2
+      with:
+        repository: 'kantoniko/ladino-hola-lola'
+        path: ladino-hola-lola
+
 
     - name: Install dependencies
       run: |
@@ -69,7 +75,7 @@ jobs:
       env:
         PYTHONPATH: ladino-diksionaryo-code
       run: |
-          python ladino-diksionaryo-code/ladino/generate.py --dictionary ladino-diksionaryo-data/ --html docs --all --log --whatsapp ladino-estamos-whatsapeando --sounds ladino-diksionaryo-sounds --unafraza ladino-una-fraza-al-diya --pages ladino-pages
+          python ladino-diksionaryo-code/ladino/generate.py --dictionary ladino-diksionaryo-data/ --html docs --all --log --whatsapp ladino-estamos-whatsapeando --sounds ladino-diksionaryo-sounds --unafraza ladino-una-fraza-al-diya --pages ladino-pages --books ladino-hola-lola
           echo kantoniko.com > docs/CNAME
 
     - name: Commit new files

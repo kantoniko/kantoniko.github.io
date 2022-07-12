@@ -1,1 +1,1 @@
-[{"gender": "feminine", "ladino": "kaza", "number": "singular", "origen": "Jeneral", "source": "kaza.yaml", "translations": {"english": ["house", "home"], "french": [], "portuguese": [], "spanish": ["casa"], "turkish": ["ev"]}}]
+[{"examples": [{"ladino": "En el enverano moz kedamos en kaza."}], "gender": "feminine", "ladino": "kaza", "number": "singular", "origen": "Jeneral", "source": "kaza.yaml", "translations": {"english": ["house", "home"], "french": [], "hebrew": ["בית"], "portuguese": [], "spanish": ["casa"], "turkish": ["ev"]}}]

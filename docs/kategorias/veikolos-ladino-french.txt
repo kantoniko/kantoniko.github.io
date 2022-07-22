@@ -1,8 +1,8 @@
 Ladino             French
 araba               
 arabas              
-avion               
-aviones             
+avion               avion
+aviones             aviones
 barka               bateau
 barka motorizada    bateau motorisé
 barko               bateau

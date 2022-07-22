@@ -8,10 +8,10 @@ arkitekto
 arkitekta           
 arkitektos          
 arkitektas          
-avokato             
-avokata             
-avokatos            
-avokatas            
+avokato             avocat
+avokata             avocate
+avokatos            avocats
+avokatas            avocates
 bankero             bancaire
 bankera             bancaire
 bankeros            bancaires

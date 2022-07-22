@@ -1,10 +1,18 @@
 Ladino             Spanish
+israeliano          israelí
+israeliana          israelí
+israelianos         israelis
+israelianas         israelis
 izmirli             de Izmir
 izmirlis            de Izmir
 olandez             holandés
 olandeza            holandesa
 olandezes           holandeses
 olandezas           holandesas
+palestiniano        palestino
+palestiniana        palestina
+palestinianos       palestinos
+palestinianas       palestinas
 suediano            sueco
 suediana            sueca
 suedianos           suecos

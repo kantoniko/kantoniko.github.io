@@ -12,6 +12,9 @@ jobs:
     name: Generate HTML
 
     steps:
+    - name: Setup Pages
+      uses: actions/configure-pages@v2
+
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
@@ -80,25 +83,28 @@ jobs:
       env:
         PYTHONPATH: ladino-diksionaryo-code
       run: |
-          python ladino-diksionaryo-code/ladino/generate.py --dictionary ladino-diksionaryo-data/ --html docs --all --log --whatsapp ladino-estamos-whatsapeando --sounds ladino-diksionaryo-sounds --unafraza ladino-una-fraza-al-diya --pages ladino-pages --books ladino-salu-lulu --ladinadores ladino-los-ladinadores
-          echo kantoniko.com > docs/CNAME
+          python ladino-diksionaryo-code/ladino/generate.py --dictionary ladino-diksionaryo-data/ --html _site --all --log --whatsapp ladino-estamos-whatsapeando --sounds ladino-diksionaryo-sounds --unafraza ladino-una-fraza-al-diya --pages ladino-pages --books ladino-salu-lulu --ladinadores ladino-los-ladinadores
+          echo kantoniko.com > _site/CNAME
 
-    - name: Commit new files
-      if: github.repository == 'kantoniko/ladino-diksionaryo-generated'
-      run: |
-        GIT_STATUS=$(git status --porcelain docs/)
-        GIT_COUNT=$(git status --porcelain docs/|wc -l)
-        echo $GIT_STATUS
-        echo "count=$GIT_COUNT"
-        git config --global user.name 'Gabor Szabo'
-        git config --global user.email 'gabor@szabgab.com'
-        git add docs/
-        #if [ "$GIT_STATUS" != "" ] && [ "$GIT_COUNT" != "1" ]; then git commit -m "Automated Web page generation"; fi
-        #if [ "$GIT_STATUS" != "" ] && [ "$GIT_COUNT" != "1" ]; then git push; fi
-        #if [ $GIT_COUNT -gt 1 ]; then git commit -m "Automated Web page generation"; fi
-        #if [ $GIT_COUNT -gt 1 ]; then git push; fi
-        git commit -m "Automated Web page generation"
-        git push
+    - name: Upload artifact
+      uses: actions/upload-pages-artifact@v1
+
+    #- name: Commit new files
+    #  if: github.repository == 'kantoniko/ladino-diksionaryo-generated'
+    #  run: |
+    #    GIT_STATUS=$(git status --porcelain docs/)
+    #    GIT_COUNT=$(git status --porcelain docs/|wc -l)
+    #    echo $GIT_STATUS
+    #    echo "count=$GIT_COUNT"
+    #    git config --global user.name 'Gabor Szabo'
+    #    git config --global user.email 'gabor@szabgab.com'
+    #    git add docs/
+    #    #if [ "$GIT_STATUS" != "" ] && [ "$GIT_COUNT" != "1" ]; then git commit -m "Automated Web page generation"; fi
+    #    #if [ "$GIT_STATUS" != "" ] && [ "$GIT_COUNT" != "1" ]; then git push; fi
+    #    #if [ $GIT_COUNT -gt 1 ]; then git commit -m "Automated Web page generation"; fi
+    #    #if [ $GIT_COUNT -gt 1 ]; then git push; fi
+    #    git commit -m "Automated Web page generation"
+    #    git push
 
     - uses: actions/upload-artifact@v3
       with:
@@ -108,5 +114,18 @@ jobs:
     - uses: actions/upload-artifact@v3
       with:
         name: hunspell
-        path: docs/hunspell
+        path: _site/hunspell
 
+
+  # Deployment job
+  deploy:
+    if: github.ref == 'refs/heads/main'
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v1

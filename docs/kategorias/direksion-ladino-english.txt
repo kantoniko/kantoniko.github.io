@@ -1,9 +1,0 @@
-Ladino             English
-abasho              down, downwards, below
-arriva              up, on the top, upstairs
-este                east
-norte               north
-oeste               west
-oksidente           west
-oriente             east, orient
-sud                 south

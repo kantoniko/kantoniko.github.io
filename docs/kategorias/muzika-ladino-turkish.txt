@@ -1,3 +1,0 @@
-Ladino             Turkish
-tambur              davul
-tambures            davul

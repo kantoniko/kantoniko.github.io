@@ -1,9 +1,0 @@
-Ladino             Spanish
-abasho              abajo
-arriva              arriba
-este                este
-norte               norte
-oeste               oeste
-oksidente           occidente
-oriente             oriente
-sud                 sur

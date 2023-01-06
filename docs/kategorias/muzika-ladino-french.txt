@@ -1,3 +1,0 @@
-Ladino             French
-tambur              tambour
-tambures            tambours

@@ -1,1 +1,1 @@
-[{"ladino": "tenesh", "source": "tener.yaml", "translations": {"english": ["have"], "spanish": ["teneis"]}}]
+[{"ladino": "tenesh", "source": "tener.yaml", "translations": {"english": ["have"], "spanish": ["teneis"]}, "xexamples": [{"example": {"english": "You have one son.", "ladino": "Vozotros tenesh un ijo.", "ladino_html": "<a href=\"/words/ladino/vozotros\">Vozotros</a> <a href=\"/words/ladino/tenesh\">tenesh</a> <a href=\"/words/ladino/un\">un</a> <a href=\"/words/ladino/ijo\">ijo</a>."}, "source": "famiya.yaml", "url": "vozotros-tenesh-un-ijo"}]}]

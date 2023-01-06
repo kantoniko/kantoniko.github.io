@@ -1,1 +1,1 @@
-[{"ladino": "keremos", "source": "kerer.yaml", "translations": {"english": ["want"], "spanish": ["queremos"]}}]
+[{"ladino": "keremos", "source": "kerer.yaml", "translations": {"english": ["want"], "spanish": ["queremos"]}, "xexamples": [{"example": {"english": "We want substantial content.", "ladino": "Keremos kontenidos sostansiozos", "ladino_html": "<a href=\"/words/ladino/keremos\">Keremos</a> <a href=\"/words/ladino/kontenidos\">kontenidos</a> sostansiozos"}, "source": "sentences.yaml", "url": "keremos-kontenidos-sostansiozos"}]}]

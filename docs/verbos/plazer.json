@@ -1,1 +1,1 @@
-{"prezente": {"yo": {"ladino": "plaze", "source": "plazer.yaml", "translations": {"english": ["like"]}}}}
+{"prezente": {"yo": {"ladino": "plaze", "source": "plazer.yaml", "translations": {"english": ["like"]}, "xexamples": [{"example": {"english": "How do you like the city?", "ladino": "Komo te plaze la sivdad?"}, "source": "questions.yaml", "url": "komo-te-plaze-la-sivdad"}]}}}

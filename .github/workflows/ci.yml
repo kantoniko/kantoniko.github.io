@@ -98,23 +98,6 @@ jobs:
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v1
 
-    #- name: Commit new files
-    #  if: github.repository == 'kantoniko/ladino-diksionaryo-generated'
-    #  run: |
-    #    GIT_STATUS=$(git status --porcelain docs/)
-    #    GIT_COUNT=$(git status --porcelain docs/|wc -l)
-    #    echo $GIT_STATUS
-    #    echo "count=$GIT_COUNT"
-    #    git config --global user.name 'Gabor Szabo'
-    #    git config --global user.email 'gabor@szabgab.com'
-    #    git add docs/
-    #    #if [ "$GIT_STATUS" != "" ] && [ "$GIT_COUNT" != "1" ]; then git commit -m "Automated Web page generation"; fi
-    #    #if [ "$GIT_STATUS" != "" ] && [ "$GIT_COUNT" != "1" ]; then git push; fi
-    #    #if [ $GIT_COUNT -gt 1 ]; then git commit -m "Automated Web page generation"; fi
-    #    #if [ $GIT_COUNT -gt 1 ]; then git push; fi
-    #    git commit -m "Automated Web page generation"
-    #    git push
-
     - uses: actions/upload-artifact@v3
       with:
         name: diksionaryo-ladino

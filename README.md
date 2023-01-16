@@ -1,10 +1,14 @@
-Online Ladino dictionary
+# Kantoniko - Ladino web site and dictionary
 
-The content of this repo is generated using the GitHub Action job in `.github/workflows/ci.yml`
-and it is displayed on https://kantoniko.com/
+This repo generates the web site called [Kantoniko](https://kantoniko.com/) using the GitHub Action job in `.github/workflows/ci.yml`.
 
-Do **NOT** edit the files in the `docs/` directory. Go to the source and edit the files there:
+The source of the code is in https://github.com/kantoniko/ladino-diksionaryo-code/
 
-The source of the code is in https://github.com/szabgab/ladino-diksionaryo-code/
+The source of the data is in https://github.com/kantoniko/ladino-diksionaryo-data/
 
-The source of the data is in https://github.com/szabgab/ladino-diksionaryo-data/
+It includes content from several other repositories listed here: https://github.com/kantoniko/
+
+
+Copyright: Gabor Szabo
+
+License: each repository has its own license.

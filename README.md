@@ -4,9 +4,7 @@ This repo generates the web site called [Kantoniko](https://kantoniko.com/) usin
 
 The source of the code is in https://github.com/kantoniko/ladino-diksionaryo-code/
 
-The source of the data is in https://github.com/kantoniko/ladino-diksionaryo-data/
-
-It includes content from several other repositories listed here: https://github.com/kantoniko/
+It includes content from several repositories listed here: https://github.com/kantoniko/
 
 
 Copyright: Gabor Szabo

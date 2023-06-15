@@ -31,6 +31,9 @@ jobs:
 
     - name: Checkout this repo
       uses: actions/checkout@v3
+      with:
+        repository: 'kantoniko/kantoniko.github.io'
+        path: kantoniko.github.io
 
     - name: Checkout the ladino-diksionaryo-code
       uses: actions/checkout@v3
@@ -95,11 +98,8 @@ jobs:
           pip install -r ladino-diksionaryo-code/requirements.txt
 
     - name: Generate HTML pages
-      env:
-        PYTHONPATH: ladino-diksionaryo-code
       run: |
-          python ladino-diksionaryo-code/ladino/generate.py --dictionary ladino-diksionaryo-data/ --html _site --all --log --whatsapp ladino-estamos-whatsapeando --sounds ladino-diksionaryo-sounds --unafraza ladino-una-fraza-al-diya --pages ladino-pages --books ladino-salu-lulu --ladinadores ladino-los-ladinadores --enkontros enkontros-de-alhad
-          echo kantoniko.com > _site/CNAME
+          kantoniko.github.io/generate.sh
 
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v1

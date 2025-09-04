@@ -30,62 +30,62 @@ jobs:
         python-version: 3.9
 
     - name: Checkout this repo
-      uses: actions/checkout@v4
+      uses: actions/checkout@v5
       with:
         repository: 'kantoniko/kantoniko.github.io'
         path: kantoniko.github.io
 
     - name: Checkout the ladino-diksionaryo-code
-      uses: actions/checkout@v4
+      uses: actions/checkout@v5
       with:
         repository: 'kantoniko/ladino-diksionaryo-code'
         path: ladino-diksionaryo-code
 
     - name: Checkout the ladino-diksionaryo-data
-      uses: actions/checkout@v4
+      uses: actions/checkout@v5
       with:
         repository: 'kantoniko/ladino-diksionaryo-data'
         path: ladino-diksionaryo-data
 
     - name: Checkout ladino-pages
-      uses: actions/checkout@v4
+      uses: actions/checkout@v5
       with:
         repository: 'kantoniko/ladino-pages'
         path: ladino-pages
 
     - name: Checkout Enkontros de Alhad
-      uses: actions/checkout@v4
+      uses: actions/checkout@v5
       with:
         repository: 'kantoniko/enkontros-de-alhad'
         path: enkontros-de-alhad
 
 
     - name: Checkout the ladino-diksionaryo-sounds
-      uses: actions/checkout@v4
+      uses: actions/checkout@v5
       with:
         repository: 'kantoniko/ladino-diksionaryo-sounds'
         path: ladino-diksionaryo-sounds
 
     - name: Checkout ladino-los-ladinadores
-      uses: actions/checkout@v4
+      uses: actions/checkout@v5
       with:
         repository: 'kantoniko/ladino-los-ladinadores'
         path: ladino-los-ladinadores
 
     - name: Checkout the ladino-estamos-whatsapeando
-      uses: actions/checkout@v4
+      uses: actions/checkout@v5
       with:
         repository: 'kantoniko/ladino-estamos-whatsapeando'
         path: ladino-estamos-whatsapeando
 
     - name: Checkout the ladino-una-fraza-al-diya
-      uses: actions/checkout@v4
+      uses: actions/checkout@v5
       with:
         repository: 'kantoniko/ladino-una-fraza-al-diya'
         path: ladino-una-fraza-al-diya
 
     - name: Checkout ladino-salu-lulu
-      uses: actions/checkout@v4
+      uses: actions/checkout@v5
       with:
         repository: 'kantoniko/ladino-salu-lulu'
         path: ladino-salu-lulu

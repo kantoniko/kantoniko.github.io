@@ -104,12 +104,12 @@ jobs:
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v1
 
-    - uses: actions/upload-artifact@v3
+    - uses: actions/upload-artifact@v4
       with:
         name: diksionaryo-ladino
         path: ladino-diksionaryo-code/pdf
 
-    - uses: actions/upload-artifact@v3
+    - uses: actions/upload-artifact@v4
       with:
         name: hunspell
         path: _site/hunspell
